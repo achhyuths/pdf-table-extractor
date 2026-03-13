@@ -1,4 +1,390 @@
 Company,Report,Period,Page,Table_Index,Heading,Image_Path,Rows,Columns
+AAPL,_10-K-2025-As-Filed,2025,3,1,Part I,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p03_t01.png,7,3
+AAPL,_10-K-2025-As-Filed,2025,3,2,Part II,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p03_t02.png,9,1
+AAPL,_10-K-2025-As-Filed,2025,6,1,The Company’s ability to compete successfully depends heavily on ensuring the co,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p06_t01.png,54,1
+AAPL,_10-K-2025-As-Filed,2025,7,1,"In addition to Company-owned intellectual property, many of the Company’s produc",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p07_t01.png,43,1
+AAPL,_10-K-2025-As-Filed,2025,9,1,"The Company’s business can be impacted by political events, trade and other inte",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p09_t01.png,57,1
+AAPL,_10-K-2025-As-Filed,2025,10,1,"Following any interruption to its business, the Company can require substantial ",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p10_t01.png,44,1
+AAPL,_10-K-2025-As-Filed,2025,11,1,Business Risks,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p11_t01.png,55,1
+AAPL,_10-K-2025-As-Filed,2025,12,1,The Company’s products and services may be affected from time to time by design ,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p12_t01.png,50,1
+AAPL,_10-K-2025-As-Filed,2025,13,1,The Company’s future performance depends in part on support from third-party sof,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p13_t01.png,52,1
+AAPL,_10-K-2025-As-Filed,2025,14,1,The Company depends on the performance of carriers and other resellers.,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p14_t01.png,48,1
+AAPL,_10-K-2025-As-Filed,2025,15,1,"As with all companies, the security the Company has implemented may not be suffi",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p15_t01.png,48,1
+AAPL,_10-K-2025-As-Filed,2025,16,1,The outcome of litigation or government investigations is inherently uncertain. ,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p16_t01.png,53,1
+AAPL,_10-K-2025-As-Filed,2025,17,1,"The technology industry, including, in some instances, the Company, is subject t",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p17_t01.png,50,1
+AAPL,_10-K-2025-As-Filed,2025,18,1,"The Company’s business is subject to a variety of U.S. and international laws, r",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p18_t01.png,56,1
+AAPL,_10-K-2025-As-Filed,2025,19,1,"Conversely, a strengthening of foreign currencies relative to the U.S. dollar, w",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p19_t01.png,46,1
+AAPL,_10-K-2025-As-Filed,2025,22,1,Periods Purchased Share Programs or Programs (1),data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p22_t01.png,8,1
+AAPL,_10-K-2025-As-Filed,2025,23,1,Apple Inc. $  100  $  132  $  136  $  155  $  208  $  234,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p23_t01.png,2,1
+AAPL,_10-K-2025-As-Filed,2025,25,1,"Americas $  178,353   7 % $  167,045   3 % $  162,560",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p25_t01.png,5,1
+AAPL,_10-K-2025-As-Filed,2025,26,1,"iPhone $  209,586   4 % $  201,183   — % $  200,583",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p26_t01.png,5,1
+AAPL,_10-K-2025-As-Filed,2025,27,1,Gross margin:,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p27_t01.png,3,1
+AAPL,_10-K-2025-As-Filed,2025,27,2,Gross margin percentage:,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p27_t02.png,3,2
+AAPL,_10-K-2025-As-Filed,2025,27,3,"Research and development $  34,550   10 % $  31,370   5 % $  29,915",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p27_t03.png,5,1
+AAPL,_10-K-2025-As-Filed,2025,28,1,"Provision for income taxes $  20,719  $  29,749  $  16,741",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p28_t01.png,2,1
+AAPL,_10-K-2025-As-Filed,2025,29,1,Capital Return Program,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p29_t01.png,51,1
+AAPL,_10-K-2025-As-Filed,2025,30,1,Legal and Other Contingencies,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p30_t01.png,37,1
+AAPL,_10-K-2025-As-Filed,2025,31,1,"Consolidated Statements of Operations for the years ended September 27, 2025, September 28, 2024 and",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p31_t01.png,6,3
+AAPL,_10-K-2025-As-Filed,2025,32,1,Net sales:,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p32_t01.png,28,1
+AAPL,_10-K-2025-As-Filed,2025,33,1,"Net income $  112,010  $  93,736  $  96,995",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p33_t01.png,15,1
+AAPL,_10-K-2025-As-Filed,2025,34,1,CONSOLIDATED BALANCE SHEETS,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p34_t01.png,40,2
+AAPL,_10-K-2025-As-Filed,2025,35,1,"Total shareholders’ equity, beginning balances $  56,950  $  62,146  $  50,672",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p35_t01.png,24,1
+AAPL,_10-K-2025-As-Filed,2025,36,1,"balances $  29,943  $  30,737  $  24,977",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p36_t01.png,39,2
+AAPL,_10-K-2025-As-Filed,2025,37,1,Apple Inc.,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p37_t01.png,38,1
+AAPL,_10-K-2025-As-Filed,2025,38,1,Derivative Instruments,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p38_t01.png,46,1
+AAPL,_10-K-2025-As-Filed,2025,39,1,"iPhone $  209,586  $  201,183  $  200,583",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p39_t01.png,7,1
+AAPL,_10-K-2025-As-Filed,2025,39,2,Numerator:,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p39_t02.png,9,1
+AAPL,_10-K-2025-As-Filed,2025,40,1,"Cash $  28,267  $  —  $  —  $  28,267  $  28,267  $  —  $  —",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p40_t01.png,15,1
+AAPL,_10-K-2025-As-Filed,2025,40,2,"Cash $  27,199  $  —  $  —  $  27,199  $  27,199  $  —  $  —",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p40_t02.png,15,1
+AAPL,_10-K-2025-As-Filed,2025,41,1,"As of September 27, 2025, 80% of the Company’s non-current marketable debt secur",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p41_t01.png,43,1
+AAPL,_10-K-2025-As-Filed,2025,42,1,Derivative instruments designated as accounting hedges:,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p42_t01.png,5,1
+AAPL,_10-K-2025-As-Filed,2025,42,2,"Land and buildings $  27,337  $  24,690",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p42_t02.png,5,1
+AAPL,_10-K-2025-As-Filed,2025,43,1,"Deferred tax assets $  20,777  $  19,499",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p43_t01.png,2,1
+AAPL,_10-K-2025-As-Filed,2025,43,2,"Income taxes payable $  13,016  $  26,601",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p43_t02.png,3,1
+AAPL,_10-K-2025-As-Filed,2025,43,3,Federal:,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p43_t03.png,12,1
+AAPL,_10-K-2025-As-Filed,2025,44,1,"Computed expected tax $  27,873  $  25,932  $  23,885",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p44_t01.png,7,1
+AAPL,_10-K-2025-As-Filed,2025,44,2,Deferred tax assets:,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p44_t02.png,16,1
+AAPL,_10-K-2025-As-Filed,2025,45,1,"Beginning balances $  22,038  $  19,454  $  16,758",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p45_t01.png,6,1
+AAPL,_10-K-2025-As-Filed,2025,45,3,Right-of-use assets:,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p45_t03.png,10,1
+AAPL,_10-K-2025-As-Filed,2025,46,1,Leases Leases Total,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p46_t01.png,8,1
+AAPL,_10-K-2025-As-Filed,2025,46,2,Maturities 90 days or less:,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p46_t02.png,8,3
+AAPL,_10-K-2025-As-Filed,2025,47,1,2013 – 2023 debt issuances:,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p47_t01.png,11,1
+AAPL,_10-K-2025-As-Filed,2025,47,2,"applicable, adjustments related to hedging. — The future principal payments for the Company’s Notes as of September 27, 2025, are as follows (in millions):",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p47_t02.png,7,2
+AAPL,_10-K-2025-As-Filed,2025,48,1,"Common stock outstanding, beginning balances   15,116,786    15,550,061    15,943,425",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p48_t01.png,3,3
+AAPL,_10-K-2025-As-Filed,2025,48,2,RSUs Grant-Date Fair,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p48_t02.png,4,1
+AAPL,_10-K-2025-As-Filed,2025,49,1,"arrangements, licensed intellectual property and content, and distribution rights. Future payments under unconditional purchase — obligations with a remaining term in excess of one year as of September 27, 2025, are as follows (in millions):",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p49_t01.png,6,1
+AAPL,_10-K-2025-As-Filed,2025,50,1,"Net sales $  178,353  $  111,032  $  64,377  $  28,703  $  33,696  $  —  $  416,161",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p50_t01.png,5,1
+AAPL,_10-K-2025-As-Filed,2025,50,2,"Net sales $  167,045  $  101,328  $  66,952  $  25,052  $  30,658  $  —  $  391,035",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p50_t02.png,5,1
+AAPL,_10-K-2025-As-Filed,2025,50,3,"Net sales $  162,560  $  94,294  $  72,559  $  24,257  $  29,615  $  —  $  383,285",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p50_t03.png,5,1
+AAPL,_10-K-2025-As-Filed,2025,51,1,Net sales:,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p51_t01.png,4,1
+AAPL,_10-K-2025-As-Filed,2025,51,2,Long-lived assets:,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p51_t02.png,4,3
+AAPL,_10-K-2025-As-Filed,2025,52,1,Report of Independent Registered Public Accounting Firm,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p52_t01.png,43,1
+AAPL,_10-K-2025-As-Filed,2025,54,1,Report of Independent Registered Public Accounting Firm,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p54_t01.png,43,1
+AAPL,_10-K-2025-As-Filed,2025,57,1,"Consolidated Statements of Operations for the years ended September 27, 2025, September 28, 2024 and",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p57_t01.png,6,3
+AAPL,_10-K-2025-As-Filed,2025,58,1,Incorporated by Reference,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p58_t01.png,79,11
+AAPL,_10-K-2025-As-Filed,2025,59,1,Filing Date/,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p59_t01.png,49,12
+AAPL,_10-K-2025-As-Filed,2025,60,1,Incorporated by Reference,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p60_t01.png,18,1
+AAPL,_10-K-2025-As-Filed,2025,65,3,The Notes are our senior unsecured indebtedness and rank equally with each other and with all of our other,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p65_t03.png,7,1
+AAPL,_10-K-2025-As-Filed,2025,66,1,The terms of the Notes state that all payments of principal and interest in respect of the Notes will be made,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p66_t01.png,4,1
+AAPL,_10-K-2025-As-Filed,2025,67,1,“United States person” means any individual who is a citizen or resident of the United States for U.S. federal income,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p67_t01.png,4,1
+AAPL,_10-K-2025-As-Filed,2025,67,2,"If, as a result of any change in, or amendment to, or, in the case of the 2025 Notes and the 2031 Notes,",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p67_t02.png,3,1
+AAPL,_10-K-2025-As-Filed,2025,67,3,"announced or becomes effective on or after the date of the applicable prospectus supplement, we become, or based",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p67_t03.png,3,1
+AAPL,_10-K-2025-As-Filed,2025,68,4,"independent investment bank in its discretion determines that such similar bond is not in issue, such other German",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p68_t04.png,3,1
+AAPL,_10-K-2025-As-Filed,2025,69,1,"“Comparable Government Bond” means, in relation to any Comparable Government Bond Rate calculation",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p69_t01.png,6,1
+AAPL,_10-K-2025-As-Filed,2025,69,2,"“Comparable Government Bond Rate” means the price, expressed as a percentage (rounded to three",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p69_t02.png,5,1
+AAPL,_10-K-2025-As-Filed,2025,70,1,Each of the following events are defined in the Indentures as an “event of default” (whatever the reason for,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p70_t01.png,3,1
+AAPL,_10-K-2025-As-Filed,2025,70,3,"(3)  default in the performance, or breach, of any covenant or agreement of ours in the applicable Indenture",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p70_t03.png,8,1
+AAPL,_10-K-2025-As-Filed,2025,71,1,"Unknown Table (Page 71, Table 1)",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p71_t01.png,4,2
+AAPL,_10-K-2025-As-Filed,2025,71,2,"debt securities of such series, and in the case of the 2018 Indenture, at least 33% in aggregate principal amount of",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p71_t02.png,7,2
+AAPL,_10-K-2025-As-Filed,2025,71,3,declaration or other act on the part of the trustee or any holders.,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p71_t03.png,5,2
+AAPL,_10-K-2025-As-Filed,2025,71,5,notice of such continuing event of default with respect to the debt securities of such series;,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p71_t05.png,4,2
+AAPL,_10-K-2025-As-Filed,2025,71,6,majority in aggregate principal amount of the outstanding debt securities of such series.,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p71_t06.png,5,2
+AAPL,_10-K-2025-As-Filed,2025,72,1,"Unknown Table (Page 72, Table 1)",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p72_t01.png,3,2
+AAPL,_10-K-2025-As-Filed,2025,72,2,Modification and amendments of the Indentures and the Notes may be made by us and the trustee with the,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p72_t02.png,3,1
+AAPL,_10-K-2025-As-Filed,2025,73,1,"The holders of at least a majority in aggregate principal amount of the outstanding Notes of any series may,",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p73_t01.png,9,1
+AAPL,_10-K-2025-As-Filed,2025,74,2,"U.S. dollars in an amount sufficient to pay the entire indebtedness including, but not limited to, the principal and",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p74_t02.png,4,1
+AAPL,_10-K-2025-As-Filed,2025,74,4,agency with respect to the Notes and to hold moneys for payment in trust) (“legal defeasance”) or (2) to be released,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p74_t04.png,8,1
+AAPL,_10-K-2025-As-Filed,2025,74,5,"to pay the principal or premium, if any, and interest on the Notes on the scheduled due dates therefor.",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p74_t05.png,6,2
+AAPL,_10-K-2025-As-Filed,2025,75,1,"The Bank of New York Mellon Trust Company, N.A. is the trustee under the Indentures. We have",data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p75_t01.png,4,1
+AAPL,_10-K-2025-As-Filed,2025,76,1,Apple Asia Limited Hong Kong,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p76_t01.png,18,1
+AAPL,_10-K-2025-As-Filed,2025,78,1,Exhibit 31.1,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p78_t01.png,40,1
+AAPL,_10-K-2025-As-Filed,2025,79,1,Exhibit 31.2,data/extracted_tables/AAPL/AAPL__10-K-2025-As-Filed_p79_t01.png,41,1
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,3,1,Part I,data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p03_t01.png,4,1
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,3,2,Part II,data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p03_t02.png,7,1
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,4,1,Net sales:,data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p04_t01.png,28,1
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,5,1,"Net income $  36,330  $  33,916",data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p05_t01.png,15,1
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,6,1,Apple Inc. — CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited),data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p06_t01.png,40,2
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,7,1,"Total shareholders’ equity, beginning balances $  56,950  $  62,146",data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p07_t01.png,23,1
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,8,1,"Cash, cash equivalents, and restricted cash and cash equivalents, beginning balances $  29,943  $  30,737",data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p08_t01.png,38,3
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,9,1,"iPhone® $  69,138  $  69,702",data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p09_t01.png,5,2
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,10,1,Numerator:,data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p10_t01.png,9,2
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,10,2,"Cash $  27,073  $  —  $  —  $  27,073  $  27,073  $  —  $  —",data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p10_t02.png,15,1
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,11,1,"Cash $  27,199  $  —  $  —  $  27,199  $  27,199  $  —  $  —",data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p11_t01.png,15,1
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,12,1,Derivative instruments designated as accounting hedges:,data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p12_t01.png,5,1
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,12,3,"Components $  2,792  $  3,627",data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p12_t03.png,2,3
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,12,4,"Gross property, plant and equipment $  120,615  $  119,128",data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p12_t04.png,2,3
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,13,1,RSUs Grant-Date Fair,data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p13_t01.png,4,1
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,14,1,Americas:,data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p14_t01.png,18,1
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,14,2,"Segment operating income $  53,174  $  50,088",data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p14_t02.png,3,1
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,16,1,"Americas $  52,648  $  50,430   4 %",data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p16_t01.png,5,1
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,17,1,2024 2023 Change,data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p17_t01.png,6,1
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,18,1,Gross margin:,data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p18_t01.png,3,2
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,18,2,Gross margin percentage:,data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p18_t02.png,3,2
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,18,3,"Research and development $  8,268  $  7,696",data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p18_t03.png,5,1
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,19,1,"Provision for income taxes $  6,254  $  6,407",data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p19_t01.png,2,3
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,20,1,Recent Accounting Pronouncements,data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p20_t01.png,48,1
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,23,1,Periods Purchased Share Programs or Programs (1),data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p23_t01.png,9,2
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,36,1,grant any person the right to remain in the employ of the Company or any,data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p36_t01.png,45,1
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,49,1,Exhibit 31.1,data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p49_t01.png,40,1
+AAPL,10Q-Q1-2025-as-filed,Q1-2025,50,1,Exhibit 31.2,data/extracted_tables/AAPL/AAPL_10Q-Q1-2025-as-filed_p50_t01.png,41,1
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,3,1,Part I,data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p03_t01.png,4,1
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,3,2,Part II,data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p03_t02.png,7,1
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,4,1,Net sales:,data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p04_t01.png,28,2
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,5,1,"Net income $  24,780  $  23,636  $  61,110  $  57,552",data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p05_t01.png,15,1
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,6,1,Apple Inc. — CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited),data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p06_t01.png,40,2
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,7,1,"Total shareholders’ equity, beginning balances $  66,758  $  74,100  $  56,950  $  62,146",data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p07_t01.png,24,1
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,8,1,"Cash, cash equivalents, and restricted cash and cash equivalents, beginning balances $  29,943  $  30,737",data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p08_t01.png,38,3
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,9,1,"iPhone® $  46,841  $  45,963  $  115,979  $  115,665",data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p09_t01.png,7,4
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,10,1,Numerator:,data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p10_t01.png,9,2
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,10,2,"Cash $  25,061  $  —  $  —  $  25,061  $  25,061  $  —  $  —",data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p10_t02.png,15,1
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,11,1,"Cash $  27,199  $  —  $  —  $  27,199  $  27,199  $  —  $  —",data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p11_t01.png,15,1
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,12,1,Derivative instruments designated as accounting hedges:,data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p12_t01.png,5,1
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,12,2,"Components $  2,673  $  3,627",data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p12_t02.png,2,3
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,12,3,"Gross property, plant and equipment $  121,179  $  119,128",data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p12_t03.png,2,3
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,13,1,RSUs Grant-Date Fair,data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p13_t01.png,4,1
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,14,1,Americas:,data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p14_t01.png,18,3
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,14,2,"Segment operating income $  40,136  $  37,706  $  93,310  $  87,794",data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p14_t02.png,3,1
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,16,1,"Americas $  40,315  $  37,273   8 % $  92,963  $  87,703   6 %",data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p16_t01.png,5,1
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,17,1,2025 2024 Change 2025 2024 Change,data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p17_t01.png,6,1
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,18,1,Gross margin:,data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p18_t01.png,3,2
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,18,2,Gross margin percentage:,data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p18_t02.png,3,2
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,19,1,"Research and development $  8,550  $  7,903  $  16,818  $  15,599",data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p19_t01.png,5,2
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,19,2,"Provision for income taxes $  4,530  $  4,422  $  10,784  $  10,829",data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p19_t02.png,2,5
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,20,1,Liquidity and Capital Resources,data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p20_t01.png,44,1
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,21,1,Segment Reporting,data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p21_t01.png,34,1
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,24,1,The Company’s operations are also subject to the risks of industrial accidents a,data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p24_t01.png,50,1
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,25,1,Periods Purchased Share Programs or Programs (1),data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p25_t01.png,9,2
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,27,1,Exhibit 31.1,data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p27_t01.png,40,1
+AAPL,10Q-Q2-2025-as-filed,Q2-2025,28,1,Exhibit 31.2,data/extracted_tables/AAPL/AAPL_10Q-Q2-2025-as-filed_p28_t01.png,41,1
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,3,1,Part I,data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p03_t01.png,4,1
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,3,2,Part II,data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p03_t02.png,7,1
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,4,1,Net sales:,data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p04_t01.png,28,2
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,5,1,"Net income $  21,448  $  19,881  $  79,000  $  74,039",data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p05_t01.png,15,1
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,6,1,Apple Inc. — CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited),data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p06_t01.png,40,2
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,7,1,"Total shareholders’ equity, beginning balances $  74,194  $  62,158  $  62,146  $  50,672",data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p07_t01.png,24,1
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,8,1,"Cash, cash equivalents and restricted cash, beginning balances $  30,737  $  24,977",data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p08_t01.png,39,3
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,9,1,"iPhone® $  39,296  $  39,669  $  154,961  $  156,778",data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p09_t01.png,5,3
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,10,1,Numerator:,data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p10_t01.png,9,2
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,10,2,"Cash $  22,866  $  —  $  —  $  22,866  $  22,866  $  —  $  —",data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p10_t02.png,15,1
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,11,1,"Cash $  28,359  $  —  $  —  $  28,359  $  28,359  $  —  $  —",data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p11_t01.png,15,1
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,11,2,"Due after 1 year through 5 years $  64,209",data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p11_t02.png,3,1
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,12,1,Derivative instruments designated as accounting hedges:,data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p12_t01.png,5,1
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,12,2,Hedged assets/(liabilities):,data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p12_t02.png,2,1
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,12,3,"Gross property, plant and equipment $  117,129  $  114,599",data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p12_t03.png,2,3
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,13,1,Maturities 90 days or less:,data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p13_t01.png,6,1
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,14,1,RSUs Grant Date Fair Fair Value,data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p14_t01.png,4,4
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,15,1,Americas:,data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p15_t01.png,18,3
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,15,2,"Segment operating income $  35,095  $  32,090  $  122,889  $  114,983",data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p15_t02.png,3,1
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,17,1,Net sales by reportable segment:,data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p17_t01.png,6,1
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,18,1,2024 2023 Change 2024 2023 Change,data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p18_t01.png,7,1
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,19,1,Gross margin:,data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p19_t01.png,3,2
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,19,2,Gross margin percentage:,data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p19_t02.png,3,2
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,19,3,"Research and development $  8,006  $  7,442  $  23,605  $  22,608",data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p19_t03.png,5,2
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,20,1,"Provision for income taxes $  4,046  $  2,852  $  14,875  $  12,699",data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p20_t01.png,2,5
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,21,1,Segment Reporting,data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p21_t01.png,34,1
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,23,1,Periods Purchased Share Programs or Programs (1),data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p23_t01.png,9,2
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,26,1,Exhibit 31.1,data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p26_t01.png,40,1
+AAPL,_10-Q-Q3-2024-As-Filed,Q3-2024,27,1,Exhibit 31.2,data/extracted_tables/AAPL/AAPL__10-Q-Q3-2024-As-Filed_p27_t01.png,41,1
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,3,1,Part I,data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p03_t01.png,4,1
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,3,2,Part II,data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p03_t02.png,7,1
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,4,1,Net sales:,data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p04_t01.png,28,2
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,5,1,"Net income $  23,434  $  21,448  $  84,544  $  79,000",data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p05_t01.png,15,1
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,6,1,Apple Inc. — CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited),data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p06_t01.png,40,2
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,7,1,"Total shareholders’ equity, beginning balances $  66,796  $  74,194  $  56,950  $  62,146",data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p07_t01.png,24,1
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,8,1,"Cash, cash equivalents, and restricted cash and cash equivalents, beginning balances $  29,943  $  30,737",data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p08_t01.png,39,3
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,9,1,"iPhone® $  44,582  $  39,296  $  160,561  $  154,961",data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p09_t01.png,7,3
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,10,1,Numerator:,data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p10_t01.png,9,2
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,10,2,"Cash $  26,686  $  —  $  —  $  26,686  $  26,686  $  —  $  —",data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p10_t02.png,15,1
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,11,1,"Cash $  27,199  $  —  $  —  $  27,199  $  27,199  $  —  $  —",data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p11_t01.png,15,1
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,12,1,Derivative instruments designated as accounting hedges:,data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p12_t01.png,5,1
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,12,2,"Components $  2,288  $  3,627",data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p12_t02.png,2,3
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,12,3,"Gross property, plant and equipment $  124,311  $  119,128",data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p12_t03.png,2,3
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,13,1,Maturities 90 days or less:,data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p13_t01.png,6,1
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,13,2,RSUs Grant-Date Fair,data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p13_t02.png,4,1
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,14,1,Americas:,data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p14_t01.png,18,3
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,15,1,"Segment operating income $  38,949  $  35,095  $  132,259  $  122,889",data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p15_t01.png,3,1
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,17,1,"Americas $  41,198  $  37,678   9 % $  134,161  $  125,381   7 %",data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p17_t01.png,5,1
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,18,1,2025 2024 Change 2025 2024 Change,data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p18_t01.png,6,1
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,19,1,Gross margin:,data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p19_t01.png,3,2
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,19,2,Gross margin percentage:,data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p19_t02.png,3,2
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,20,1,"Research and development $  8,866  $  8,006  $  25,684  $  23,605",data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p20_t01.png,5,2
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,20,2,"Provision for income taxes $  4,597  $  4,046  $  15,381  $  14,875",data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p20_t02.png,2,5
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,21,1,Liquidity and Capital Resources,data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p21_t01.png,48,1
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,22,1,Critical Accounting Estimates,data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p22_t01.png,27,1
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,24,1,Periods Purchased Share Programs or Programs (1),data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p24_t01.png,9,2
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,27,1,Exhibit 31.1,data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p27_t01.png,40,1
+AAPL,10Q-Q3-2025-as-filed,Q3-2025,28,1,Exhibit 31.2,data/extracted_tables/AAPL/AAPL_10Q-Q3-2025-as-filed_p28_t01.png,41,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,3,1,Part I,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p03_t01.png,7,3
+AAPL,10-Q4-2024-As-Filed,Q4-2024,3,2,Part II,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p03_t02.png,9,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,6,1,The Company’s ability to compete successfully depends heavily on ensuring the co,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p06_t01.png,52,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,7,1,Business Seasonality and Product Introductions,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p07_t01.png,41,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,8,1,Available Information,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p08_t01.png,45,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,9,1,"The Company’s business can be impacted by political events, trade and other inte",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p09_t01.png,48,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,10,1,Global markets for the Company’s products and services are highly competitive an,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p10_t01.png,52,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,11,1,The Company depends on component and product manufacturing and logistical servic,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p11_t01.png,52,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,12,1,The Company’s products and services may be affected from time to time by design ,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p12_t01.png,50,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,13,1,The Company’s future performance depends in part on support from third-party sof,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p13_t01.png,51,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,15,1,The Company experiences malicious attacks and other attempts to gain unauthorize,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p15_t01.png,43,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,16,1,Legal and Regulatory Compliance Risks,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p16_t01.png,53,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,17,1,Regulatory changes and other actions that materially adversely affect the Compan,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p17_t01.png,54,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,18,1,There can be no assurance the Company’s business will not be materially adversel,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p18_t01.png,56,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,19,1,The Company’s financial performance is subject to risks associated with changes ,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p19_t01.png,51,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,22,1,Periods Purchased Share Programs or Programs (1),data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p22_t01.png,8,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,23,1,Apple Inc. $  100  $  207  $  273  $  281  $  322  $  430,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p23_t01.png,2,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,25,1,"Americas $  167,045   3 % $  162,560   (4) % $  169,658",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p25_t01.png,5,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,26,1,"iPhone $  201,183   — % $  200,583   (2) % $  205,489",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p26_t01.png,5,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,27,1,Gross margin:,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p27_t01.png,3,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,27,2,Gross margin percentage:,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p27_t02.png,3,2
+AAPL,10-Q4-2024-As-Filed,Q4-2024,27,3,"Research and development $  31,370   5 % $  29,915   14 % $  26,251",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p27_t03.png,5,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,28,1,"Provision for income taxes $  29,749  $  16,741  $  19,300",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p28_t01.png,2,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,29,1,State Aid Decision Tax Payable,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p29_t01.png,50,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,31,1,"Consolidated Statements of Operations for the years ended September 28, 2024, September 30, 2023 and",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p31_t01.png,6,3
+AAPL,10-Q4-2024-As-Filed,Q4-2024,32,1,Net sales:,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p32_t01.png,28,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,33,1,"Net income $  93,736  $  96,995  $  99,803",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p33_t01.png,15,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,34,1,CONSOLIDATED BALANCE SHEETS,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p34_t01.png,40,2
+AAPL,10-Q4-2024-As-Filed,Q4-2024,35,1,"Total shareholders’ equity, beginning balances $  62,146  $  50,672  $  63,090",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p35_t01.png,24,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,36,1,"balances $  30,737  $  24,977  $  35,929",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p36_t01.png,39,2
+AAPL,10-Q4-2024-As-Filed,Q4-2024,37,1,Apple Inc.,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p37_t01.png,35,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,38,1,"iPhone $  201,183  $  200,583  $  205,489",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p38_t01.png,5,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,39,1,Numerator:,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p39_t01.png,9,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,39,2,"Cash $  27,199  $  —  $  —  $  27,199  $  27,199  $  —  $  —",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p39_t02.png,15,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,40,1,"Cash $  28,359  $  —  $  —  $  28,359  $  28,359  $  —  $  —",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p40_t01.png,15,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,41,1,Derivative instruments designated as accounting hedges:,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p41_t01.png,5,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,41,2,Hedged assets/(liabilities):,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p41_t02.png,2,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,42,1,"Land and buildings $  24,690  $  23,446",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p42_t01.png,5,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,42,2,"Deferred tax assets $  19,499  $  17,852",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p42_t02.png,2,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,42,3,"Income taxes payable $  26,601  $  8,819",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p42_t03.png,2,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,42,4,"Income taxes payable $  9,254  $  15,457",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p42_t04.png,2,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,43,1,Federal:,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p43_t01.png,12,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,43,2,"Computed expected tax $  25,932  $  23,885  $  25,012",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p43_t02.png,8,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,44,1,Deferred tax assets:,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p44_t01.png,18,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,44,2,"Beginning balances $  19,454  $  16,758  $  15,477",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p44_t02.png,6,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,45,1,Right-of-use assets:,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p45_t01.png,10,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,45,2,Leases Leases Total,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p45_t02.png,8,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,46,1,Maturities 90 days or less:,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p46_t01.png,8,3
+AAPL,10-Q4-2024-As-Filed,Q4-2024,46,2,2013 – 2023 debt issuances:,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p46_t02.png,8,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,46,3,"applicable, adjustments related to hedging. — The future principal payments for the Company’s Notes as of September 28, 2024, are as follows (in millions):",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p46_t03.png,7,2
+AAPL,10-Q4-2024-As-Filed,Q4-2024,47,1,"Common stock outstanding, beginning balances   15,550,061    15,943,425    16,426,786",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p47_t01.png,3,3
+AAPL,10-Q4-2024-As-Filed,Q4-2024,48,1,RSUs Grant-Date Fair Fair Value,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p48_t01.png,12,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,48,3,"arrangements, licensed intellectual property and content, and distribution rights. Future payments under unconditional purchase — obligations with a remaining term in excess of one year as of September 28, 2024, are as follows (in millions):",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p48_t03.png,6,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,49,1,Contingencies,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p49_t01.png,32,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,50,1,Americas:,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p50_t01.png,18,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,50,2,"Segment operating income $  162,044  $  150,888  $  152,895",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p50_t02.png,3,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,50,3,Net sales:,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p50_t03.png,4,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,50,4,Long-lived assets:,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p50_t04.png,4,3
+AAPL,10-Q4-2024-As-Filed,Q4-2024,51,1,Report of Independent Registered Public Accounting Firm,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p51_t01.png,44,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,53,1,Report of Independent Registered Public Accounting Firm,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p53_t01.png,43,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,56,1,"Consolidated Statements of Operations for the years ended September 28, 2024, September 30, 2023 and",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p56_t01.png,6,3
+AAPL,10-Q4-2024-As-Filed,Q4-2024,57,1,Incorporated by Reference,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p57_t01.png,82,12
+AAPL,10-Q4-2024-As-Filed,Q4-2024,58,1,Filing Date/,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p58_t01.png,56,16
+AAPL,10-Q4-2024-As-Filed,Q4-2024,59,1,Incorporated by Reference,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p59_t01.png,18,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,64,4,The Notes are our senior unsecured indebtedness and rank equally with each other and with all of our other,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p64_t04.png,7,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,65,1,The terms of the Notes state that all payments of principal and interest in respect of the Notes will be made,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p65_t01.png,4,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,66,1,“United States person” means any individual who is a citizen or resident of the United States for U.S. federal income,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p66_t01.png,4,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,66,2,"If, as a result of any change in, or amendment to, or, in the case of the 0.000% 2025 Notes and the 2031",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p66_t02.png,3,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,67,1,"announced or becomes effective on or after the date of the applicable prospectus supplement, we become, or based",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p67_t01.png,3,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,68,2,"“Comparable Government Bond” means, in relation to any Comparable Government Bond Rate calculation",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p68_t02.png,6,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,68,3,"“Comparable Government Bond Rate” means the price, expressed as a percentage (rounded to three",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p68_t03.png,5,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,69,1,Each of the following events are defined in the Indentures as an “event of default” (whatever the reason for,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p69_t01.png,3,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,69,3,"(3)  default in the performance, or breach, of any covenant or agreement of ours in the applicable Indenture",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p69_t03.png,8,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,70,4,The holders of not less than a majority in aggregate principal amount of the outstanding debt securities of,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p70_t04.png,4,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,70,5,default for any other series of debt securities issued under the Indentures.,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p70_t05.png,4,2
+AAPL,10-Q4-2024-As-Filed,Q4-2024,70,7,notice of such continuing event of default with respect to the debt securities of such series;,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p70_t07.png,4,2
+AAPL,10-Q4-2024-As-Filed,Q4-2024,70,8,The holders of a majority in aggregate principal amount of outstanding debt securities of a series will have,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p70_t08.png,3,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,71,1,"Unknown Table (Page 71, Table 1)",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p71_t01.png,4,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,71,2,"against the costs, expenses and liabilities which might be incurred by it in compliance with such request.",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p71_t02.png,3,2
+AAPL,10-Q4-2024-As-Filed,Q4-2024,71,3,Modification and amendments of the Indentures and the Notes may be made by us and the trustee with the,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p71_t03.png,3,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,72,1,"The holders of at least a majority in aggregate principal amount of the outstanding Notes of any series may,",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p72_t01.png,9,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,73,2,"U.S. dollars in an amount sufficient to pay the entire indebtedness including, but not limited to, the principal and",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p73_t02.png,4,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,73,4,agency with respect to the Notes and to hold moneys for payment in trust) (“legal defeasance”) or (2) to be released,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p73_t04.png,8,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,73,5,"to pay the principal or premium, if any, and interest on the Notes on the scheduled due dates therefor.",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p73_t05.png,6,2
+AAPL,10-Q4-2024-As-Filed,Q4-2024,74,1,"The Bank of New York Mellon Trust Company, N.A. is the trustee under the Indentures. We have",data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p74_t01.png,4,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,90,1,traded on a national securities exchange on the last trading day of the Performa,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p90_t01.png,50,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,107,1,traded on a national securities exchange on the last trading day of the Performa,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p107_t01.png,50,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,111,1,The regularly scheduled restricted trading period and trading window for each quarter is indicated below.,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p111_t01.png,5,3
+AAPL,10-Q4-2024-As-Filed,Q4-2024,114,1,Apple Asia Limited Hong Kong,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p114_t01.png,17,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,116,1,Exhibit 31.1,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p116_t01.png,40,1
+AAPL,10-Q4-2024-As-Filed,Q4-2024,117,1,Exhibit 31.2,data/extracted_tables/AAPL/AAPL_10-Q4-2024-As-Filed_p117_t01.png,41,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,3,1,Part I,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p03_t01.png,7,3
+AAPL,10K-Q4-2025-as-filed,Q4-2025,3,2,Part II,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p03_t02.png,9,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,6,1,The Company’s ability to compete successfully depends heavily on ensuring the co,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p06_t01.png,54,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,7,1,"In addition to Company-owned intellectual property, many of the Company’s produc",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p07_t01.png,43,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,9,1,"The Company’s business can be impacted by political events, trade and other inte",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p09_t01.png,57,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,10,1,"Following any interruption to its business, the Company can require substantial ",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p10_t01.png,44,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,11,1,Business Risks,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p11_t01.png,55,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,12,1,The Company’s products and services may be affected from time to time by design ,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p12_t01.png,50,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,13,1,The Company’s future performance depends in part on support from third-party sof,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p13_t01.png,52,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,14,1,The Company depends on the performance of carriers and other resellers.,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p14_t01.png,48,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,15,1,"As with all companies, the security the Company has implemented may not be suffi",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p15_t01.png,48,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,16,1,The outcome of litigation or government investigations is inherently uncertain. ,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p16_t01.png,53,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,17,1,"The technology industry, including, in some instances, the Company, is subject t",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p17_t01.png,50,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,18,1,"The Company’s business is subject to a variety of U.S. and international laws, r",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p18_t01.png,56,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,19,1,"Conversely, a strengthening of foreign currencies relative to the U.S. dollar, w",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p19_t01.png,46,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,22,1,Periods Purchased Share Programs or Programs (1),data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p22_t01.png,8,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,23,1,Apple Inc. $  100  $  132  $  136  $  155  $  208  $  234,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p23_t01.png,2,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,25,1,"Americas $  178,353   7 % $  167,045   3 % $  162,560",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p25_t01.png,5,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,26,1,"iPhone $  209,586   4 % $  201,183   — % $  200,583",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p26_t01.png,5,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,27,1,Gross margin:,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p27_t01.png,3,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,27,2,Gross margin percentage:,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p27_t02.png,3,2
+AAPL,10K-Q4-2025-as-filed,Q4-2025,27,3,"Research and development $  34,550   10 % $  31,370   5 % $  29,915",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p27_t03.png,5,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,28,1,"Provision for income taxes $  20,719  $  29,749  $  16,741",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p28_t01.png,2,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,29,1,Capital Return Program,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p29_t01.png,51,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,30,1,Legal and Other Contingencies,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p30_t01.png,37,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,31,1,"Consolidated Statements of Operations for the years ended September 27, 2025, September 28, 2024 and",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p31_t01.png,6,3
+AAPL,10K-Q4-2025-as-filed,Q4-2025,32,1,Net sales:,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p32_t01.png,28,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,33,1,"Net income $  112,010  $  93,736  $  96,995",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p33_t01.png,15,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,34,1,CONSOLIDATED BALANCE SHEETS,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p34_t01.png,40,2
+AAPL,10K-Q4-2025-as-filed,Q4-2025,35,1,"Total shareholders’ equity, beginning balances $  56,950  $  62,146  $  50,672",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p35_t01.png,24,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,36,1,"balances $  29,943  $  30,737  $  24,977",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p36_t01.png,39,2
+AAPL,10K-Q4-2025-as-filed,Q4-2025,37,1,Apple Inc.,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p37_t01.png,38,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,38,1,Derivative Instruments,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p38_t01.png,46,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,39,1,"iPhone $  209,586  $  201,183  $  200,583",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p39_t01.png,7,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,39,2,Numerator:,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p39_t02.png,9,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,40,1,"Cash $  28,267  $  —  $  —  $  28,267  $  28,267  $  —  $  —",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p40_t01.png,15,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,40,2,"Cash $  27,199  $  —  $  —  $  27,199  $  27,199  $  —  $  —",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p40_t02.png,15,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,41,1,"As of September 27, 2025, 80% of the Company’s non-current marketable debt secur",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p41_t01.png,43,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,42,1,Derivative instruments designated as accounting hedges:,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p42_t01.png,5,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,42,2,"Land and buildings $  27,337  $  24,690",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p42_t02.png,5,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,43,1,"Deferred tax assets $  20,777  $  19,499",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p43_t01.png,2,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,43,2,"Income taxes payable $  13,016  $  26,601",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p43_t02.png,3,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,43,3,Federal:,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p43_t03.png,12,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,44,1,"Computed expected tax $  27,873  $  25,932  $  23,885",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p44_t01.png,7,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,44,2,Deferred tax assets:,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p44_t02.png,16,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,45,1,"Beginning balances $  22,038  $  19,454  $  16,758",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p45_t01.png,6,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,45,3,Right-of-use assets:,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p45_t03.png,10,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,46,1,Leases Leases Total,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p46_t01.png,8,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,46,2,Maturities 90 days or less:,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p46_t02.png,8,3
+AAPL,10K-Q4-2025-as-filed,Q4-2025,47,1,2013 – 2023 debt issuances:,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p47_t01.png,11,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,47,2,"applicable, adjustments related to hedging. — The future principal payments for the Company’s Notes as of September 27, 2025, are as follows (in millions):",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p47_t02.png,7,2
+AAPL,10K-Q4-2025-as-filed,Q4-2025,48,1,"Common stock outstanding, beginning balances   15,116,786    15,550,061    15,943,425",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p48_t01.png,3,3
+AAPL,10K-Q4-2025-as-filed,Q4-2025,48,2,RSUs Grant-Date Fair,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p48_t02.png,4,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,49,1,"arrangements, licensed intellectual property and content, and distribution rights. Future payments under unconditional purchase — obligations with a remaining term in excess of one year as of September 27, 2025, are as follows (in millions):",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p49_t01.png,6,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,50,1,"Net sales $  178,353  $  111,032  $  64,377  $  28,703  $  33,696  $  —  $  416,161",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p50_t01.png,5,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,50,2,"Net sales $  167,045  $  101,328  $  66,952  $  25,052  $  30,658  $  —  $  391,035",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p50_t02.png,5,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,50,3,"Net sales $  162,560  $  94,294  $  72,559  $  24,257  $  29,615  $  —  $  383,285",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p50_t03.png,5,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,51,1,Net sales:,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p51_t01.png,4,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,51,2,Long-lived assets:,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p51_t02.png,4,3
+AAPL,10K-Q4-2025-as-filed,Q4-2025,52,1,Report of Independent Registered Public Accounting Firm,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p52_t01.png,43,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,54,1,Report of Independent Registered Public Accounting Firm,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p54_t01.png,43,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,57,1,"Consolidated Statements of Operations for the years ended September 27, 2025, September 28, 2024 and",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p57_t01.png,6,3
+AAPL,10K-Q4-2025-as-filed,Q4-2025,58,1,Incorporated by Reference,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p58_t01.png,79,11
+AAPL,10K-Q4-2025-as-filed,Q4-2025,59,1,Filing Date/,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p59_t01.png,49,12
+AAPL,10K-Q4-2025-as-filed,Q4-2025,60,1,Incorporated by Reference,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p60_t01.png,18,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,65,3,The Notes are our senior unsecured indebtedness and rank equally with each other and with all of our other,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p65_t03.png,7,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,66,1,The terms of the Notes state that all payments of principal and interest in respect of the Notes will be made,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p66_t01.png,4,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,67,1,“United States person” means any individual who is a citizen or resident of the United States for U.S. federal income,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p67_t01.png,4,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,67,2,"If, as a result of any change in, or amendment to, or, in the case of the 2025 Notes and the 2031 Notes,",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p67_t02.png,3,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,67,3,"announced or becomes effective on or after the date of the applicable prospectus supplement, we become, or based",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p67_t03.png,3,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,68,4,"independent investment bank in its discretion determines that such similar bond is not in issue, such other German",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p68_t04.png,3,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,69,1,"“Comparable Government Bond” means, in relation to any Comparable Government Bond Rate calculation",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p69_t01.png,6,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,69,2,"“Comparable Government Bond Rate” means the price, expressed as a percentage (rounded to three",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p69_t02.png,5,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,70,1,Each of the following events are defined in the Indentures as an “event of default” (whatever the reason for,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p70_t01.png,3,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,70,3,"(3)  default in the performance, or breach, of any covenant or agreement of ours in the applicable Indenture",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p70_t03.png,8,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,71,1,"Unknown Table (Page 71, Table 1)",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p71_t01.png,4,2
+AAPL,10K-Q4-2025-as-filed,Q4-2025,71,2,"debt securities of such series, and in the case of the 2018 Indenture, at least 33% in aggregate principal amount of",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p71_t02.png,7,2
+AAPL,10K-Q4-2025-as-filed,Q4-2025,71,3,declaration or other act on the part of the trustee or any holders.,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p71_t03.png,5,2
+AAPL,10K-Q4-2025-as-filed,Q4-2025,71,5,notice of such continuing event of default with respect to the debt securities of such series;,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p71_t05.png,4,2
+AAPL,10K-Q4-2025-as-filed,Q4-2025,71,6,majority in aggregate principal amount of the outstanding debt securities of such series.,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p71_t06.png,5,2
+AAPL,10K-Q4-2025-as-filed,Q4-2025,72,1,"Unknown Table (Page 72, Table 1)",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p72_t01.png,3,2
+AAPL,10K-Q4-2025-as-filed,Q4-2025,72,2,Modification and amendments of the Indentures and the Notes may be made by us and the trustee with the,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p72_t02.png,3,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,73,1,"The holders of at least a majority in aggregate principal amount of the outstanding Notes of any series may,",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p73_t01.png,9,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,74,2,"U.S. dollars in an amount sufficient to pay the entire indebtedness including, but not limited to, the principal and",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p74_t02.png,4,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,74,4,agency with respect to the Notes and to hold moneys for payment in trust) (“legal defeasance”) or (2) to be released,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p74_t04.png,8,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,74,5,"to pay the principal or premium, if any, and interest on the Notes on the scheduled due dates therefor.",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p74_t05.png,6,2
+AAPL,10K-Q4-2025-as-filed,Q4-2025,75,1,"The Bank of New York Mellon Trust Company, N.A. is the trustee under the Indentures. We have",data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p75_t01.png,4,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,76,1,Apple Asia Limited Hong Kong,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p76_t01.png,18,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,78,1,Exhibit 31.1,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p78_t01.png,40,1
+AAPL,10K-Q4-2025-as-filed,Q4-2025,79,1,Exhibit 31.2,data/extracted_tables/AAPL/AAPL_10K-Q4-2025-as-filed_p79_t01.png,41,1
 TSLA,Q3 tsla-20241023-gen,2024,1,1,Securities	registered	pursuant	to	Section	12(b)	of	the	Act:,data/extracted_tables/TSLA/TSLA_Q3 tsla-20241023-gen_p01_t01.png,2,3
 TSLA,tsla-20241231-gen,2024,1,1,Securities	registered	pursuant	to	Section	12(b)	of	the	Act:,data/extracted_tables/TSLA/TSLA_tsla-20241231-gen_p01_t01.png,2,3
 TSLA,tsla-20241231-gen,2024,3,1,"TESLA,	INC.",data/extracted_tables/TSLA/TSLA_tsla-20241231-gen_p03_t01.png,8,9
