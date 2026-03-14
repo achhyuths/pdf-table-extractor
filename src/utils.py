@@ -10,8 +10,8 @@ def extract_heading_above_table(page, table_bbox):
     """
     Get the heading text above a table.
 
-    Crops a strip above the table and walks up from the bottom,
-    skipping lines that are just numbers/years/dates (column headers).
+    Structure above table: Heading -> column header line -> table.
+    So we grab the 2nd line up from the table.
     """
     x0, y0, x1, y1 = table_bbox
 
@@ -25,22 +25,13 @@ def extract_heading_above_table(page, table_bbox):
     except Exception:
         return ""
 
-    # Walk lines from bottom to top (closest to table first)
     lines = [line.strip() for line in text.strip().split("\n") if line.strip()]
-    lines.reverse()
 
-    for line in lines:
-        # Skip short lines (page numbers etc.)
-        if len(line) < 5:
-            continue
-        # Skip lines that are just numbers, years, dollar signs, percentages
-        if re.match(r'^[\s\d,\$%\.\-\/\(\)]+$', line):
-            continue
-        # Skip data rows (lines with comma-formatted numbers like 8,006 or $178,353)
-        if re.search(r'\d{1,3}(,\d{3})', line):
-            continue
-        # This looks like a real heading
-        return line
+    # Grab the 2nd line from the bottom (heading is 2 lines above the table)
+    if len(lines) >= 2:
+        return lines[-2]
+    elif len(lines) == 1:
+        return lines[0]
 
     return ""
 
