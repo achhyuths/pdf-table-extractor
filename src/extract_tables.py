@@ -26,7 +26,7 @@ warnings.filterwarnings("ignore", message=".*Cannot set.*non-stroke color.*")
 RENDER_DPI = 225
 
 # Padding around the table crop (in PDF points)
-PAD_TOP = 100
+PAD_TOP = 150
 PAD_BOTTOM = 10
 PAD_LEFT = 10
 PAD_RIGHT = 10

@@ -36,6 +36,9 @@ def extract_heading_above_table(page, table_bbox):
         # Skip lines that are just numbers, years, dollar signs, percentages
         if re.match(r'^[\s\d,\$%\.\-\/\(\)]+$', line):
             continue
+        # Skip data rows (lines with comma-formatted numbers like 8,006 or $178,353)
+        if re.search(r'\d{1,3}(,\d{3})', line):
+            continue
         # This looks like a real heading
         return line
 

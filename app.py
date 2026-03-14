@@ -22,7 +22,7 @@ def main():
         st.error("No index found. Run `python run_pipeline.py` first.")
         return
 
-    df = pd.read_csv(INDEX_CSV)
+    df = pd.read_csv(INDEX_CSV, dtype={"Period": str})
     if df.empty:
         st.warning("Index is empty. Check your PDFs and rerun the pipeline.")
         return
