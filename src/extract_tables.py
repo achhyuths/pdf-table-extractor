@@ -15,7 +15,7 @@ from src.utils import (
     build_image_filename,
     ensure_dirs,
     extract_heading_above_table,
-    parse_period_from_filename,
+    parse_year_from_filename,
 )
 
 # Suppress noisy pdfplumber warnings
@@ -26,7 +26,7 @@ warnings.filterwarnings("ignore", message=".*Cannot set.*non-stroke color.*")
 RENDER_DPI = 225
 
 # Padding around the table crop (in PDF points)
-PAD_TOP = 50
+PAD_TOP = 100
 PAD_BOTTOM = 10
 PAD_LEFT = 10
 PAD_RIGHT = 10
@@ -65,7 +65,7 @@ def extract_tables_from_pdf(pdf_path, company, output_dir):
     Returns a list of dicts with metadata about each table found.
     """
     report_name = pdf_path.stem
-    period = parse_period_from_filename(pdf_path.name)
+    period = parse_year_from_filename(pdf_path.name)
 
     tables_metadata = []
 

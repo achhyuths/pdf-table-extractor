@@ -42,30 +42,19 @@ def extract_heading_above_table(page, table_bbox):
     return ""
 
 
-def parse_period_from_filename(filename):
+def parse_year_from_filename(filename):
     """
-    Try to get a period like 'Q1-2025' from a PDF filename.
+    Try to get the year from a PDF filename.
 
     Examples:
-        'TSLA-Q3-2025-Update.pdf' -> 'Q3-2025'
-        'TSLA-Annual-2024.pdf' -> 'Annual-2024'
-        'some-random.pdf' -> ''
+        'TSLA-Q3-2025-Update.pdf' -> '2025'
+        '10K-Q4-2025-as-filed.pdf' -> '2025'
+        '9a129eb1-5997-470d-b0cb-ac02db203108.pdf' -> ''  (UUID, no year)
     """
-    # Look for Q1-2025, Q2-2024 etc.
-    match = re.search(r"(Q[1-4][-_]\d{4})", filename, re.IGNORECASE)
-    if match:
-        return match.group(1).upper().replace("_", "-")
-
-    # Look for Annual/FY patterns
-    match = re.search(r"((?:Annual|FY)[-_]\d{4})", filename, re.IGNORECASE)
-    if match:
-        return match.group(1).replace("_", "-")
-
-    # Look for just a year (but not inside UUIDs or hex strings)
+    # Look for a year that's not buried inside a UUID/hex string
     match = re.search(r"(?<![a-fA-F0-9])(20\d{2})(?![a-fA-F0-9])", filename)
     if match:
         return match.group(1)
-
     return ""
 
 
