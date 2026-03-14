@@ -107,34 +107,150 @@ def _table_has_numeric_data(table) -> bool:
         return False
 
 
-def _find_tables_multi_strategy(page) -> list:
+def _analyze_table_content(table) -> dict:
+    """
+    Analyze cell content of a table, returning metrics for validation.
+
+    Returns dict with: ncols, nrows, total_cells, long_cells, numeric_cells,
+    total_length, avg_length, long_ratio, numeric_ratio.
+    """
+    data = table.extract()
+    if not data:
+        return None
+
+    ncols = len(data[0]) if data[0] else 0
+    nrows = len(data)
+    total_cells = 0
+    long_cells = 0
+    numeric_cells = 0
+    total_length = 0
+
+    for row in data:
+        for cell in row:
+            if cell is not None:
+                text = str(cell).strip()
+                if not text:
+                    continue
+                total_cells += 1
+                total_length += len(text)
+
+                if len(text) > 80:
+                    long_cells += 1
+
+                # Financial number patterns
+                if re.search(
+                    r'\$\s*[\d,]+\.?\d*'         # dollar amounts like $178,353
+                    r'|\b\d{1,3}(?:,\d{3})+\b'  # comma-formatted numbers
+                    r'|\d+\.\d+\s*%'             # decimal percentages like 7.2%
+                    r'|\(\s*\$?\s*\d',           # parenthetical negatives like ($123)
+                    text
+                ):
+                    numeric_cells += 1
+
+    if total_cells == 0:
+        return None
+
+    return {
+        "ncols": ncols,
+        "nrows": nrows,
+        "total_cells": total_cells,
+        "long_cells": long_cells,
+        "numeric_cells": numeric_cells,
+        "total_length": total_length,
+        "avg_length": total_length / total_cells,
+        "long_ratio": long_cells / total_cells,
+        "numeric_ratio": numeric_cells / total_cells,
+    }
+
+
+def _is_valid_table(table, strict: bool = False) -> bool:
+    """
+    Validate that a detected table is a real data table, not a prose paragraph.
+
+    SEC 10-K/10-Q filings have text paragraphs (risk factors, legal sections,
+    auditor reports, certifications) that pdfplumber detects as "tables".
+    This filters them out by analyzing cell content.
+
+    Args:
+        table: pdfplumber Table object
+        strict: if True, apply stricter checks (for text-strategy results
+                where prose can appear as multi-column "tables")
+    """
+    try:
+        stats = _analyze_table_content(table)
+        if stats is None:
+            return False
+
+        ncols = stats["ncols"]
+        nrows = stats["nrows"]
+        avg_length = stats["avg_length"]
+        long_ratio = stats["long_ratio"]
+        numeric_ratio = stats["numeric_ratio"]
+
+        if strict:
+            # Text strategy creates fake multi-column "tables" from prose.
+            # Require real financial numbers regardless of column count.
+            if numeric_ratio < 0.10:
+                return False
+            # Still check for prose patterns
+            if long_ratio > 0.2 and numeric_ratio < 0.20:
+                return False
+        else:
+            # Default strategy: 3+ column tables from border detection
+            # are high confidence — keep them
+            if ncols >= 3:
+                return True
+
+        # Prose: many long cells with few financial numbers
+        if long_ratio > 0.3 and numeric_ratio < 0.15:
+            return False
+
+        # 1-column with many rows, long cells, low numbers = paragraph
+        if ncols == 1 and nrows > 10 and avg_length > 50 and numeric_ratio < 0.25:
+            return False
+
+        # 1-column with very many rows and low numeric density
+        if ncols == 1 and nrows > 20 and numeric_ratio < 0.35:
+            return False
+
+        return True
+    except Exception:
+        return True  # On error, keep the table
+
+
+def _find_tables_multi_strategy(page) -> tuple:
     """
     Try multiple table detection strategies on a page.
 
-    Uses default strategy first (high confidence). Only falls back to text-based
-    strategies if default finds nothing, and validates that text-detected tables
-    actually contain numeric data to avoid false positives on prose pages.
+    Returns (valid_tables, any_detected):
+        valid_tables: list of table objects that passed validation
+        any_detected: True if any strategy found table-like structures
+            (even if all were filtered as invalid — this prevents the
+            full-page fallback from running on prose pages)
     """
     # Strategy 1: default (auto-detects lines/borders) — high confidence
     try:
         tables = page.find_tables()
         if tables:
-            return tables
+            return tables, True
     except Exception:
         pass
 
-    # Strategy 2-3: text-based fallbacks — only accept if tables contain numbers
+    # Strategy 2-3: text-based fallbacks — strict validation required since
+    # text strategy can create fake multi-column "tables" from prose paragraphs
     for settings in TABLE_STRATEGIES[1:]:
         try:
             tables = page.find_tables(table_settings=settings)
             if tables:
-                valid = [t for t in tables if _table_has_numeric_data(t)]
-                if valid:
-                    return valid
+                valid = [t for t in tables if _is_valid_table(t, strict=True)]
+                # Return True for any_detected even if all tables were invalid.
+                # This signals "page has text structure" (not a blank/image page),
+                # preventing false full-page capture of prose pages.
+                return valid, True
         except Exception:
             continue
 
-    return []
+    return [], False
 
 
 def _page_has_financial_content(page_text: str) -> bool:
@@ -212,7 +328,10 @@ def extract_tables_from_pdf(
             page_height = plumber_page.height
 
             # Detect tables using multi-strategy approach
-            found_tables = _find_tables_multi_strategy(plumber_page)
+            found_tables, any_detected = _find_tables_multi_strategy(plumber_page)
+
+            # Filter default-strategy tables (text-strategy already filtered)
+            found_tables = [t for t in found_tables if _is_valid_table(t)]
 
             # Get the corresponding fitz page for rendering
             fitz_page = fitz_doc[page_idx]
@@ -271,8 +390,11 @@ def extract_tables_from_pdf(
                         "bbox_y1": round(y1, 1),
                     })
 
-            else:
+            elif not any_detected:
                 # --- Fallback: full-page capture for presentation slides ---
+                # Only when NO tables were detected by ANY strategy. If tables
+                # were detected but filtered as invalid, the page is prose text,
+                # not a presentation slide with financial data.
                 page_text = plumber_page.extract_text() or ""
                 if not page_text.strip():
                     continue

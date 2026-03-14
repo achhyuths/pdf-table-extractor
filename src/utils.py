@@ -79,6 +79,22 @@ def is_column_header(text: str) -> bool:
     return False
 
 
+def is_data_row(text: str) -> bool:
+    """Check if a line contains financial data values (not a heading).
+
+    Lines with dollar amounts, comma-formatted numbers, or percentages mixed
+    with labels are data rows from the table itself, not headings above it.
+    """
+    stripped = text.strip()
+    # Contains dollar amounts like $178,353 or $ 178,353
+    if re.search(r'\$\s*[\d,]+', stripped):
+        return True
+    # Contains comma-formatted numbers like 178,353
+    if re.search(r'\b\d{1,3}(?:,\d{3})+\b', stripped):
+        return True
+    return False
+
+
 def cluster_words_into_lines(words: list[dict], y_tolerance: float = 3.0) -> list[dict]:
     """
     Group words by vertical position into lines.
@@ -124,7 +140,7 @@ def cluster_words_into_lines(words: list[dict], y_tolerance: float = 3.0) -> lis
     return sorted(lines, key=lambda l: l["y"])
 
 
-def extract_heading_above_table(page, table_bbox: tuple, max_distance: float = 150.0) -> str:
+def extract_heading_above_table(page, table_bbox: tuple, max_distance: float = 200.0) -> str:
     """
     Extract the heading text above a table by looking at words above the table's top edge.
 
@@ -184,6 +200,10 @@ def extract_heading_above_table(page, table_bbox: tuple, max_distance: float = 1
 
         # Skip column headers (years, dates, numbers)
         if is_column_header(text):
+            continue
+
+        # Skip data rows (lines containing $amounts or comma-formatted numbers)
+        if is_data_row(text):
             continue
 
         # If this looks like a subtitle, save it and keep looking for the main title
