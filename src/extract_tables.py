@@ -1,13 +1,10 @@
 """
-Core extraction logic: detect tables in SEC PDFs, extract headings, render cropped images.
+Extract tables from SEC PDF filings.
 
-Uses pdfplumber for table detection and PyMuPDF (fitz) for high-quality image rendering.
-Tries multiple detection strategies to handle both line-based and text-based table layouts.
-Falls back to full-page capture for presentation-style slides with financial data.
+Uses pdfplumber to find tables and PyMuPDF (fitz) to render cropped images.
 """
 
 import logging
-import re
 import warnings
 from pathlib import Path
 
@@ -21,303 +18,57 @@ from src.utils import (
     parse_period_from_filename,
 )
 
-# Suppress noisy pdfplumber warnings about invalid color values
+# Suppress noisy pdfplumber warnings
 logging.getLogger("pdfminer").setLevel(logging.ERROR)
 warnings.filterwarnings("ignore", message=".*Cannot set.*non-stroke color.*")
-
-# Minimum table height in points — filters out false detections in headers/footers
-MIN_TABLE_HEIGHT = 25
 
 # Image rendering DPI
 RENDER_DPI = 225
 
 # Padding around the table crop (in PDF points)
-PAD_TOP = 50    # extra space above to capture heading
+PAD_TOP = 50
 PAD_BOTTOM = 10
 PAD_LEFT = 10
 PAD_RIGHT = 10
 
-# Table detection strategies to try, in order of preference
-TABLE_STRATEGIES = [
-    # Strategy 1: default (auto-detects lines/text)
-    {},
-    # Strategy 2: explicit text-based detection (for borderless tables)
-    {
-        "vertical_strategy": "text",
-        "horizontal_strategy": "text",
-        "snap_y_tolerance": 5,
-        "intersection_x_tolerance": 15,
-    },
-    # Strategy 3: text with looser tolerances
-    {
-        "vertical_strategy": "text",
-        "horizontal_strategy": "text",
-        "snap_y_tolerance": 8,
-        "snap_x_tolerance": 8,
-        "intersection_x_tolerance": 20,
-        "min_words_vertical": 2,
-        "min_words_horizontal": 2,
-    },
-]
-
-# Financial keywords that indicate a page contains tabular financial data
-FINANCIAL_KEYWORDS = [
-    r"revenue", r"margin", r"income", r"earnings", r"cash\s+flow",
-    r"ebitda", r"gross\s+profit", r"operating", r"balance\s+sheet",
-    r"production", r"deliveries", r"capacity", r"deployments",
-    r"gaap", r"non-gaap", r"eps", r"free\s+cash", r"capital\s+expenditures",
-    r"inventory", r"assets", r"liabilities", r"depreciation",
-    r"summary", r"financial\s+statement", r"highlights",
-]
-
-# Pages to skip (boilerplate SEC pages)
-SKIP_PAGE_PATTERNS = [
-    r"UNITED\s+STATES\s+SECURITIES",
-    r"SIGNATURES\s+Pursuant",
-    r"Item\s+\d+\.\d+\s+Results",
-    r"Pursuant\s+to\s+Section\s+13",
-]
-
-# Headings that indicate a detected table is actually boilerplate (not real financial data)
-BOILERPLATE_HEADINGS = [
-    r"^Table\s+of\s+Contents$",
-    r"^SIGNATURES$",
-]
+# Tables shorter than this (in points) are probably false positives
+MIN_TABLE_HEIGHT = 25
 
 
-def _table_has_numeric_data(table) -> bool:
-    """Check if a detected table actually contains numeric data (not just prose)."""
+def has_numbers(table):
+    """Check if a table has at least some numeric data."""
     try:
         data = table.extract()
         if not data:
             return False
-        # Check if at least some cells contain numbers
-        num_cells = 0
-        total_cells = 0
+
+        number_count = 0
+        total_count = 0
+
         for row in data:
             for cell in row:
-                if cell is not None:
-                    total_cells += 1
-                    # Cell contains a number (integer, decimal, percentage, dollar amount)
-                    if re.search(r'\d', str(cell)):
-                        num_cells += 1
-        # At least 20% of non-empty cells should have numbers for a financial table
-        return total_cells > 0 and (num_cells / total_cells) >= 0.2
+                if cell is not None and str(cell).strip():
+                    total_count += 1
+                    if any(c.isdigit() for c in str(cell)):
+                        number_count += 1
+
+        # At least 20% of cells should have numbers
+        return total_count > 0 and (number_count / total_count) >= 0.2
     except Exception:
         return False
 
 
-def _analyze_table_content(table) -> dict:
+def extract_tables_from_pdf(pdf_path, company, output_dir):
     """
-    Analyze cell content of a table, returning metrics for validation.
+    Extract all tables from a single PDF file.
 
-    Returns dict with: ncols, nrows, total_cells, long_cells, numeric_cells,
-    total_length, avg_length, long_ratio, numeric_ratio.
+    Returns a list of dicts with metadata about each table found.
     """
-    data = table.extract()
-    if not data:
-        return None
-
-    ncols = len(data[0]) if data[0] else 0
-    nrows = len(data)
-    total_cells = 0
-    long_cells = 0
-    numeric_cells = 0
-    total_length = 0
-
-    for row in data:
-        for cell in row:
-            if cell is not None:
-                text = str(cell).strip()
-                if not text:
-                    continue
-                total_cells += 1
-                total_length += len(text)
-
-                if len(text) > 80:
-                    long_cells += 1
-
-                # Financial number patterns
-                if re.search(
-                    r'\$\s*[\d,]+\.?\d*'         # dollar amounts like $178,353
-                    r'|\b\d{1,3}(?:,\d{3})+\b'  # comma-formatted numbers
-                    r'|\d+\.\d+\s*%'             # decimal percentages like 7.2%
-                    r'|\(\s*\$?\s*\d',           # parenthetical negatives like ($123)
-                    text
-                ):
-                    numeric_cells += 1
-
-    if total_cells == 0:
-        return None
-
-    return {
-        "ncols": ncols,
-        "nrows": nrows,
-        "total_cells": total_cells,
-        "long_cells": long_cells,
-        "numeric_cells": numeric_cells,
-        "total_length": total_length,
-        "avg_length": total_length / total_cells,
-        "long_ratio": long_cells / total_cells,
-        "numeric_ratio": numeric_cells / total_cells,
-    }
-
-
-def _is_valid_table(table, strict: bool = False) -> bool:
-    """
-    Validate that a detected table is a real data table, not a prose paragraph.
-
-    SEC 10-K/10-Q filings have text paragraphs (risk factors, legal sections,
-    auditor reports, certifications) that pdfplumber detects as "tables".
-    This filters them out by analyzing cell content.
-
-    Args:
-        table: pdfplumber Table object
-        strict: if True, apply stricter checks (for text-strategy results
-                where prose can appear as multi-column "tables")
-    """
-    try:
-        stats = _analyze_table_content(table)
-        if stats is None:
-            return False
-
-        ncols = stats["ncols"]
-        nrows = stats["nrows"]
-        avg_length = stats["avg_length"]
-        long_ratio = stats["long_ratio"]
-        numeric_ratio = stats["numeric_ratio"]
-
-        if strict:
-            # Text strategy creates fake multi-column "tables" from prose.
-            # Require real financial numbers regardless of column count.
-            if numeric_ratio < 0.10:
-                return False
-            # Still check for prose patterns
-            if long_ratio > 0.2 and numeric_ratio < 0.20:
-                return False
-        else:
-            # Default strategy: 3+ column tables from border detection
-            # are high confidence — keep them
-            if ncols >= 3:
-                return True
-
-        # Prose: many long cells with few financial numbers
-        if long_ratio > 0.3 and numeric_ratio < 0.15:
-            return False
-
-        # 1-column with many rows, long cells, low numbers = paragraph
-        if ncols == 1 and nrows > 10 and avg_length > 50 and numeric_ratio < 0.25:
-            return False
-
-        # 1-column with very many rows and low numeric density
-        if ncols == 1 and nrows > 20 and numeric_ratio < 0.35:
-            return False
-
-        return True
-    except Exception:
-        return True  # On error, keep the table
-
-
-def _find_tables_multi_strategy(page) -> tuple:
-    """
-    Try multiple table detection strategies on a page.
-
-    Returns (valid_tables, any_detected):
-        valid_tables: list of table objects that passed validation
-        any_detected: True if any strategy found table-like structures
-            (even if all were filtered as invalid — this prevents the
-            full-page fallback from running on prose pages)
-    """
-    # Strategy 1: default (auto-detects lines/borders) — high confidence
-    try:
-        tables = page.find_tables()
-        if tables:
-            return tables, True
-    except Exception:
-        pass
-
-    # Strategy 2-3: text-based fallbacks — strict validation required since
-    # text strategy can create fake multi-column "tables" from prose paragraphs
-    for settings in TABLE_STRATEGIES[1:]:
-        try:
-            tables = page.find_tables(table_settings=settings)
-            if tables:
-                valid = [t for t in tables if _is_valid_table(t, strict=True)]
-                # Return True for any_detected even if all tables were invalid.
-                # This signals "page has text structure" (not a blank/image page),
-                # preventing false full-page capture of prose pages.
-                return valid, True
-        except Exception:
-            continue
-
-    return [], False
-
-
-def _page_has_financial_content(page_text: str) -> bool:
-    """Check if page text contains financial/tabular keywords."""
-    lower = page_text.lower()
-    matches = sum(1 for kw in FINANCIAL_KEYWORDS if re.search(kw, lower))
-    return matches >= 2
-
-
-def _is_boilerplate_page(page_text: str) -> bool:
-    """Check if page is a SEC boilerplate page (cover, signatures, prose, etc.)."""
-    for pattern in SKIP_PAGE_PATTERNS:
-        if re.search(pattern, page_text[:500]):
-            return True
-    # Skip 10-K/10-Q narrative pages that start with "Table of Contents"
-    # These are prose pages with a header, not actual financial tables
-    if page_text.strip().startswith("Table of Contents"):
-        return True
-    # Skip pages that are mostly prose (SEC Part headers, Items, etc.)
-    if re.match(r"^(PART\s+[IVX]+|Item\s+\d)", page_text.strip()[:20], re.IGNORECASE):
-        return True
-    return False
-
-
-def _extract_page_title(page_text: str) -> str:
-    """
-    Extract a title from the beginning of page text for presentation slides.
-    Looks for spaced-out headings like 'F I N A N C I A L  S U M M A R Y'.
-    """
-    # Split into lines (some slides have all text as one blob with tabs)
-    lines = page_text.replace("\t", "\n").split("\n")
-
-    for line in lines[:5]:
-        text = line.strip()
-        if not text or len(text) < 5:
-            continue
-        # Skip lines that are purely numeric or just page numbers
-        if re.match(r"^[\d\s\.\,\$%\-]+$", text):
-            continue
-        # Found a real title line — take up to 80 chars
-        return text[:80]
-
-    return ""
-
-
-def extract_tables_from_pdf(
-    pdf_path: Path,
-    company: str,
-    output_dir: Path,
-) -> list[dict]:
-    """
-    Extract all tables from a single PDF.
-
-    Args:
-        pdf_path: path to the PDF file
-        company: company ticker (e.g. "TSLA")
-        output_dir: directory to save cropped table images
-
-    Returns:
-        List of metadata dicts, one per table found.
-    """
-    report_name = pdf_path.stem  # e.g. "TSLA-Q3-2025-Update"
+    report_name = pdf_path.stem
     period = parse_period_from_filename(pdf_path.name)
 
     tables_metadata = []
 
-    # Open with both libraries
     plumber_pdf = pdfplumber.open(pdf_path)
     fitz_doc = fitz.open(pdf_path)
 
@@ -327,123 +78,66 @@ def extract_tables_from_pdf(
             page_width = plumber_page.width
             page_height = plumber_page.height
 
-            # Detect tables using multi-strategy approach
-            found_tables, any_detected = _find_tables_multi_strategy(plumber_page)
+            # Find tables on this page
+            try:
+                tables = plumber_page.find_tables()
+            except Exception:
+                continue
 
-            # Filter default-strategy tables (text-strategy already filtered)
-            found_tables = [t for t in found_tables if _is_valid_table(t)]
+            if not tables:
+                continue
 
-            # Get the corresponding fitz page for rendering
             fitz_page = fitz_doc[page_idx]
 
-            if found_tables:
-                # --- Standard table extraction ---
-                for tbl_idx, table in enumerate(found_tables):
-                    bbox = table.bbox  # (x0, y0, x1, y1) in pdfplumber coords
-                    x0, y0, x1, y1 = bbox
+            for tbl_idx, table in enumerate(tables):
+                bbox = table.bbox  # (x0, y0, x1, y1)
+                x0, y0, x1, y1 = bbox
 
-                    # Filter out tiny "tables" (likely false positives)
-                    table_height = y1 - y0
-                    if table_height < MIN_TABLE_HEIGHT:
-                        continue
-
-                    # Extract heading
-                    heading = extract_heading_above_table(plumber_page, bbox)
-                    if not heading:
-                        heading = f"Unknown Table (Page {page_num}, Table {tbl_idx + 1})"
-
-                    # Extract raw table data
-                    raw_data = table.extract()
-                    num_rows = len(raw_data) if raw_data else 0
-                    num_cols = len(raw_data[0]) if raw_data and raw_data[0] else 0
-
-                    # Render cropped image with PyMuPDF
-                    crop_x0 = max(0, x0 - PAD_LEFT)
-                    crop_y0 = max(0, y0 - PAD_TOP)
-                    crop_x1 = min(page_width, x1 + PAD_RIGHT)
-                    crop_y1 = min(page_height, y1 + PAD_BOTTOM)
-
-                    clip_rect = fitz.Rect(crop_x0, crop_y0, crop_x1, crop_y1)
-                    zoom = RENDER_DPI / 72
-                    mat = fitz.Matrix(zoom, zoom)
-                    pix = fitz_page.get_pixmap(matrix=mat, clip=clip_rect)
-
-                    img_filename = build_image_filename(company, report_name, page_num, tbl_idx + 1)
-                    img_path = output_dir / img_filename
-                    pix.save(str(img_path))
-
-                    rel_img_path = str(Path("data") / "extracted_tables" / company / img_filename)
-
-                    tables_metadata.append({
-                        "company": company,
-                        "report_name": report_name,
-                        "period": period,
-                        "page_number": page_num,
-                        "table_index": tbl_idx + 1,
-                        "heading": heading,
-                        "image_path": rel_img_path,
-                        "num_rows": num_rows,
-                        "num_cols": num_cols,
-                        "bbox_x0": round(x0, 1),
-                        "bbox_y0": round(y0, 1),
-                        "bbox_x1": round(x1, 1),
-                        "bbox_y1": round(y1, 1),
-                    })
-
-            elif not any_detected:
-                # --- Fallback: full-page capture for presentation slides ---
-                # Only when NO tables were detected by ANY strategy. If tables
-                # were detected but filtered as invalid, the page is prose text,
-                # not a presentation slide with financial data.
-                page_text = plumber_page.extract_text() or ""
-                if not page_text.strip():
-                    continue
-                if _is_boilerplate_page(page_text):
-                    continue
-                if not _page_has_financial_content(page_text):
+                # Skip tiny tables (false positives)
+                if (y1 - y0) < MIN_TABLE_HEIGHT:
                     continue
 
-                # This page has financial data but no detectable tables —
-                # capture the full page as a table image
-                title = _extract_page_title(page_text)
-                if not title:
-                    title = f"Financial Data (Page {page_num})"
+                # Skip tables that don't have numeric data
+                if not has_numbers(table):
+                    continue
 
-                # Render the full page
+                # Get heading text above the table
+                heading = extract_heading_above_table(plumber_page, bbox)
+                if not heading:
+                    heading = f"Table (Page {page_num}, #{tbl_idx + 1})"
+
+                # Get table dimensions
+                raw_data = table.extract()
+                num_rows = len(raw_data) if raw_data else 0
+                num_cols = len(raw_data[0]) if raw_data and raw_data[0] else 0
+
+                # Crop and save the table as an image
+                crop_x0 = max(0, x0 - PAD_LEFT)
+                crop_y0 = max(0, y0 - PAD_TOP)
+                crop_x1 = min(page_width, x1 + PAD_RIGHT)
+                crop_y1 = min(page_height, y1 + PAD_BOTTOM)
+
+                clip = fitz.Rect(crop_x0, crop_y0, crop_x1, crop_y1)
                 zoom = RENDER_DPI / 72
                 mat = fitz.Matrix(zoom, zoom)
-                pix = fitz_page.get_pixmap(matrix=mat)
+                pix = fitz_page.get_pixmap(matrix=mat, clip=clip)
 
-                img_filename = build_image_filename(company, report_name, page_num, 1)
+                img_filename = build_image_filename(company, report_name, page_num, tbl_idx + 1)
                 img_path = output_dir / img_filename
                 pix.save(str(img_path))
 
                 rel_img_path = str(Path("data") / "extracted_tables" / company / img_filename)
-
-                # Estimate rows/cols from text content
-                text_lines = [l for l in page_text.split("\n") if l.strip()]
-                num_rows = len(text_lines)
-                # Estimate columns from tab-separated content
-                if text_lines:
-                    max_tabs = max(line.count("\t") for line in text_lines)
-                    num_cols = max_tabs + 1
-                else:
-                    num_cols = 0
 
                 tables_metadata.append({
                     "company": company,
                     "report_name": report_name,
                     "period": period,
                     "page_number": page_num,
-                    "table_index": 1,
-                    "heading": title,
+                    "table_index": tbl_idx + 1,
+                    "heading": heading,
                     "image_path": rel_img_path,
                     "num_rows": num_rows,
                     "num_cols": num_cols,
-                    "bbox_x0": 0,
-                    "bbox_y0": 0,
-                    "bbox_x1": round(page_width, 1),
-                    "bbox_y1": round(page_height, 1),
                 })
 
     finally:
@@ -453,21 +147,12 @@ def extract_tables_from_pdf(
     return tables_metadata
 
 
-def process_company_folder(
-    company_folder: Path,
-    project_root: Path,
-) -> list[dict]:
+def process_company_folder(company_folder, project_root):
     """
     Process all PDFs in a company folder.
-
-    Args:
-        company_folder: path to e.g. data/raw_pdfs/TSLA/
-        project_root: root of the project (for output paths)
-
-    Returns:
-        Combined list of table metadata across all PDFs for this company.
+    Returns combined list of table metadata for all PDFs.
     """
-    company = company_folder.name  # e.g. "TSLA"
+    company = company_folder.name
     dirs = ensure_dirs(project_root, company)
     output_dir = dirs["extracted"]
 
