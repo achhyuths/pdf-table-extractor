@@ -10,15 +10,14 @@ def extract_heading_above_table(page, table_bbox):
     """
     Get the heading text above a table.
 
-    Looks at the text just above the table's top edge and returns
-    the first line that looks like a real title (not just numbers or dates).
+    Crops a strip above the table and walks up from the bottom,
+    skipping lines that are just numbers/years/dates (column headers).
     """
     x0, y0, x1, y1 = table_bbox
 
-    # Get the text from the area above the table
-    # Look up to 100 points above the table top
-    crop_top = max(0, y0 - 100)
-    crop_box = (x0, crop_top, x1, y0)
+    # Crop a strip above the table (80 points tall, full page width)
+    crop_top = max(0, y0 - 80)
+    crop_box = (0, crop_top, page.width, y0)
 
     try:
         cropped = page.within_bbox(crop_box)
@@ -26,22 +25,16 @@ def extract_heading_above_table(page, table_bbox):
     except Exception:
         return ""
 
-    if not text.strip():
-        return ""
-
-    # Split into lines and go from bottom to top (closest to table first)
+    # Walk lines from bottom to top (closest to table first)
     lines = [line.strip() for line in text.strip().split("\n") if line.strip()]
     lines.reverse()
 
     for line in lines:
-        # Skip lines that are just numbers, dates, dollar signs, etc.
-        if re.match(r'^[\s\d,\$%\.\-\/]+$', line):
-            continue
-        # Skip very short lines (page numbers, etc.)
+        # Skip short lines (page numbers etc.)
         if len(line) < 5:
             continue
-        # Skip lines that look like column headers (just years)
-        if re.match(r'^[\d\s]+$', line):
+        # Skip lines that are just numbers, years, dollar signs, percentages
+        if re.match(r'^[\s\d,\$%\.\-\/\(\)]+$', line):
             continue
         # This looks like a real heading
         return line
@@ -68,8 +61,8 @@ def parse_period_from_filename(filename):
     if match:
         return match.group(1).replace("_", "-")
 
-    # Look for just a year
-    match = re.search(r"(20\d{2})", filename)
+    # Look for just a year (but not inside UUIDs or hex strings)
+    match = re.search(r"(?<![a-fA-F0-9])(20\d{2})(?![a-fA-F0-9])", filename)
     if match:
         return match.group(1)
 
