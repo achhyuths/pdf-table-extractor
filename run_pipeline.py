@@ -28,18 +28,21 @@ MIN_TABLE_HEIGHT = 25
 
 
 def get_heading(page, bbox):
-    """Get the heading 2 lines above a table."""
+    """Get the heading above a table by finding the closest text-only line."""
     x0, y0, x1, y1 = bbox
-    crop_top = max(0, y0 - 80)
+    crop_top = max(0, y0 - 150)
     try:
         text = page.within_bbox((0, crop_top, page.width, y0)).extract_text() or ""
     except Exception:
         return ""
     lines = [l.strip() for l in text.strip().split("\n") if l.strip()]
-    if len(lines) >= 2:
-        return lines[-2]
-    elif len(lines) == 1:
-        return lines[0]
+    # Walk from bottom to top, skip any line that contains numbers
+    for line in reversed(lines):
+        if len(line) < 5:
+            continue
+        if any(c.isdigit() for c in line):
+            continue
+        return line
     return ""
 
 
@@ -62,20 +65,29 @@ def has_numbers(table):
         return False
 
 
-def get_year(filename):
-    """Extract year from filename, ignoring UUIDs."""
+def get_year(filename, plumber_pdf=None):
+    """Extract year from filename. If not found, look inside the PDF text."""
     match = re.search(r"(?<![a-fA-F0-9])(20\d{2})(?![a-fA-F0-9])", filename)
-    return match.group(1) if match else ""
+    if match:
+        return match.group(1)
+    # Filename has no year (e.g. UUID), so check first 3 pages of the PDF
+    if plumber_pdf:
+        for page in plumber_pdf.pages[:3]:
+            text = page.extract_text() or ""
+            match = re.search(r"(20\d{2})", text)
+            if match:
+                return match.group(1)
+    return ""
 
 
 def extract_tables(pdf_path, company, output_dir):
     """Extract all tables from a PDF. Returns list of metadata dicts."""
     report = pdf_path.stem
-    period = get_year(pdf_path.name)
     results = []
 
     plumber_pdf = pdfplumber.open(pdf_path)
     fitz_doc = fitz.open(pdf_path)
+    period = get_year(pdf_path.name, plumber_pdf)
 
     try:
         for page_idx, page in enumerate(plumber_pdf.pages):
