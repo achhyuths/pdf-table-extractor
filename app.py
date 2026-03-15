@@ -1,5 +1,5 @@
 """
-Streamlit app to browse extracted SEC filing tables.
+Streamlit app to browse extracted tables.
 
 Launch with: streamlit run app.py
 """
@@ -14,8 +14,8 @@ INDEX_CSV = PROJECT_ROOT / "data" / "index" / "tables_index.csv"
 
 
 def main():
-    st.set_page_config(page_title="SEC Table Explorer", layout="wide")
-    st.title("SEC Filing Table Explorer")
+    st.set_page_config(page_title="PDF Table Extractor", layout="wide")
+    st.title("PDF Table Extractor")
 
     # Load index
     if not INDEX_CSV.exists():
