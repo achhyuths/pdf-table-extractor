@@ -1,4 +1,4 @@
-# SEC Filing Table Extractor
+# PDF Table Extractor
 
 Extracts tables from SEC quarterly/annual report PDFs (10-Q, 10-K, earnings updates), saves cropped high-resolution images of each table, builds a searchable master index, and provides a Streamlit app for browsing. Pure Python — no LLMs or AI APIs.
 
@@ -19,7 +19,7 @@ data/
 │   └── NVDA/
 │       └── ...
 ├── extracted_tables/   # Output: cropped table images (auto-generated)
-└── index/              # Output: master index CSV + Excel (auto-generated)
+└── index/              # Output: master index CSV (auto-generated)
 ```
 
 ## Adding PDFs
