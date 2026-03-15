@@ -28,7 +28,7 @@ MIN_TABLE_HEIGHT = 25
 
 
 def get_heading(page, bbox):
-    """Get the heading above a table by finding the closest text-only line."""
+    """Get the heading above a table by finding the closest title-like line."""
     x0, y0, x1, y1 = bbox
     crop_top = max(0, y0 - 150)
     try:
@@ -36,11 +36,14 @@ def get_heading(page, bbox):
     except Exception:
         return ""
     lines = [l.strip() for l in text.strip().split("\n") if l.strip()]
-    # Walk from bottom to top, skip any line that contains numbers
+    # Walk from bottom to top, looking for a real title
     for line in reversed(lines):
-        if len(line) < 5:
+        if len(line) < 10:
             continue
         if any(c.isdigit() for c in line):
+            continue
+        # Skip parenthetical notes like "(Unaudited)" or "(In millions...)"
+        if line.startswith("("):
             continue
         return line
     return ""
@@ -74,7 +77,7 @@ def get_year(filename, plumber_pdf=None):
     if plumber_pdf:
         for page in plumber_pdf.pages[:3]:
             text = page.extract_text() or ""
-            match = re.search(r"(20\d{2})", text)
+            match = re.search(r"\b(20\d{2})\b", text)
             if match:
                 return match.group(1)
     return ""
