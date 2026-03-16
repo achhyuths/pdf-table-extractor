@@ -68,13 +68,15 @@ def main():
 
     # Show each table
     for _, row in filtered.iterrows():
-        title = f"{row['Company']} | {row['Period']} | {row['Heading']}"
+        report_type = row.get("Report_Type", "")
+        label = f"{row['Company']} | {row['Period']} {report_type} | {row['Heading']}"
 
-        with st.expander(title):
-            col1, col2, col3 = st.columns(3)
+        with st.expander(label):
+            col1, col2, col3, col4 = st.columns(4)
             col1.metric("Page", row["Page"])
             col2.metric("Size", f"{row['Rows']} x {row['Columns']}")
             col3.metric("Table #", row["Table_Index"])
+            col4.metric("Type", report_type if report_type else "—")
 
             img_path = PROJECT_ROOT / row["Image_Path"]
             if img_path.exists():

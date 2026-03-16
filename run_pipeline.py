@@ -38,15 +38,41 @@ def get_heading(page, bbox):
     lines = [l.strip() for l in text.strip().split("\n") if l.strip()]
     # Walk from bottom to top, looking for a real title
     for line in reversed(lines):
-        if len(line) < 10:
+        if len(line) < 15:
             continue
-        if any(c.isdigit() for c in line):
+        # Skip lines that are only numbers/symbols
+        if re.match(r'^[\d\s,.$%()\-/]+$', line):
             continue
         # Skip parenthetical notes like "(Unaudited)" or "(In millions...)"
         if line.startswith("("):
             continue
+        # Skip lines with any digits (column headers, dates, data rows)
+        if re.search(r'\d', line):
+            continue
         return line
     return ""
+
+
+def get_report_type(plumber_pdf):
+    """Figure out if this is quarterly (Q1-Q4) or annual."""
+    text = plumber_pdf.pages[0].extract_text() or ""
+    is_annual = "10-K" in text or "ANNUAL REPORT" in text
+
+    # Find period end month to determine quarter
+    month_to_q = {
+        "january": "Q4", "february": "Q4", "march": "Q1",
+        "april": "Q1", "may": "Q2", "june": "Q2",
+        "july": "Q2", "august": "Q3", "september": "Q3",
+        "october": "Q3", "november": "Q4", "december": "Q4",
+    }
+    match = re.search(r"(?:ended|ending)\s+(\w+)\s+\d{1,2},?\s*\d{4}", text, re.IGNORECASE)
+    quarter = ""
+    if match:
+        quarter = month_to_q.get(match.group(1).lower(), "")
+
+    if is_annual:
+        return "Annual"
+    return quarter
 
 
 def has_numbers(table):
@@ -91,6 +117,7 @@ def extract_tables(pdf_path, company, output_dir):
     plumber_pdf = pdfplumber.open(pdf_path)
     fitz_doc = fitz.open(pdf_path)
     period = get_year(pdf_path.name, plumber_pdf)
+    report_type = get_report_type(plumber_pdf)
 
     try:
         for page_idx, page in enumerate(plumber_pdf.pages):
@@ -133,9 +160,12 @@ def extract_tables(pdf_path, company, output_dir):
 
                 results.append({
                     "Company": company, "Report": report, "Period": period,
+                    "Report_Type": report_type,
                     "Page": page_num, "Table_Index": tbl_idx + 1, "Heading": heading,
                     "Image_Path": f"data/extracted_tables/{company}/{img_name}",
                     "Rows": rows, "Columns": cols,
+                    "Bbox_X0": round(x0, 1), "Bbox_Y0": round(y0, 1),
+                    "Bbox_X1": round(x1, 1), "Bbox_Y1": round(y1, 1),
                 })
 
     finally:
