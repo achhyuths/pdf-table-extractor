@@ -1,5 +1,5 @@
 """
-Extract tables from SEC PDF filings and build a CSV index.
+Extract tables from PDF filings and build a CSV index.
 
 Usage: python run_pipeline.py
 """
