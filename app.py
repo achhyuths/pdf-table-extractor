@@ -45,6 +45,13 @@ def main():
     if selected_period != "All":
         filtered = filtered[filtered["Period"] == selected_period]
 
+    # Quarter / Annual filter
+    report_types = sorted(filtered["Report_Type"].dropna().unique().tolist())
+    selected_type = st.sidebar.selectbox("Quarter", ["All"] + report_types)
+
+    if selected_type != "All":
+        filtered = filtered[filtered["Report_Type"] == selected_type]
+
     # Text search
     search = st.sidebar.text_input("Search headings", placeholder="e.g. Balance Sheet")
     if search:
