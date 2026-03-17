@@ -1,0 +1,1389 @@
+[
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 3,
+    "table_index": 1,
+    "heading": "TABLE OF CONTENTS",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 154.8,
+      "x1": 562.5,
+      "y1": 211.3
+    },
+    "rows": 4,
+    "columns": 1,
+    "data": [
+      [
+        "Item 1. Financial Statements 1"
+      ],
+      [
+        "Item 2. Management\u2019s Discussion and Analysis of Financial Condition and Results of Operations 12"
+      ],
+      [
+        "Item 3. Quantitative and Qualitative Disclosures About Market Risk 17"
+      ],
+      [
+        "Item 4. Controls and Procedures 17"
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 3,
+    "table_index": 2,
+    "heading": "TABLE OF CONTENTS",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 224.5,
+      "x1": 562.5,
+      "y1": 323.8
+    },
+    "rows": 7,
+    "columns": 1,
+    "data": [
+      [
+        "Item 1. Legal Proceedings 18"
+      ],
+      [
+        "Item 1A. Risk Factors 19"
+      ],
+      [
+        "Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 20"
+      ],
+      [
+        "Item 3. Defaults Upon Senior Securities 21"
+      ],
+      [
+        "Item 4. Mine Safety Disclosures 21"
+      ],
+      [
+        "Item 5. Other Information 21"
+      ],
+      [
+        "Item 6. Exhibits 21"
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 4,
+    "table_index": 1,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 192.9,
+      "x1": 562.5,
+      "y1": 591.9
+    },
+    "rows": 28,
+    "columns": 1,
+    "data": [
+      [
+        "Products $ 97,960 $ 96,458"
+      ],
+      [
+        "Services 26,340 23,117"
+      ],
+      [
+        "Total net sales 124,300 119,575"
+      ],
+      [
+        ""
+      ],
+      [
+        "Cost of sales:"
+      ],
+      [
+        "Products 59,447 58,440"
+      ],
+      [
+        "Services 6,578 6,280"
+      ],
+      [
+        "Total cost of sales 66,025 64,720"
+      ],
+      [
+        "Gross margin 58,275 54,855"
+      ],
+      [
+        ""
+      ],
+      [
+        "Operating expenses:"
+      ],
+      [
+        "Research and development 8,268 7,696"
+      ],
+      [
+        "Selling, general and administrative 7,175 6,786"
+      ],
+      [
+        "Total operating expenses 15,443 14,482"
+      ],
+      [
+        ""
+      ],
+      [
+        "Operating income 42,832 40,373"
+      ],
+      [
+        "Other income/(expense), net (248) (50)"
+      ],
+      [
+        "Income before provision for income taxes 42,584 40,323"
+      ],
+      [
+        "Provision for income taxes 6,254 6,407"
+      ],
+      [
+        "Net income $ 36,330 $ 33,916"
+      ],
+      [
+        ""
+      ],
+      [
+        "Earnings per share:"
+      ],
+      [
+        "Basic $ 2.41 $ 2.19"
+      ],
+      [
+        "Diluted $ 2.40 $ 2.18"
+      ],
+      [
+        ""
+      ],
+      [
+        "Shares used in computing earnings per share:"
+      ],
+      [
+        "Basic 15,081,724 15,509,763"
+      ],
+      [
+        "Diluted 15,150,865 15,576,641"
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 5,
+    "table_index": 1,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 361.0
+    },
+    "rows": 15,
+    "columns": 1,
+    "data": [
+      [
+        "Other comprehensive income/(loss):"
+      ],
+      [
+        "Change in foreign currency translation, net of tax (625) 308"
+      ],
+      [
+        ""
+      ],
+      [
+        "Change in unrealized gains/losses on derivative instruments, net of tax:"
+      ],
+      [
+        "Change in fair value of derivative instruments 1,651 (531)"
+      ],
+      [
+        "Adjustment for net (gains)/losses realized and included in net income 784 (823)"
+      ],
+      [
+        "Total change in unrealized gains/losses on derivative instruments 2,435 (1,354)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Change in unrealized gains/losses on marketable debt securities, net of tax:"
+      ],
+      [
+        "Change in fair value of marketable debt securities (1,647) 3,045"
+      ],
+      [
+        "Adjustment for net (gains)/losses realized and included in net income 220 75"
+      ],
+      [
+        "Total change in unrealized gains/losses on marketable debt securities (1,427) 3,120"
+      ],
+      [
+        ""
+      ],
+      [
+        "Total other comprehensive income 383 2,074"
+      ],
+      [
+        "Total comprehensive income $ 36,713 $ 35,990"
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 6,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 120.3,
+      "x1": 562.5,
+      "y1": 700.8
+    },
+    "rows": 40,
+    "columns": 2,
+    "data": [
+      [
+        "ASSETS:",
+        ""
+      ],
+      [
+        "Current assets:",
+        ""
+      ],
+      [
+        "Cash and cash equivalents $ 30,299 $ 29,943",
+        ""
+      ],
+      [
+        "Marketable securities 23,476 35,228",
+        ""
+      ],
+      [
+        "Accounts receivable, net 29,639 33,410",
+        ""
+      ],
+      [
+        "Vendor non-trade receivables 29,667 32,833",
+        ""
+      ],
+      [
+        "Inventories 6,911 7,286",
+        ""
+      ],
+      [
+        "Other current assets 13,248 14,287",
+        ""
+      ],
+      [
+        "Total current assets 133,240 152,987",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "Non-current assets:",
+        ""
+      ],
+      [
+        "Marketable securities 87,593 91,479",
+        ""
+      ],
+      [
+        "Property, plant and equipment, net 46,069 45,680",
+        ""
+      ],
+      [
+        "Other non-current assets 77,183 74,834",
+        ""
+      ],
+      [
+        "Total non-current assets 210,845 211,993",
+        ""
+      ],
+      [
+        "Total assets $ 344,085 $ 364,980",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "LIABILITIES AND SHAREHOLDERS\u2019 EQUITY:",
+        ""
+      ],
+      [
+        "Current liabilities:",
+        ""
+      ],
+      [
+        "Accounts payable $ 61,910 $ 68,960",
+        ""
+      ],
+      [
+        "Other current liabilities 61,151 78,304",
+        ""
+      ],
+      [
+        "Deferred revenue 8,461 8,249",
+        ""
+      ],
+      [
+        "Commercial paper 1,995 9,967",
+        ""
+      ],
+      [
+        "Term debt 10,848 10,912",
+        ""
+      ],
+      [
+        "Total current liabilities 144,365 176,392",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "Non-current liabilities:",
+        ""
+      ],
+      [
+        "Term debt 83,956 85,750",
+        ""
+      ],
+      [
+        "Other non-current liabilities 49,006 45,888",
+        ""
+      ],
+      [
+        "Total non-current liabilities 132,962 131,638",
+        ""
+      ],
+      [
+        "Total liabilities 277,327 308,030",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "Commitments and contingencies",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "Shareholders\u2019 equity:",
+        ""
+      ],
+      [
+        "Common stock and additional paid-in capital, $0.00001 par value: 50,400,000 shares\nauthorized; 15,040,731 and 15,116,786 shares issued and outstanding, respectively 84,768 83,276",
+        ""
+      ],
+      [
+        "Accumulated deficit (11,221) (19,154)",
+        ""
+      ],
+      [
+        "Accumulated other comprehensive loss (6,789) (7,172)",
+        ""
+      ],
+      [
+        "Total shareholders\u2019 equity 66,758 56,950",
+        ""
+      ],
+      [
+        "Total liabilities and shareholders\u2019 equity $ 344,085 $ 364,980",
+        ""
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 7,
+    "table_index": 1,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 475.0
+    },
+    "rows": 23,
+    "columns": 1,
+    "data": [
+      [
+        ""
+      ],
+      [
+        "Common stock and additional paid-in capital:"
+      ],
+      [
+        "Beginning balances 83,276 73,812"
+      ],
+      [
+        "Common stock withheld related to net share settlement of equity awards (1,891) (1,660)"
+      ],
+      [
+        "Share-based compensation 3,383 3,084"
+      ],
+      [
+        "Ending balances 84,768 75,236"
+      ],
+      [
+        ""
+      ],
+      [
+        "Retained earnings/(Accumulated deficit):"
+      ],
+      [
+        "Beginning balances (19,154) (214)"
+      ],
+      [
+        "Net income 36,330 33,916"
+      ],
+      [
+        "Dividends and dividend equivalents declared (3,819) (3,774)"
+      ],
+      [
+        "Common stock withheld related to net share settlement of equity awards (1,102) (1,018)"
+      ],
+      [
+        "Common stock repurchased (23,476) (20,668)"
+      ],
+      [
+        "Ending balances (11,221) 8,242"
+      ],
+      [
+        ""
+      ],
+      [
+        "Accumulated other comprehensive loss:"
+      ],
+      [
+        "Beginning balances (7,172) (11,452)"
+      ],
+      [
+        "Other comprehensive income 383 2,074"
+      ],
+      [
+        "Ending balances (6,789) (9,378)"
+      ],
+      [
+        ""
+      ],
+      [
+        "Total shareholders\u2019 equity, ending balances $ 66,758 $ 74,100"
+      ],
+      [
+        ""
+      ],
+      [
+        "Dividends and dividend equivalents declared per share or RSU $ 0.25 $ 0.24"
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 8,
+    "table_index": 1,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 688.8
+    },
+    "rows": 38,
+    "columns": 3,
+    "data": [
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Operating activities:",
+        "",
+        ""
+      ],
+      [
+        "Net income 36,330 33,916",
+        "",
+        ""
+      ],
+      [
+        "Adjustments to reconcile net income to cash generated by operating activities:",
+        "",
+        ""
+      ],
+      [
+        "Depreciation and amortization 3,080 2,848",
+        "",
+        ""
+      ],
+      [
+        "Share-based compensation expense 3,286 2,997",
+        "",
+        ""
+      ],
+      [
+        "Other (2,009) (989)",
+        "",
+        ""
+      ],
+      [
+        "Changes in operating assets and liabilities:",
+        "",
+        ""
+      ],
+      [
+        "Accounts receivable, net 3,597 6,555",
+        "",
+        ""
+      ],
+      [
+        "Vendor non-trade receivables 3,166 4,569",
+        "",
+        ""
+      ],
+      [
+        "Inventories 215 (137)",
+        "",
+        ""
+      ],
+      [
+        "Other current and non-current assets 939 (1,457)",
+        "",
+        ""
+      ],
+      [
+        "Accounts payable (6,671) (4,542)",
+        "",
+        ""
+      ],
+      [
+        "Other current and non-current liabilities (11,998) (3,865)",
+        "",
+        ""
+      ],
+      [
+        "Cash generated by operating activities 29,935 39,895",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Investing activities:",
+        "",
+        ""
+      ],
+      [
+        "Purchases of marketable securities (6,124) (9,780)",
+        "",
+        ""
+      ],
+      [
+        "Proceeds from maturities of marketable securities 15,967 13,046",
+        "",
+        ""
+      ],
+      [
+        "Proceeds from sales of marketable securities 3,492 1,337",
+        "",
+        ""
+      ],
+      [
+        "Payments for acquisition of property, plant and equipment (2,940) (2,392)",
+        "",
+        ""
+      ],
+      [
+        "Other (603) (284)",
+        "",
+        ""
+      ],
+      [
+        "Cash generated by investing activities 9,792 1,927",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Financing activities:",
+        "",
+        ""
+      ],
+      [
+        "Payments for taxes related to net share settlement of equity awards (2,921) (2,591)",
+        "",
+        ""
+      ],
+      [
+        "Payments for dividends and dividend equivalents (3,856) (3,825)",
+        "",
+        ""
+      ],
+      [
+        "Repurchases of common stock (23,606) (20,139)",
+        "",
+        ""
+      ],
+      [
+        "Repayments of term debt (1,009) \u2014",
+        "",
+        ""
+      ],
+      [
+        "Repayments of commercial paper, net (7,944) (3,984)",
+        "",
+        ""
+      ],
+      [
+        "Other (35) (46)",
+        "",
+        ""
+      ],
+      [
+        "Cash used in financing activities (39,371) (30,585)",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Increase in cash, cash equivalents, and restricted cash and cash equivalents 356 11,237",
+        "",
+        ""
+      ],
+      [
+        "Cash, cash equivalents, and restricted cash and cash equivalents, ending balances $ 30,299 $ 41,974",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        ""
+      ],
+      [
+        "Supplemental cash flow disclosure:",
+        "",
+        ""
+      ],
+      [
+        "Cash paid for income taxes, net $ 18,651 $ 7,255",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 9,
+    "table_index": 1,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 383.2,
+      "x1": 562.5,
+      "y1": 456.0
+    },
+    "rows": 5,
+    "columns": 2,
+    "data": [
+      [
+        "Mac\u00ae",
+        "8,987 7,780"
+      ],
+      [
+        "iPad\u00ae 8,088 7,023",
+        ""
+      ],
+      [
+        "Wearables, Home and Accessories 11,747 11,953",
+        ""
+      ],
+      [
+        "Services 26,340 23,117",
+        ""
+      ],
+      [
+        "Total net sales $ 124,300 $ 119,575",
+        ""
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 10,
+    "table_index": 1,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 132.9,
+      "x1": 562.5,
+      "y1": 261.2
+    },
+    "rows": 9,
+    "columns": 2,
+    "data": [
+      [
+        "Net income",
+        "$ 36,330 $ 33,916"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "Denominator:",
+        ""
+      ],
+      [
+        "Weighted-average basic shares outstanding 15,081,724 15,509,763",
+        ""
+      ],
+      [
+        "Effect of dilutive share-based awards 69,141 66,878",
+        ""
+      ],
+      [
+        "Weighted-average diluted shares 15,150,865 15,576,641",
+        ""
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "Basic earnings per share $ 2.41 $ 2.19",
+        ""
+      ],
+      [
+        "Diluted earnings per share $ 2.40 $ 2.18",
+        ""
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 10,
+    "table_index": 2,
+    "heading": "Cost Gains Losses Value Equivalents Securities Securities",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 400.1,
+      "x1": 562.5,
+      "y1": 604.8
+    },
+    "rows": 15,
+    "columns": 1,
+    "data": [
+      [
+        "Level 1:"
+      ],
+      [
+        "Money market funds 937 \u2014 \u2014 937 937 \u2014 \u2014"
+      ],
+      [
+        "Mutual funds 597 109 (7) 699 \u2014 699 \u2014"
+      ],
+      [
+        "Subtotal 1,534 109 (7) 1,636 937 699 \u2014"
+      ],
+      [
+        "Level 2 (1):"
+      ],
+      [
+        "U.S. Treasury securities 15,516 5 (616) 14,905 903 2,718 11,284"
+      ],
+      [
+        "U.S. agency securities 5,570 \u2014 (303) 5,267 314 1,683 3,270"
+      ],
+      [
+        "Non-U.S. government securities 8,596 22 (819) 7,799 50 2,524 5,225"
+      ],
+      [
+        "Certificates of deposit and time deposits 1,147 \u2014 (13) 1,134 874 247 13"
+      ],
+      [
+        "Commercial paper 418 \u2014 (19) 399 101 298 \u2014"
+      ],
+      [
+        "Corporate debt securities 61,566 96 (2,210) 59,452 47 14,451 44,954"
+      ],
+      [
+        "Municipal securities 355 \u2014 (7) 348 \u2014 189 159"
+      ],
+      [
+        "Mortgage- and asset-backed securities 25,313 29 (1,987) 23,355 \u2014 667 22,688"
+      ],
+      [
+        "Subtotal 118,481 152 (5,974) 112,659 2,289 22,777 87,593"
+      ],
+      [
+        "Total (2)(3) $ 147,088 $ 261 $ (5,981) $ 141,368 $ 30,299 $ 23,476 $ 87,593"
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 11,
+    "table_index": 1,
+    "heading": "Cost Gains Losses Value Equivalents Securities Securities",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 97.5,
+      "x1": 562.5,
+      "y1": 302.2
+    },
+    "rows": 15,
+    "columns": 1,
+    "data": [
+      [
+        "Level 1:"
+      ],
+      [
+        "Money market funds 778 \u2014 \u2014 778 778 \u2014 \u2014"
+      ],
+      [
+        "Mutual funds 515 105 (3) 617 \u2014 617 \u2014"
+      ],
+      [
+        "Subtotal 1,293 105 (3) 1,395 778 617 \u2014"
+      ],
+      [
+        "Level 2 (1):"
+      ],
+      [
+        "U.S. Treasury securities 16,150 45 (516) 15,679 212 4,087 11,380"
+      ],
+      [
+        "U.S. agency securities 5,431 \u2014 (272) 5,159 155 703 4,301"
+      ],
+      [
+        "Non-U.S. government securities 17,959 93 (484) 17,568 1,158 10,810 5,600"
+      ],
+      [
+        "Certificates of deposit and time deposits 873 \u2014 \u2014 873 387 478 8"
+      ],
+      [
+        "Commercial paper 1,066 \u2014 \u2014 1,066 28 1,038 \u2014"
+      ],
+      [
+        "Corporate debt securities 65,622 270 (1,953) 63,939 26 16,027 47,886"
+      ],
+      [
+        "Municipal securities 412 \u2014 (7) 405 \u2014 190 215"
+      ],
+      [
+        "Mortgage- and asset-backed securities 24,595 175 (1,403) 23,367 \u2014 1,278 22,089"
+      ],
+      [
+        "Subtotal 132,108 583 (4,635) 128,056 1,966 34,611 91,479"
+      ],
+      [
+        "Total (2)(3) $ 160,600 $ 688 $ (4,638) $ 156,650 $ 29,943 $ 35,228 $ 91,479"
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 12,
+    "table_index": 1,
+    "heading": "Derivative instruments designated as accounting hedges:",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 159.8,
+      "x1": 562.5,
+      "y1": 231.0
+    },
+    "rows": 5,
+    "columns": 1,
+    "data": [
+      [
+        "Foreign exchange contracts $ 47,466 $ 64,069"
+      ],
+      [
+        "Interest rate contracts $ 14,575 $ 14,575"
+      ],
+      [
+        ""
+      ],
+      [
+        "Derivative instruments not designated as accounting hedges:"
+      ],
+      [
+        "Foreign exchange contracts $ 96,150 $ 91,493"
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 12,
+    "table_index": 3,
+    "heading": "Table (Page 12, #3)",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 608.0,
+      "x1": 562.5,
+      "y1": 636.5
+    },
+    "rows": 2,
+    "columns": 3,
+    "data": [
+      [
+        "Finished goods 4,119",
+        "",
+        "3,659"
+      ],
+      [
+        "Total inventories $ 6,911 $ 7,286",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 12,
+    "table_index": 4,
+    "heading": "Property, Plant and Equipment, Net",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 709.3,
+      "x1": 562.5,
+      "y1": 737.8
+    },
+    "rows": 2,
+    "columns": 3,
+    "data": [
+      [
+        "Accumulated depreciation",
+        "(74,546)",
+        "(73,448)"
+      ],
+      [
+        "Total property, plant and equipment, net $ 46,069 $ 45,680",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 13,
+    "table_index": 1,
+    "heading": "RSUs Grant-Date Fair",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 410.2,
+      "x1": 562.5,
+      "y1": 467.2
+    },
+    "rows": 4,
+    "columns": 1,
+    "data": [
+      [
+        "RSUs granted 61,391 $ 228.04"
+      ],
+      [
+        "RSUs vested (35,683) $ 147.36"
+      ],
+      [
+        "RSUs canceled (2,278) $ 174.77"
+      ],
+      [
+        "Balance as of December 28, 2024 186,756 $ 183.49"
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 14,
+    "table_index": 1,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 210.9,
+      "x1": 562.5,
+      "y1": 467.4
+    },
+    "rows": 18,
+    "columns": 1,
+    "data": [
+      [
+        "Net sales $ 52,648 $ 50,430"
+      ],
+      [
+        "Operating income $ 21,509 $ 20,357"
+      ],
+      [
+        ""
+      ],
+      [
+        "Europe:"
+      ],
+      [
+        "Net sales $ 33,861 $ 30,397"
+      ],
+      [
+        "Operating income $ 14,607 $ 12,711"
+      ],
+      [
+        ""
+      ],
+      [
+        "Greater China:"
+      ],
+      [
+        "Net sales $ 18,513 $ 20,819"
+      ],
+      [
+        "Operating income $ 8,160 $ 8,622"
+      ],
+      [
+        ""
+      ],
+      [
+        "Japan:"
+      ],
+      [
+        "Net sales $ 8,987 $ 7,767"
+      ],
+      [
+        "Operating income $ 4,314 $ 3,819"
+      ],
+      [
+        ""
+      ],
+      [
+        "Rest of Asia Pacific:"
+      ],
+      [
+        "Net sales $ 10,291 $ 10,162"
+      ],
+      [
+        "Operating income $ 4,584 $ 4,579"
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 14,
+    "table_index": 2,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 557.8,
+      "x1": 562.5,
+      "y1": 600.5
+    },
+    "rows": 3,
+    "columns": 1,
+    "data": [
+      [
+        "Research and development expense (8,268) (7,696)"
+      ],
+      [
+        "Other corporate expenses, net (2,074) (2,019)"
+      ],
+      [
+        "Total operating income $ 42,832 $ 40,373"
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 16,
+    "table_index": 1,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 132.9,
+      "x1": 562.5,
+      "y1": 204.2
+    },
+    "rows": 5,
+    "columns": 1,
+    "data": [
+      [
+        "Europe 33,861 30,397 11 %"
+      ],
+      [
+        "Greater China 18,513 20,819 (11) %"
+      ],
+      [
+        "Japan 8,987 7,767 16 %"
+      ],
+      [
+        "Rest of Asia Pacific 10,291 10,162 1 %"
+      ],
+      [
+        "Total net sales $ 124,300 $ 119,575 4 %"
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 17,
+    "table_index": 1,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 118.7,
+      "x1": 562.5,
+      "y1": 204.2
+    },
+    "rows": 6,
+    "columns": 1,
+    "data": [
+      [
+        "iPhone $ 69,138 $ 69,702 (1) %"
+      ],
+      [
+        "Mac 8,987 7,780 16 %"
+      ],
+      [
+        "iPad 8,088 7,023 15 %"
+      ],
+      [
+        "Wearables, Home and Accessories 11,747 11,953 (2) %"
+      ],
+      [
+        "Services 26,340 23,117 14 %"
+      ],
+      [
+        "Total net sales $ 124,300 $ 119,575 4 %"
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 18,
+    "table_index": 1,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 132.9,
+      "x1": 562.5,
+      "y1": 175.7
+    },
+    "rows": 3,
+    "columns": 2,
+    "data": [
+      [
+        "Products",
+        "$ 38,513 $ 38,018"
+      ],
+      [
+        "Services 19,762 16,837",
+        ""
+      ],
+      [
+        "Total gross margin $ 58,275 $ 54,855",
+        ""
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 18,
+    "table_index": 2,
+    "heading": "Gross margin percentage:",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 200.9,
+      "x1": 562.5,
+      "y1": 243.7
+    },
+    "rows": 3,
+    "columns": 2,
+    "data": [
+      [
+        "Products",
+        "39.3% 39.4%"
+      ],
+      [
+        "Services 75.0% 72.8%",
+        ""
+      ],
+      [
+        "Total gross margin percentage 46.9% 45.9%",
+        ""
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 18,
+    "table_index": 3,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 553.6,
+      "x1": 562.5,
+      "y1": 632.3
+    },
+    "rows": 5,
+    "columns": 1,
+    "data": [
+      [
+        "Percentage of total net sales 7% 6%"
+      ],
+      [
+        "Selling, general and administrative $ 7,175 $ 6,786"
+      ],
+      [
+        "Percentage of total net sales 6% 6%"
+      ],
+      [
+        "Total operating expenses $ 15,443 $ 14,482"
+      ],
+      [
+        "Percentage of total net sales 12% 12%"
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 19,
+    "table_index": 1,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 132.9,
+      "x1": 562.5,
+      "y1": 161.4
+    },
+    "rows": 2,
+    "columns": 3,
+    "data": [
+      [
+        "Effective tax rate",
+        "14.7%",
+        "15.9%"
+      ],
+      [
+        "Statutory federal income tax rate",
+        "",
+        "21%"
+      ]
+    ]
+  },
+  {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 23,
+    "table_index": 1,
+    "heading": "of Shares Paid Per Plans or Under the Plans",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 498.3,
+      "x1": 561.8,
+      "y1": 613.0
+    },
+    "rows": 9,
+    "columns": 2,
+    "data": [
+      [
+        "September 29, 2024 to November 2, 2024:",
+        ""
+      ],
+      [
+        "Open market and privately negotiated purchases",
+        "41,627 $ 229.51 41,627"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "November 3, 2024 to November 30, 2024:",
+        ""
+      ],
+      [
+        "Open market and privately negotiated purchases",
+        "32,784 $ 227.13 32,784"
+      ],
+      [
+        "",
+        ""
+      ],
+      [
+        "December 1, 2024 to December 28, 2024:",
+        ""
+      ],
+      [
+        "Open market and privately negotiated purchases",
+        "25,379 $ 248.05 25,379"
+      ],
+      [
+        "Total",
+        "99,790 $ 65,779"
+      ]
+    ]
+  }
+]
