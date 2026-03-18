@@ -1,6 +1,18 @@
 [
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 3,
+    "table_index": 1,
+    "heading": "TABLE OF CONTENTS",
     "image": "AAPL_10-Q4-2024-As-Filed_p03_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 155.6,
+      "x1": 562.5,
+      "y1": 254.1
+    },
     "rows": 19,
     "data": [
       "Apple Inc.",
@@ -25,7 +37,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 3,
+    "table_index": 2,
+    "heading": "Table (Page 3, #2)",
     "image": "AAPL_10-Q4-2024-As-Filed_p03_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 268.8,
+      "x1": 562.5,
+      "y1": 405.6
+    },
     "rows": 34,
     "data": [
       "Part!",
@@ -65,7 +89,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 111,
+    "table_index": 1,
+    "heading": "The regularly scheduled restricted trading period and trading window for each quarter is indicated below.",
     "image": "AAPL_10-Q4-2024-As-Filed_p111_t01.png",
+    "coordinates": {
+      "x0": 77.5,
+      "y0": 253.2,
+      "x1": 539.5,
+      "y1": 389.0
+    },
     "rows": 22,
     "data": [
       "a es bee",
@@ -93,7 +129,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 22,
+    "table_index": 1,
+    "heading": "of Shares Paid Per Plans or Under the Plans",
     "image": "AAPL_10-Q4-2024-As-Filed_p22_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 285.5,
+      "x1": 562.5,
+      "y1": 387.5
+    },
     "rows": 43,
     "data": [
       "As of October 18, 2024, there were 23,301 shareholders of record.",
@@ -142,7 +190,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 23,
+    "table_index": 1,
+    "heading": "September September September September September September",
     "image": "AAPL_10-Q4-2024-As-Filed_p23_t01.png",
+    "coordinates": {
+      "x0": 50.3,
+      "y0": 522.0,
+      "x1": 561.8,
+      "y1": 550.5
+    },
     "rows": 9,
     "data": [
       "$0",
@@ -157,7 +217,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 25,
+    "table_index": 1,
+    "heading": "Segment Operating Performance",
     "image": "AAPL_10-Q4-2024-As-Filed_p25_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 100.3,
+      "x1": 562.5,
+      "y1": 171.6
+    },
     "rows": 9,
     "data": [
       "Segment Operating Performance",
@@ -172,7 +244,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 26,
+    "table_index": 1,
+    "heading": "Products and Services Performance",
     "image": "AAPL_10-Q4-2024-As-Filed_p26_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 100.3,
+      "x1": 562.5,
+      "y1": 171.6
+    },
     "rows": 9,
     "data": [
       "Products and Services Performance",
@@ -187,7 +271,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 27,
+    "table_index": 1,
+    "heading": "Table (Page 27, #1)",
     "image": "AAPL_10-Q4-2024-As-Filed_p27_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 100.3,
+      "x1": 562.5,
+      "y1": 143.1
+    },
     "rows": 7,
     "data": [
       "Gross Margin",
@@ -200,7 +296,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 27,
+    "table_index": 2,
+    "heading": "Gross margin percentage:",
     "image": "AAPL_10-Q4-2024-As-Filed_p27_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 168.3,
+      "x1": 562.5,
+      "y1": 211.1
+    },
     "rows": 37,
     "data": [
       "Gross Margin",
@@ -243,7 +351,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 27,
+    "table_index": 3,
+    "heading": "Operating Expenses",
     "image": "AAPL_10-Q4-2024-As-Filed_p27_t03.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 466.9,
+      "x1": 562.5,
+      "y1": 545.7
+    },
     "rows": 19,
     "data": [
       "Services gross margin percentage increased during 2024 compared to 2023 due to a different Services mix.",
@@ -268,7 +388,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 28,
+    "table_index": 1,
+    "heading": "Provision for Income Taxes",
     "image": "AAPL_10-Q4-2024-As-Filed_p28_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 111.2,
+      "x1": 562.5,
+      "y1": 139.7
+    },
     "rows": 11,
     "data": [
       "Provision for Income Taxes",
@@ -285,7 +417,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 31,
+    "table_index": 1,
+    "heading": "Index to Consolidated Financial Statements Page",
     "image": "AAPL_10-Q4-2024-As-Filed_p31_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 108.4,
+      "x1": 562.5,
+      "y1": 220.2
+    },
     "rows": 20,
     "data": [
       "Item 8. Financial Statements and Supplementary Data",
@@ -311,7 +455,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 32,
+    "table_index": 1,
+    "heading": "CONSOLIDATED STATEMENTS OF OPERATIONS",
     "image": "AAPL_10-Q4-2024-As-Filed_p32_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 546.3
+    },
     "rows": 71,
     "data": [
       "Apple Inc.",
@@ -388,7 +544,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 33,
+    "table_index": 1,
+    "heading": "CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME",
     "image": "AAPL_10-Q4-2024-As-Filed_p33_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 406.0
+    },
     "rows": 52,
     "data": [
       "Apple Inc.",
@@ -446,7 +614,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 34,
+    "table_index": 1,
+    "heading": "CONSOLIDATED BALANCE SHEETS",
     "image": "AAPL_10-Q4-2024-As-Filed_p34_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 120.3,
+      "x1": 562.5,
+      "y1": 699.3
+    },
     "rows": 41,
     "data": [
       "Apple Inc.",
@@ -493,7 +673,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 35,
+    "table_index": 1,
+    "heading": "CONSOLIDATED STATEMENTS OF SHAREHOLDERS\u2019 EQUITY",
     "image": "AAPL_10-Q4-2024-As-Filed_p35_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 507.3
+    },
     "rows": 45,
     "data": [
       "Apple Inc.",
@@ -544,7 +736,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 36,
+    "table_index": 1,
+    "heading": "Cash, cash equivalents, and restricted cash and cash equivalents, beginning",
     "image": "AAPL_10-Q4-2024-As-Filed_p36_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.9,
+      "x1": 562.5,
+      "y1": 721.7
+    },
     "rows": 44,
     "data": [
       "Apple Inc.",
@@ -594,7 +798,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 38,
+    "table_index": 1,
+    "heading": "net sales only the commission it retains.",
     "image": "AAPL_10-Q4-2024-As-Filed_p38_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 562.3,
+      "x1": 562.5,
+      "y1": 633.6
+    },
     "rows": 16,
     "data": [
       "revenue, and aoes not aisciose amounts, related to nese undelivered Services.",
@@ -616,7 +832,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 39,
+    "table_index": 1,
+    "heading": "millions and shares in thousands):",
     "image": "AAPL_10-Q4-2024-As-Filed_p39_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 212.0,
+      "x1": 562.5,
+      "y1": 340.2
+    },
     "rows": 16,
     "data": [
       "revenue represented a moderately higher proportion of net sales.",
@@ -638,7 +866,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 39,
+    "table_index": 2,
+    "heading": "Cost Gains Losses Value Equivalents Securities Securities",
     "image": "AAPL_10-Q4-2024-As-Filed_p39_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 512.8,
+      "x1": 562.5,
+      "y1": 717.5
+    },
     "rows": 27,
     "data": [
       "ee ee ia",
@@ -671,7 +911,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 40,
+    "table_index": 1,
+    "heading": "Cost Gains Losses Value Equivalents Securities Securities",
     "image": "AAPL_10-Q4-2024-As-Filed_p40_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 97.5,
+      "x1": 562.5,
+      "y1": 302.2
+    },
     "rows": 55,
     "data": [
       "Cash",
@@ -732,7 +984,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 41,
+    "table_index": 1,
+    "heading": "Derivative instruments designated as accounting hedges:",
     "image": "AAPL_10-Q4-2024-As-Filed_p41_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 267.2,
+      "x1": 562.5,
+      "y1": 338.4
+    },
     "rows": 13,
     "data": [
       "certain fluctuations in foreign exchange rates, as well as to offset a portion of the foreign currency gains and losses generated by",
@@ -751,7 +1015,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 41,
+    "table_index": 2,
+    "heading": "Hedged assets/(liabilities):",
     "image": "AAPL_10-Q4-2024-As-Filed_p41_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 413.0,
+      "x1": 562.5,
+      "y1": 441.5
+    },
     "rows": 11,
     "data": [
       "Bn IR",
@@ -768,7 +1044,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 42,
+    "table_index": 1,
+    "heading": "The following table shows the Company\u2019s gross property, plant and equipment by major asset class and accumulated",
     "image": "AAPL_10-Q4-2024-As-Filed_p42_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 111.2,
+      "x1": 562.5,
+      "y1": 182.4
+    },
     "rows": 10,
     "data": [
       "Note 5 \u2014 Property, Plant and Equipment",
@@ -784,7 +1072,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 42,
+    "table_index": 2,
+    "heading": "Other Non-Current Assets",
     "image": "AAPL_10-Q4-2024-As-Filed_p42_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 336.2,
+      "x1": 562.5,
+      "y1": 364.7
+    },
     "rows": 11,
     "data": [
       "Depreciation expense on property, plant and equipment was $8.2 billion, $8.5 billion and $8.7 billion during 2024, 2023 and",
@@ -801,7 +1101,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 42,
+    "table_index": 3,
+    "heading": "Other Current Liabilities",
     "image": "AAPL_10-Q4-2024-As-Filed_p42_t03.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 428.5,
+      "x1": 562.5,
+      "y1": 457.0
+    },
     "rows": 24,
     "data": [
       "Other Non-Current Assets",
@@ -831,7 +1143,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 42,
+    "table_index": 4,
+    "heading": "Other Non-Current Liabilities",
     "image": "AAPL_10-Q4-2024-As-Filed_p42_t04.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 520.8,
+      "x1": 562.5,
+      "y1": 549.3
+    },
     "rows": 28,
     "data": [
       "Other Current Liabilities",
@@ -865,7 +1189,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 43,
+    "table_index": 1,
+    "heading": "Provision for Income Taxes and Effective Tax Rate",
     "image": "AAPL_10-Q4-2024-As-Filed_p43_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 194.0,
+      "x1": 562.5,
+      "y1": 365.0
+    },
     "rows": 23,
     "data": [
       "ine GVompany and Ireland appealed the olate Ald Vecision to the General Uourt of tne Uourt of Justice of the European Union",
@@ -894,7 +1230,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 43,
+    "table_index": 2,
+    "heading": "Table (Page 43, #2)",
     "image": "AAPL_10-Q4-2024-As-Filed_p43_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 456.4,
+      "x1": 562.5,
+      "y1": 570.3
+    },
     "rows": 18,
     "data": [
       "Current",
@@ -918,7 +1266,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 44,
+    "table_index": 1,
+    "heading": "Deferred tax assets:",
     "image": "AAPL_10-Q4-2024-As-Filed_p44_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 111.2,
+      "x1": 562.6,
+      "y1": 367.6
+    },
     "rows": 59,
     "data": [
       "Deferred Tax Assets and Liabilities",
@@ -983,7 +1343,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 44,
+    "table_index": 2,
+    "heading": "Uncertain Tax Positions",
     "image": "AAPL_10-Q4-2024-As-Filed_p44_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 547.8,
+      "x1": 562.6,
+      "y1": 633.3
+    },
     "rows": 16,
     "data": [
       "VAHIVUITHa Mab ClOUl CAllYIOIWalUs, VOUT OL WINCIT Call US CAllieU 1lOPWalU IHIQCHIILely. AA VAIUAUOI! GAHOWAIICE Tlao VCCI! FOUUIueU",
@@ -1005,7 +1377,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 45,
+    "table_index": 1,
+    "heading": "Right-of-use assets:",
     "image": "AAPL_10-Q4-2024-As-Filed_p45_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 258.2,
+      "x1": 562.2,
+      "y1": 400.6
+    },
     "rows": 20,
     "data": [
       "ee eee eee eee eee eee eeeeeyy ee ee eee RN AIAN 9 SABENA MADE ARENA ENA PAYEE RAI PEERY Mae",
@@ -1031,7 +1415,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 45,
+    "table_index": 2,
+    "heading": "Leases Leases Total",
     "image": "AAPL_10-Q4-2024-As-Filed_p45_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 467.5,
+      "x1": 562.2,
+      "y1": 581.5
+    },
     "rows": 18,
     "data": [
       "Lease liabilities:",
@@ -1055,7 +1451,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 46,
+    "table_index": 1,
+    "heading": "respectively, with maturities generally less than nine months. The weighted-average interest rate of the Company\u2019s commercial",
     "image": "AAPL_10-Q4-2024-As-Filed_p46_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 174.2,
+      "x1": 562.5,
+      "y1": 288.1
+    },
     "rows": 16,
     "data": [
       "Note 9 \u2014 Debt",
@@ -1077,7 +1485,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 46,
+    "table_index": 2,
+    "heading": "Maturities Amount Effective Amount Effective",
     "image": "AAPL_10-Q4-2024-As-Filed_p46_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 399.8,
+      "x1": 562.5,
+      "y1": 510.0
+    },
     "rows": 17,
     "data": [
       "Froceeas trom/(Repayments of) commercial paper, net \u2014_ (\u00a2,040) (1,909)",
@@ -1100,7 +1520,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 46,
+    "table_index": 3,
+    "heading": "applicable, adjustments related to hedging.",
     "image": "AAPL_10-Q4-2024-As-Filed_p46_t03.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 632.7,
+      "x1": 562.5,
+      "y1": 732.4
+    },
     "rows": 16,
     "data": [
       "Less: Current portion of term debt (10,912) (9,822)",
@@ -1122,7 +1554,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 47,
+    "table_index": 1,
+    "heading": "Shares of Common Stock",
     "image": "AAPL_10-Q4-2024-As-Filed_p47_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 237.8,
+      "x1": 562.5,
+      "y1": 280.5
+    },
     "rows": 13,
     "data": [
       "ae a",
@@ -1141,7 +1585,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 48,
+    "table_index": 1,
+    "heading": "RSUs Grant-Date Fair Fair Value",
     "image": "AAPL_10-Q4-2024-As-Filed_p48_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 116.8,
+      "x1": 562.5,
+      "y1": 287.9
+    },
     "rows": 51,
     "data": [
       "Restricted Stock Units",
@@ -1198,7 +1654,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 48,
+    "table_index": 3,
+    "heading": "arrangements, licensed intellectual property and content, and distribution rights. Future payments under unconditional purchase",
     "image": "AAPL_10-Q4-2024-As-Filed_p48_t03.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 637.8,
+      "x1": 562.5,
+      "y1": 723.2
+    },
     "rows": 15,
     "data": [
       "As of September 28, 2024, the total unrecognized compensation cost related to outstanding RSUs was $19.4 billion, which the",
@@ -1219,7 +1687,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 50,
+    "table_index": 1,
+    "heading": "Table (Page 50, #1)",
     "image": "AAPL_10-Q4-2024-As-Filed_p50_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 83.5,
+      "x1": 562.5,
+      "y1": 340.0
+    },
     "rows": 17,
     "data": [
       "The following table shows information by reportable segment for 2024, 2023 and 2022 (in millions):",
@@ -1242,7 +1722,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 50,
+    "table_index": 2,
+    "heading": "Rest of Asia Pacific:",
     "image": "AAPL_10-Q4-2024-As-Filed_p50_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 408.6,
+      "x1": 562.5,
+      "y1": 451.4
+    },
     "rows": 12,
     "data": [
       "Net sales > 20,002 c4,20f 20,9/f",
@@ -1260,7 +1752,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 50,
+    "table_index": 3,
+    "heading": "amounts for the remaining countries (in millions):",
     "image": "AAPL_10-Q4-2024-As-Filed_p50_t03.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 562.0,
+      "x1": 562.5,
+      "y1": 619.0
+    },
     "rows": 14,
     "data": [
       "Research and development expense (31,370) (29,915) (26,251)",
@@ -1280,7 +1784,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 50,
+    "table_index": 4,
+    "heading": "Long-lived assets:",
     "image": "AAPL_10-Q4-2024-As-Filed_p50_t04.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 657.0,
+      "x1": 562.5,
+      "y1": 714.0
+    },
     "rows": 14,
     "data": [
       "September 30, 2023 for countries that individually accounted for 10% or more of the respective totals, as well as aggregate",
@@ -1300,7 +1816,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 56,
+    "table_index": 1,
+    "heading": "Index to Consolidated Financial Statements Page",
     "image": "AAPL_10-Q4-2024-As-Filed_p56_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 154.3,
+      "x1": 562.5,
+      "y1": 266.1
+    },
     "rows": 24,
     "data": [
       "PART IV",
@@ -1330,7 +1858,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 68,
+    "table_index": 3,
+    "heading": "\u201cComparable Government Bond Rate\u201d means the price, expressed as a percentage (rounded to three",
     "image": "AAPL_10-Q4-2024-As-Filed_p68_t03.png",
+    "coordinates": {
+      "x0": 72.0,
+      "y0": 287.1,
+      "x1": 540.4,
+      "y1": 340.2
+    },
     "rows": 17,
     "data": [
       "Independent Investment bank In Its discretion determines that such similar bond Is not In issue, such other United",
@@ -1353,7 +1893,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 69,
+    "table_index": 3,
+    "heading": "becomes due and payable at its stated maturity, upon optional redemption, upon declaration or",
     "image": "AAPL_10-Q4-2024-As-Filed_p69_t03.png",
+    "coordinates": {
+      "x0": 126.0,
+      "y0": 339.3,
+      "x1": 538.5,
+      "y1": 424.8
+    },
     "rows": 18,
     "data": [
       "ach of the following events are defined in the Indentures as an \u201cevent of default\u2019 (whatever the reason for",
@@ -1377,7 +1929,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 70,
+    "table_index": 5,
+    "heading": "default for any other series of debt securities issued under the Indentures.",
     "image": "AAPL_10-Q4-2024-As-Filed_p70_t05.png",
+    "coordinates": {
+      "x0": 72.0,
+      "y0": 374.4,
+      "x1": 532.6,
+      "y1": 415.8
+    },
     "rows": 15,
     "data": [
       "unpaid interest will be Que and payabie immediately. if an event of default relating to Certain events Of Dankrupicy,",
@@ -1398,7 +1962,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 70,
+    "table_index": 7,
+    "heading": "notice of such continuing event of default with respect to the debt securities of such series;",
     "image": "AAPL_10-Q4-2024-As-Filed_p70_t07.png",
+    "coordinates": {
+      "x0": 108.0,
+      "y0": 504.0,
+      "x1": 532.6,
+      "y1": 545.4
+    },
     "rows": 13,
     "data": [
       "for any otner series of aebt securities issued unaer the inaentures.",
@@ -1417,7 +1993,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10-Q4-2024-As-Filed",
+    "period": "2024",
+    "page": 72,
+    "table_index": 1,
+    "heading": "The holders of at least a majority in aggregate principal amount of the outstanding Notes of any series may,",
     "image": "AAPL_10-Q4-2024-As-Filed_p72_t01.png",
+    "coordinates": {
+      "x0": 72.0,
+      "y0": 598.9,
+      "x1": 542.4,
+      "y1": 695.2
+    },
     "rows": 20,
     "data": [
       "e to supplement any of the provisions of the applicable Indenture to such extent as shall be necessary to",
@@ -1443,7 +2031,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 3,
+    "table_index": 1,
+    "heading": "TABLE OF CONTENTS",
     "image": "AAPL_10K-Q4-2025-as-filed_p03_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 155.6,
+      "x1": 562.5,
+      "y1": 254.1
+    },
     "rows": 19,
     "data": [
       "Apple Inc.",
@@ -1468,7 +2068,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 3,
+    "table_index": 2,
+    "heading": "Table (Page 3, #2)",
     "image": "AAPL_10K-Q4-2025-as-filed_p03_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 268.8,
+      "x1": 562.5,
+      "y1": 407.1
+    },
     "rows": 35,
     "data": [
       "Part!",
@@ -1509,7 +2121,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 22,
+    "table_index": 1,
+    "heading": "of Shares Paid Per Plans or Under the Plans",
     "image": "AAPL_10K-Q4-2025-as-filed_p22_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 291.5,
+      "x1": 562.5,
+      "y1": 393.5
+    },
     "rows": 36,
     "data": [
       "As of October 17, 2025, there were 22,429 shareholders of record.",
@@ -1551,7 +2175,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 23,
+    "table_index": 1,
+    "heading": "September September September September September September",
     "image": "AAPL_10K-Q4-2025-as-filed_p23_t01.png",
+    "coordinates": {
+      "x0": 50.3,
+      "y0": 522.0,
+      "x1": 561.8,
+      "y1": 561.0
+    },
     "rows": 9,
     "data": [
       "$0",
@@ -1566,7 +2202,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 25,
+    "table_index": 1,
+    "heading": "Segment Operating Performance",
     "image": "AAPL_10K-Q4-2025-as-filed_p25_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 308.0,
+      "x1": 562.5,
+      "y1": 379.2
+    },
     "rows": 16,
     "data": [
       "availabilty Of rare eartns ana other raw materials and components, pricing and gross margin. ine ultimate impact remains",
@@ -1588,7 +2236,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 26,
+    "table_index": 1,
+    "heading": "Products and Services Performance",
     "image": "AAPL_10K-Q4-2025-as-filed_p26_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 100.3,
+      "x1": 562.5,
+      "y1": 171.6
+    },
     "rows": 9,
     "data": [
       "Products and Services Performance",
@@ -1603,7 +2263,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 27,
+    "table_index": 1,
+    "heading": "Table (Page 27, #1)",
     "image": "AAPL_10K-Q4-2025-as-filed_p27_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 100.3,
+      "x1": 562.5,
+      "y1": 143.1
+    },
     "rows": 7,
     "data": [
       "Gross Margin",
@@ -1616,7 +2288,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 27,
+    "table_index": 2,
+    "heading": "Gross margin percentage:",
     "image": "AAPL_10K-Q4-2025-as-filed_p27_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 168.3,
+      "x1": 562.5,
+      "y1": 211.1
+    },
     "rows": 37,
     "data": [
       "Gross Margin",
@@ -1659,7 +2343,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 27,
+    "table_index": 3,
+    "heading": "Operating Expenses",
     "image": "AAPL_10K-Q4-2025-as-filed_p27_t03.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 522.1,
+      "x1": 562.5,
+      "y1": 600.8
+    },
     "rows": 20,
     "data": [
       "Services gross margin percentage increased during 2025 compared to 2024 primarily due to a different mix of services, partially",
@@ -1685,7 +2381,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 28,
+    "table_index": 1,
+    "heading": "Provision for Income Taxes",
     "image": "AAPL_10K-Q4-2025-as-filed_p28_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 111.2,
+      "x1": 562.5,
+      "y1": 139.7
+    },
     "rows": 11,
     "data": [
       "Provision for Income Taxes",
@@ -1702,7 +2410,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 31,
+    "table_index": 1,
+    "heading": "Index to Consolidated Financial Statements Page",
     "image": "AAPL_10K-Q4-2025-as-filed_p31_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 109.9,
+      "x1": 562.5,
+      "y1": 226.2
+    },
     "rows": 21,
     "data": [
       "Item 8. Financial Statements and Supplementary Data",
@@ -1729,7 +2449,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 32,
+    "table_index": 1,
+    "heading": "CONSOLIDATED STATEMENTS OF OPERATIONS",
     "image": "AAPL_10K-Q4-2025-as-filed_p32_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 546.3
+    },
     "rows": 92,
     "data": [
       "Net sales:",
@@ -1827,7 +2559,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 33,
+    "table_index": 1,
+    "heading": "CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME",
     "image": "AAPL_10K-Q4-2025-as-filed_p33_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 413.5
+    },
     "rows": 24,
     "data": [
       "Apple Inc.",
@@ -1857,7 +2601,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 34,
+    "table_index": 1,
+    "heading": "CONSOLIDATED BALANCE SHEETS",
     "image": "AAPL_10K-Q4-2025-as-filed_p34_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 120.3,
+      "x1": 562.5,
+      "y1": 700.8
+    },
     "rows": 41,
     "data": [
       "Apple Inc.",
@@ -1904,7 +2660,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 35,
+    "table_index": 1,
+    "heading": "CONSOLIDATED STATEMENTS OF SHAREHOLDERS\u2019 EQUITY",
     "image": "AAPL_10K-Q4-2025-as-filed_p35_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 510.3
+    },
     "rows": 28,
     "data": [
       "Apple Inc.",
@@ -1938,7 +2706,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 36,
+    "table_index": 1,
+    "heading": "Cash, cash equivalents, and restricted cash and cash equivalents, beginning",
     "image": "AAPL_10K-Q4-2025-as-filed_p36_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.9,
+      "x1": 562.5,
+      "y1": 721.7
+    },
     "rows": 45,
     "data": [
       "Apple Inc.",
@@ -1989,7 +2769,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 39,
+    "table_index": 1,
+    "heading": "The following table shows disaggregated net sales, as well as the portion of total net sales that was previously deferred, for",
     "image": "AAPL_10K-Q4-2025-as-filed_p39_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 94.3,
+      "x1": 562.5,
+      "y1": 204.6
+    },
     "rows": 11,
     "data": [
       "The following table shows disaggregated net sales, as well as the portion of total net sales that was previously deferred, for",
@@ -2006,7 +2798,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 39,
+    "table_index": 2,
+    "heading": "millions and shares in thousands):",
     "image": "AAPL_10K-Q4-2025-as-filed_p39_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 415.4,
+      "x1": 562.5,
+      "y1": 543.7
+    },
     "rows": 16,
     "data": [
       "revenue represented a moderately higher proportion of net sales.",
@@ -2028,7 +2832,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 40,
+    "table_index": 1,
+    "heading": "Cost Gains Losses Value Equivalents Securities Securities",
     "image": "AAPL_10K-Q4-2025-as-filed_p40_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 158.7,
+      "x1": 562.5,
+      "y1": 363.5
+    },
     "rows": 24,
     "data": [
       "Note 4 \u2014 Financial Instruments",
@@ -2058,7 +2874,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 40,
+    "table_index": 2,
+    "heading": "Cost Gains Losses Value Equivalents Securities Securities",
     "image": "AAPL_10K-Q4-2025-as-filed_p40_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 429.2,
+      "x1": 562.5,
+      "y1": 634.0
+    },
     "rows": 69,
     "data": [
       "Commercial paper 100",
@@ -2133,7 +2961,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 42,
+    "table_index": 1,
+    "heading": "Derivative instruments designated as accounting hedges:",
     "image": "AAPL_10K-Q4-2025-as-filed_p42_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 94.3,
+      "x1": 562.5,
+      "y1": 165.6
+    },
     "rows": 9,
     "data": [
       "The notional amounts of the Company\u2019s outstanding derivative instruments as of September 27, 2025 and September 28, 2024,",
@@ -2148,7 +2988,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 42,
+    "table_index": 2,
+    "heading": "The following table shows the Company\u2019s gross property, plant and equipment by major asset class and accumulated",
     "image": "AAPL_10K-Q4-2025-as-filed_p42_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 504.8,
+      "x1": 562.5,
+      "y1": 576.0
+    },
     "rows": 16,
     "data": [
       "mese venaors wno manutacture subassembdiles or assemble tinal proaucts for the Vompany. 1he Gompany purcnases these",
@@ -2170,7 +3022,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 43,
+    "table_index": 1,
+    "heading": "Other Non-Current Assets",
     "image": "AAPL_10K-Q4-2025-as-filed_p43_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 140.0,
+      "x1": 562.5,
+      "y1": 168.5
+    },
     "rows": 8,
     "data": [
       "Note 6 \u2014 Consolidated Financial Statement Details",
@@ -2184,7 +3048,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 43,
+    "table_index": 2,
+    "heading": "Other Current Liabilities",
     "image": "AAPL_10K-Q4-2025-as-filed_p43_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 232.2,
+      "x1": 562.5,
+      "y1": 275.0
+    },
     "rows": 27,
     "data": [
       "Other Non-Current Assets",
@@ -2217,7 +3093,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 43,
+    "table_index": 3,
+    "heading": "Provision for Income Taxes and Effective Tax Rate",
     "image": "AAPL_10K-Q4-2025-as-filed_p43_t03.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 551.8,
+      "x1": 562.5,
+      "y1": 722.8
+    },
     "rows": 56,
     "data": [
       "ine GVompany and Ireland appealed the olate Ald Vecision to the General Uourt of tne Uourt of Justice of the European Union",
@@ -2279,7 +3167,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 44,
+    "table_index": 1,
+    "heading": "Table (Page 44, #1)",
     "image": "AAPL_10K-Q4-2025-as-filed_p44_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 94.3,
+      "x1": 562.5,
+      "y1": 194.1
+    },
     "rows": 12,
     "data": [
       "A reconciliation of the provision for income taxes to the amount computed by applying the statutory federal income tax rate (21%",
@@ -2297,7 +3197,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 44,
+    "table_index": 2,
+    "heading": "Deferred tax assets:",
     "image": "AAPL_10K-Q4-2025-as-filed_p44_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 285.5,
+      "x1": 562.5,
+      "y1": 513.5
+    },
     "rows": 25,
     "data": [
       "Impact of the State Aid Decision (486) 10,246 _",
@@ -2328,7 +3240,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 45,
+    "table_index": 1,
+    "heading": "Uncertain Tax Positions",
     "image": "AAPL_10K-Q4-2025-as-filed_p45_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 155.5,
+      "x1": 562.6,
+      "y1": 241.0
+    },
     "rows": 14,
     "data": [
       "Uncertain Tax Positions",
@@ -2348,7 +3272,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 45,
+    "table_index": 3,
+    "heading": "Right-of-use assets:",
     "image": "AAPL_10K-Q4-2025-as-filed_p45_t03.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 534.7,
+      "x1": 562.6,
+      "y1": 677.2
+    },
     "rows": 20,
     "data": [
       "a et Nel\u201d tata ta\u201d a a at ee ee eins",
@@ -2374,7 +3310,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 46,
+    "table_index": 1,
+    "heading": "Leases Leases Total",
     "image": "AAPL_10K-Q4-2025-as-filed_p46_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 92.5,
+      "x1": 562.1,
+      "y1": 206.5
+    },
     "rows": 12,
     "data": [
       "Lease liability maturities as of September 27, 2025, are as follows (in millions):",
@@ -2392,7 +3340,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 46,
+    "table_index": 2,
+    "heading": "respectively, with maturities generally less than nine months. The weighted-average interest rate of the Company\u2019s commercial",
     "image": "AAPL_10K-Q4-2025-as-filed_p46_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 471.4,
+      "x1": 562.1,
+      "y1": 585.3
+    },
     "rows": 16,
     "data": [
       "Note 9 \u2014 Debt",
@@ -2414,7 +3374,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 47,
+    "table_index": 1,
+    "heading": "Maturities Amount Effective Amount Effective",
     "image": "AAPL_10K-Q4-2025-as-filed_p47_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 131.4,
+      "x1": 562.5,
+      "y1": 282.1
+    },
     "rows": 18,
     "data": [
       "Term Debt",
@@ -2438,7 +3410,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 47,
+    "table_index": 2,
+    "heading": "applicable, adjustments related to hedging.",
     "image": "AAPL_10K-Q4-2025-as-filed_p47_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 404.8,
+      "x1": 562.5,
+      "y1": 504.5
+    },
     "rows": 16,
     "data": [
       "Less: Current portion of term debt (12,350) (10,912)",
@@ -2460,7 +3444,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 48,
+    "table_index": 1,
+    "heading": "Shares of Common Stock",
     "image": "AAPL_10K-Q4-2025-as-filed_p48_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 100.3,
+      "x1": 562.5,
+      "y1": 143.1
+    },
     "rows": 12,
     "data": [
       "Shares of Common Stock",
@@ -2478,7 +3474,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 48,
+    "table_index": 2,
+    "heading": "RSUs Grant-Date Fair",
     "image": "AAPL_10K-Q4-2025-as-filed_p48_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 370.4,
+      "x1": 562.5,
+      "y1": 427.4
+    },
     "rows": 15,
     "data": [
       "stock options and stock appreciation rights. RSUs granted under the 2022 Plan generally vest over four years, based on",
@@ -2499,7 +3507,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 49,
+    "table_index": 1,
+    "heading": "arrangements, licensed intellectual property and content, and distribution rights. Future payments under unconditional purchase",
     "image": "AAPL_10K-Q4-2025-as-filed_p49_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 142.8,
+      "x1": 562.5,
+      "y1": 228.3
+    },
     "rows": 13,
     "data": [
       "Note 12 - Commitments, Contingencies and Supply Concentrations",
@@ -2518,7 +3538,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 50,
+    "table_index": 1,
+    "heading": "Americas Europe China Japan Asia Pacific Corporate Total",
     "image": "AAPL_10K-Q4-2025-as-filed_p50_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 300.0,
+      "x1": 562.5,
+      "y1": 363.8
+    },
     "rows": 16,
     "data": [
       "The CODM uses segment net sales and operating income information to make certain decisions, such as product and service",
@@ -2540,7 +3572,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 50,
+    "table_index": 2,
+    "heading": "Americas Europe China Japan Asia Pacific Corporate Total",
     "image": "AAPL_10K-Q4-2025-as-filed_p50_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 422.0,
+      "x1": 562.5,
+      "y1": 485.8
+    },
     "rows": 27,
     "data": [
       "Net sales",
@@ -2573,7 +3617,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 50,
+    "table_index": 3,
+    "heading": "Americas Europe China Japan Asia Pacific Corporate Total",
     "image": "AAPL_10K-Q4-2025-as-filed_p50_t03.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 544.0,
+      "x1": 562.5,
+      "y1": 607.8
+    },
     "rows": 27,
     "data": [
       "Net sales",
@@ -2606,7 +3662,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 51,
+    "table_index": 1,
+    "heading": "amounts for the remaining countries (in millions):",
     "image": "AAPL_10K-Q4-2025-as-filed_p51_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 105.2,
+      "x1": 562.5,
+      "y1": 162.2
+    },
     "rows": 9,
     "data": [
       "The following tables show net sales for 2025, 2024 and 2023 and long-lived assets as of September 27, 2025 and",
@@ -2621,7 +3689,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 51,
+    "table_index": 2,
+    "heading": "Long-lived assets:",
     "image": "AAPL_10K-Q4-2025-as-filed_p51_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 200.2,
+      "x1": 562.5,
+      "y1": 257.2
+    },
     "rows": 14,
     "data": [
       "September 28, 2024 for countries that individually accounted for 10% or more of the respective totals, as well as aggregate",
@@ -2641,7 +3721,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 57,
+    "table_index": 1,
+    "heading": "Index to Consolidated Financial Statements Page",
     "image": "AAPL_10K-Q4-2025-as-filed_p57_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 155.8,
+      "x1": 562.5,
+      "y1": 272.1
+    },
     "rows": 24,
     "data": [
       "PART IV",
@@ -2671,7 +3763,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 69,
+    "table_index": 2,
+    "heading": "\u201cComparable Government Bond Rate\u201d means the price, expressed as a percentage (rounded to three",
     "image": "AAPL_10K-Q4-2025-as-filed_p69_t02.png",
+    "coordinates": {
+      "x0": 72.0,
+      "y0": 200.7,
+      "x1": 540.5,
+      "y1": 253.8
+    },
     "rows": 15,
     "data": [
       "market makers in, United Kingdom government bonds selected by us, determine to be appropriate for determining the",
@@ -2692,7 +3796,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 70,
+    "table_index": 3,
+    "heading": "becomes due and payable at its stated maturity, upon optional redemption, upon declaration or",
     "image": "AAPL_10K-Q4-2025-as-filed_p70_t03.png",
+    "coordinates": {
+      "x0": 126.0,
+      "y0": 228.3,
+      "x1": 538.5,
+      "y1": 313.8
+    },
     "rows": 18,
     "data": [
       "ach of the following events are defined in the Indentures as an \u201cevent of default\u2019 (whatever the reason for",
@@ -2716,7 +3832,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 71,
+    "table_index": 1,
+    "heading": "Table (Page 71, #1)",
     "image": "AAPL_10K-Q4-2025-as-filed_p71_t01.png",
+    "coordinates": {
+      "x0": 72.0,
+      "y0": 72.0,
+      "x1": 527.7,
+      "y1": 114.3
+    },
     "rows": 5,
     "data": [
       "If an event of default with respect to debt securities of any series (other than an event of default relating to",
@@ -2727,7 +3855,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 71,
+    "table_index": 5,
+    "heading": "notice of such continuing event of default with respect to the debt securities of such series;",
     "image": "AAPL_10K-Q4-2025-as-filed_p71_t05.png",
+    "coordinates": {
+      "x0": 108.0,
+      "y0": 428.4,
+      "x1": 527.7,
+      "y1": 469.8
+    },
     "rows": 13,
     "data": [
       ".TOr any otner series of aept securities issued under tne inaentures.",
@@ -2746,7 +3886,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10K-Q4-2025-as-filed",
+    "period": "2025",
+    "page": 73,
+    "table_index": 1,
+    "heading": "The holders of at least a majority in aggregate principal amount of the outstanding Notes of any series may,",
     "image": "AAPL_10K-Q4-2025-as-filed_p73_t01.png",
+    "coordinates": {
+      "x0": 72.0,
+      "y0": 544.9,
+      "x1": 542.4,
+      "y1": 641.2
+    },
     "rows": 20,
     "data": [
       "e to supplement any of the provisions of the applicable indenture to such extent as Snall be necessary to",
@@ -2772,7 +3924,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 3,
+    "table_index": 1,
+    "heading": "TABLE OF CONTENTS",
     "image": "AAPL_10Q-Q1-2025-as-filed_p03_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 154.8,
+      "x1": 562.5,
+      "y1": 211.3
+    },
     "rows": 14,
     "data": [
       "Apple Inc.",
@@ -2792,7 +3956,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 3,
+    "table_index": 2,
+    "heading": "TABLE OF CONTENTS",
     "image": "AAPL_10Q-Q1-2025-as-filed_p03_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 224.5,
+      "x1": 562.5,
+      "y1": 323.8
+    },
     "rows": 27,
     "data": [
       "For the Fiscal Quarter Ended December 28, 2024",
@@ -2825,7 +4001,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 4,
+    "table_index": 1,
+    "heading": "Three Months Ended",
     "image": "AAPL_10Q-Q1-2025-as-filed_p04_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 192.9,
+      "x1": 562.5,
+      "y1": 591.9
+    },
     "rows": 75,
     "data": [
       "PART | \u2014 FINANCIAL INFORMATION",
@@ -2906,7 +4094,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 5,
+    "table_index": 1,
+    "heading": "Three Months Ended",
     "image": "AAPL_10Q-Q1-2025-as-filed_p05_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 361.0
+    },
     "rows": 23,
     "data": [
       "Apple Inc.",
@@ -2935,7 +4135,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 6,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)",
     "image": "AAPL_10Q-Q1-2025-as-filed_p06_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 120.3,
+      "x1": 562.5,
+      "y1": 700.8
+    },
     "rows": 70,
     "data": [
       "Apple Inc.",
@@ -3011,7 +4223,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 7,
+    "table_index": 1,
+    "heading": "Three Months Ended",
     "image": "AAPL_10Q-Q1-2025-as-filed_p07_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 475.0
+    },
     "rows": 25,
     "data": [
       "Apple Inc.",
@@ -3042,7 +4266,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 8,
+    "table_index": 1,
+    "heading": "Three Months Ended",
     "image": "AAPL_10Q-Q1-2025-as-filed_p08_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 688.8
+    },
     "rows": 92,
     "data": [
       "Apple Inc.",
@@ -3140,7 +4376,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 9,
+    "table_index": 1,
+    "heading": "Three Months Ended",
     "image": "AAPL_10Q-Q1-2025-as-filed_p09_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 383.2,
+      "x1": 562.5,
+      "y1": 456.0
+    },
     "rows": 16,
     "data": [
       "INICHUQEA IW Te Wrst HWSCal QUAaNler EVEry MVE OF SIX Yedrs O fedaign Mle VOMpPanys NsCal Qualhers Wilh CalenQalr Quallers. IMe",
@@ -3162,7 +4410,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 10,
+    "table_index": 1,
+    "heading": "Three Months Ended",
     "image": "AAPL_10Q-Q1-2025-as-filed_p10_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 132.9,
+      "x1": 562.5,
+      "y1": 261.2
+    },
     "rows": 14,
     "data": [
       "Note 3 \u2014 Earnings Per Share",
@@ -3182,7 +4442,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 10,
+    "table_index": 2,
+    "heading": "Cost Gains Losses Value Equivalents Securities Securities",
     "image": "AAPL_10Q-Q1-2025-as-filed_p10_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 400.1,
+      "x1": 562.5,
+      "y1": 604.8
+    },
     "rows": 25,
     "data": [
       "Diluted earnings per share $ 2.40 $ 2.18",
@@ -3213,7 +4485,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 11,
+    "table_index": 1,
+    "heading": "Cost Gains Losses Value Equivalents Securities Securities",
     "image": "AAPL_10Q-Q1-2025-as-filed_p11_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 97.5,
+      "x1": 562.5,
+      "y1": 302.2
+    },
     "rows": 54,
     "data": [
       "Unrealized",
@@ -3273,7 +4557,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 12,
+    "table_index": 1,
+    "heading": "Derivative instruments designated as accounting hedges:",
     "image": "AAPL_10Q-Q1-2025-as-filed_p12_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 159.8,
+      "x1": 562.5,
+      "y1": 231.0
+    },
     "rows": 12,
     "data": [
       "Interest Rate Risk",
@@ -3291,7 +4587,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 12,
+    "table_index": 3,
+    "heading": "Table (Page 12, #3)",
     "image": "AAPL_10Q-Q1-2025-as-filed_p12_t03.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 608.0,
+      "x1": 562.5,
+      "y1": 636.5
+    },
     "rows": 11,
     "data": [
       "total vendor non-trade receivables, which accounted for 43% and 24%. As of September 28, 2024, the Company had two",
@@ -3308,7 +4616,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 12,
+    "table_index": 4,
+    "heading": "Property, Plant and Equipment, Net",
     "image": "AAPL_10Q-Q1-2025-as-filed_p12_t04.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 709.3,
+      "x1": 562.5,
+      "y1": 737.8
+    },
     "rows": 22,
     "data": [
       "Inventories",
@@ -3336,7 +4656,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 13,
+    "table_index": 1,
+    "heading": "RSUs Grant-Date Fair",
     "image": "AAPL_10Q-Q1-2025-as-filed_p13_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 410.2,
+      "x1": 562.5,
+      "y1": 467.2
+    },
     "rows": 15,
     "data": [
       "Jor\u201d ~ oa",
@@ -3357,7 +4689,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 14,
+    "table_index": 1,
+    "heading": "Three Months Ended",
     "image": "AAPL_10Q-Q1-2025-as-filed_p14_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 210.9,
+      "x1": 562.5,
+      "y1": 467.4
+    },
     "rows": 25,
     "data": [
       "me VLompany Is subject tO varlous legal proceedings and Claims tal Nave arisen in the orainary Course of business and Mat",
@@ -3388,7 +4732,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 14,
+    "table_index": 2,
+    "heading": "Three Months Ended",
     "image": "AAPL_10Q-Q1-2025-as-filed_p14_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 557.8,
+      "x1": 562.5,
+      "y1": 600.5
+    },
     "rows": 12,
     "data": [
       "Rest of Asia Pacific:",
@@ -3406,7 +4762,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 16,
+    "table_index": 1,
+    "heading": "Three Months Ended",
     "image": "AAPL_10Q-Q1-2025-as-filed_p16_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 132.9,
+      "x1": 562.5,
+      "y1": 204.2
+    },
     "rows": 28,
     "data": [
       "Segment Operating Performance",
@@ -3440,7 +4808,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 17,
+    "table_index": 1,
+    "heading": "Three Months Ended",
     "image": "AAPL_10Q-Q1-2025-as-filed_p17_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 118.7,
+      "x1": 562.5,
+      "y1": 204.2
+    },
     "rows": 12,
     "data": [
       "Products and Services Performance",
@@ -3458,7 +4838,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 18,
+    "table_index": 1,
+    "heading": "Three Months Ended",
     "image": "AAPL_10Q-Q1-2025-as-filed_p18_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 132.9,
+      "x1": 562.5,
+      "y1": 175.7
+    },
     "rows": 10,
     "data": [
       "Gross Margin",
@@ -3474,7 +4866,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 18,
+    "table_index": 2,
+    "heading": "Gross margin percentage:",
     "image": "AAPL_10Q-Q1-2025-as-filed_p18_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 200.9,
+      "x1": 562.5,
+      "y1": 243.7
+    },
     "rows": 13,
     "data": [
       "Products and Services gross margin and gross margin percentage for the three months ended December 28, 2024 and",
@@ -3493,7 +4897,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 18,
+    "table_index": 3,
+    "heading": "Three Months Ended",
     "image": "AAPL_10Q-Q1-2025-as-filed_p18_t03.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 553.6,
+      "x1": 562.5,
+      "y1": 632.3
+    },
     "rows": 22,
     "data": [
       "The Company\u2019s future gross margins can be impacted by a variety of factors, as discussed in Part I, Item 1A of the 2024 Form",
@@ -3521,7 +4937,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 19,
+    "table_index": 1,
+    "heading": "Three Months Ended",
     "image": "AAPL_10Q-Q1-2025-as-filed_p19_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 132.9,
+      "x1": 562.5,
+      "y1": 161.4
+    },
     "rows": 9,
     "data": [
       "Provision for Income Taxes",
@@ -3536,7 +4964,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q1-2025-as-filed",
+    "period": "2025",
+    "page": 23,
+    "table_index": 1,
+    "heading": "of Shares Paid Per Plans or Under the Plans",
     "image": "AAPL_10Q-Q1-2025-as-filed_p23_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 498.3,
+      "x1": 561.8,
+      "y1": 613.0
+    },
     "rows": 44,
     "data": [
       "lower protit Margins.",
@@ -3586,7 +5026,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 3,
+    "table_index": 1,
+    "heading": "TABLE OF CONTENTS",
     "image": "AAPL_10Q-Q2-2025-as-filed_p03_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 154.8,
+      "x1": 562.5,
+      "y1": 211.3
+    },
     "rows": 14,
     "data": [
       "Apple Inc.",
@@ -3606,7 +5058,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 3,
+    "table_index": 2,
+    "heading": "TABLE OF CONTENTS",
     "image": "AAPL_10Q-Q2-2025-as-filed_p03_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 224.5,
+      "x1": 562.5,
+      "y1": 323.8
+    },
     "rows": 26,
     "data": [
       "For the Fiscal Quarter Ended March 29, 2025",
@@ -3638,7 +5102,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 4,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "AAPL_10Q-Q2-2025-as-filed_p04_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 192.9,
+      "x1": 562.5,
+      "y1": 591.9
+    },
     "rows": 118,
     "data": [
       "PART | \u2014 FINANCIAL INFORMATION",
@@ -3762,7 +5238,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 5,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "AAPL_10Q-Q2-2025-as-filed_p05_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 424.0
+    },
     "rows": 54,
     "data": [
       "Apple Inc.",
@@ -3822,7 +5310,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 6,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)",
     "image": "AAPL_10Q-Q2-2025-as-filed_p06_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 120.3,
+      "x1": 562.5,
+      "y1": 700.8
+    },
     "rows": 70,
     "data": [
       "Apple Inc.",
@@ -3898,7 +5398,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 7,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "AAPL_10Q-Q2-2025-as-filed_p07_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 510.3
+    },
     "rows": 28,
     "data": [
       "Apple Inc.",
@@ -3932,7 +5444,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 8,
+    "table_index": 1,
+    "heading": "Six Months Ended",
     "image": "AAPL_10Q-Q2-2025-as-filed_p08_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 688.8
+    },
     "rows": 92,
     "data": [
       "Apple Inc.",
@@ -4030,7 +5554,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 9,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "AAPL_10Q-Q2-2025-as-filed_p09_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 383.2,
+      "x1": 562.5,
+      "y1": 495.0
+    },
     "rows": 18,
     "data": [
       "MICHUQEO IW Te Wrst HSCal QUaller EVEry MVE OF SIX Yedls tO fealgn tle VOMpPanys NsCal Quallers Will) Calenaal Quallers. Me",
@@ -4054,7 +5590,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 10,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "AAPL_10Q-Q2-2025-as-filed_p10_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 132.9,
+      "x1": 562.5,
+      "y1": 261.2
+    },
     "rows": 14,
     "data": [
       "Note 3 \u2014 Earnings Per Share",
@@ -4074,7 +5622,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 10,
+    "table_index": 2,
+    "heading": "Cost Gains Losses Value Equivalents Securities Securities",
     "image": "AAPL_10Q-Q2-2025-as-filed_p10_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 400.1,
+      "x1": 562.5,
+      "y1": 604.8
+    },
     "rows": 25,
     "data": [
       "Diluted earnings per share $ 165 $ 1.53 $ 405 $ 3.71",
@@ -4105,7 +5665,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 11,
+    "table_index": 1,
+    "heading": "Cost Gains Losses Value Equivalents Securities Securities",
     "image": "AAPL_10Q-Q2-2025-as-filed_p11_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 97.5,
+      "x1": 562.5,
+      "y1": 302.2
+    },
     "rows": 54,
     "data": [
       "Unrealized",
@@ -4165,7 +5737,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 12,
+    "table_index": 1,
+    "heading": "Derivative instruments designated as accounting hedges:",
     "image": "AAPL_10Q-Q2-2025-as-filed_p12_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 159.8,
+      "x1": 562.5,
+      "y1": 231.0
+    },
     "rows": 12,
     "data": [
       "Interest Rate Risk",
@@ -4183,7 +5767,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 12,
+    "table_index": 2,
+    "heading": "Table (Page 12, #2)",
     "image": "AAPL_10Q-Q2-2025-as-filed_p12_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 597.2,
+      "x1": 562.5,
+      "y1": 625.7
+    },
     "rows": 11,
     "data": [
       "vendor non-trade receivables, which accounted for 49% and 19%. As of September 28, 2024, the Company had two vendors",
@@ -4200,7 +5796,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 12,
+    "table_index": 3,
+    "heading": "Property, Plant and Equipment, Net",
     "image": "AAPL_10Q-Q2-2025-as-filed_p12_t03.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 698.5,
+      "x1": 562.5,
+      "y1": 727.0
+    },
     "rows": 18,
     "data": [
       "inventories",
@@ -4224,7 +5832,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 13,
+    "table_index": 1,
+    "heading": "RSUs Grant-Date Fair",
     "image": "AAPL_10Q-Q2-2025-as-filed_p13_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 410.2,
+      "x1": 562.5,
+      "y1": 467.2
+    },
     "rows": 15,
     "data": [
       "ae eae a soa",
@@ -4245,7 +5865,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 14,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "AAPL_10Q-Q2-2025-as-filed_p14_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 210.9,
+      "x1": 562.5,
+      "y1": 467.4
+    },
     "rows": 26,
     "data": [
       "me VLompany Is subject tO varlous legal proceedings and Claims tal Nave arisen in the orainary Course of business and Mat",
@@ -4277,7 +5909,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 14,
+    "table_index": 2,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "AAPL_10Q-Q2-2025-as-filed_p14_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 557.8,
+      "x1": 562.5,
+      "y1": 600.5
+    },
     "rows": 12,
     "data": [
       "Rest of Asia Pacific:",
@@ -4295,7 +5939,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 16,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "AAPL_10Q-Q2-2025-as-filed_p16_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 340.5,
+      "x1": 562.5,
+      "y1": 411.8
+    },
     "rows": 16,
     "data": [
       "Implement tarts Or otner retaiatory measures in response, ana the Overall Magnituae ana auration of these Measures. | lage",
@@ -4317,7 +5973,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 17,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "AAPL_10Q-Q2-2025-as-filed_p17_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 207.5,
+      "x1": 562.5,
+      "y1": 293.0
+    },
     "rows": 17,
     "data": [
       "Rest of Asia Pacific net sales increased during the second quarter of 2025 compared to the second quarter of 2024 due primarily",
@@ -4340,7 +6008,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 18,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "AAPL_10Q-Q2-2025-as-filed_p18_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 132.9,
+      "x1": 562.5,
+      "y1": 175.7
+    },
     "rows": 11,
     "data": [
       "Gross Margin",
@@ -4357,7 +6037,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 18,
+    "table_index": 2,
+    "heading": "Gross margin percentage:",
     "image": "AAPL_10Q-Q2-2025-as-filed_p18_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 200.9,
+      "x1": 562.5,
+      "y1": 243.7
+    },
     "rows": 13,
     "data": [
       "Products and Services gross margin and gross margin percentage for the three- and six-month periods ended March 29, 2025",
@@ -4376,7 +6068,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 19,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "AAPL_10Q-Q2-2025-as-filed_p19_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 132.9,
+      "x1": 562.5,
+      "y1": 211.7
+    },
     "rows": 27,
     "data": [
       "Operating Expenses",
@@ -4409,7 +6113,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 19,
+    "table_index": 2,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "AAPL_10Q-Q2-2025-as-filed_p19_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 459.2,
+      "x1": 562.5,
+      "y1": 487.7
+    },
     "rows": 13,
     "data": [
       "ine growin in seuing, general ana aaministrative expense auring the secona qualter Of -Uco Compared to the secona quarter OF",
@@ -4428,7 +6144,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q2-2025-as-filed",
+    "period": "2025",
+    "page": 25,
+    "table_index": 1,
+    "heading": "of Shares Paid Per Plans or Under the Plans",
     "image": "AAPL_10Q-Q2-2025-as-filed_p25_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 164.7,
+      "x1": 561.8,
+      "y1": 279.5
+    },
     "rows": 18,
     "data": [
       "Item 2. Unregistered Sales of Equity Securities and Use of Proceeds",
@@ -4452,7 +6180,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 3,
+    "table_index": 1,
+    "heading": "TABLE OF CONTENTS",
     "image": "AAPL_10Q-Q3-2025-as-filed_p03_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 154.8,
+      "x1": 562.5,
+      "y1": 211.3
+    },
     "rows": 14,
     "data": [
       "Apple Inc.",
@@ -4472,7 +6212,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 3,
+    "table_index": 2,
+    "heading": "TABLE OF CONTENTS",
     "image": "AAPL_10Q-Q3-2025-as-filed_p03_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 224.5,
+      "x1": 562.5,
+      "y1": 323.8
+    },
     "rows": 27,
     "data": [
       "For the Fiscal Quarter Ended June 28, 2025",
@@ -4505,7 +6257,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 4,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL_10Q-Q3-2025-as-filed_p04_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 192.9,
+      "x1": 562.5,
+      "y1": 591.9
+    },
     "rows": 118,
     "data": [
       "PART | \u2014 FINANCIAL INFORMATION",
@@ -4629,7 +6393,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 5,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL_10Q-Q3-2025-as-filed_p05_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 424.0
+    },
     "rows": 74,
     "data": [
       "Apple Inc.",
@@ -4709,7 +6485,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 6,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)",
     "image": "AAPL_10Q-Q3-2025-as-filed_p06_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 120.3,
+      "x1": 562.5,
+      "y1": 700.8
+    },
     "rows": 70,
     "data": [
       "Apple Inc.",
@@ -4785,7 +6573,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 7,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL_10Q-Q3-2025-as-filed_p07_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 510.3
+    },
     "rows": 28,
     "data": [
       "Apple Inc.",
@@ -4819,7 +6619,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 8,
+    "table_index": 1,
+    "heading": "Nine Months Ended",
     "image": "AAPL_10Q-Q3-2025-as-filed_p08_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 703.0
+    },
     "rows": 101,
     "data": [
       "Apple Inc.",
@@ -4926,7 +6738,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 9,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL_10Q-Q3-2025-as-filed_p09_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 383.2,
+      "x1": 562.5,
+      "y1": 495.0
+    },
     "rows": 18,
     "data": [
       "MICHUQEO IW Te Wrst HSCal QUaller EVEry MVE OF SIX Yedls tO fealgn tle VOMpPanys NsCal Quallers Will) Calenaal Quallers. Me",
@@ -4950,7 +6774,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 10,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL_10Q-Q3-2025-as-filed_p10_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 132.9,
+      "x1": 562.5,
+      "y1": 261.2
+    },
     "rows": 14,
     "data": [
       "Note 3 \u2014 Earnings Per Share",
@@ -4970,7 +6806,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 10,
+    "table_index": 2,
+    "heading": "Cost Gains Losses Value Equivalents Securities Securities",
     "image": "AAPL_10Q-Q3-2025-as-filed_p10_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 400.1,
+      "x1": 562.5,
+      "y1": 604.8
+    },
     "rows": 25,
     "data": [
       "Diluted earnings per share $ 1.57 $ 1.40 $ 5.62 $ 5.11",
@@ -5001,7 +6849,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 11,
+    "table_index": 1,
+    "heading": "Cost Gains Losses Value Equivalents Securities Securities",
     "image": "AAPL_10Q-Q3-2025-as-filed_p11_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 97.5,
+      "x1": 562.5,
+      "y1": 302.2
+    },
     "rows": 54,
     "data": [
       "Unrealized",
@@ -5061,7 +6921,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 12,
+    "table_index": 1,
+    "heading": "Derivative instruments designated as accounting hedges:",
     "image": "AAPL_10Q-Q3-2025-as-filed_p12_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 159.8,
+      "x1": 562.5,
+      "y1": 231.0
+    },
     "rows": 12,
     "data": [
       "Interest Rate Risk",
@@ -5079,7 +6951,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 12,
+    "table_index": 2,
+    "heading": "Table (Page 12, #2)",
     "image": "AAPL_10Q-Q3-2025-as-filed_p12_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 608.0,
+      "x1": 562.5,
+      "y1": 636.5
+    },
     "rows": 11,
     "data": [
       "vendor non-trade receivables, which accounted for 48% and 14%. As of September 28, 2024, \u2018the Company had two vendors",
@@ -5096,7 +6980,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 12,
+    "table_index": 3,
+    "heading": "Property, Plant and Equipment, Net",
     "image": "AAPL_10Q-Q3-2025-as-filed_p12_t03.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 709.3,
+      "x1": 562.5,
+      "y1": 737.8
+    },
     "rows": 28,
     "data": [
       "Inventories",
@@ -5130,7 +7026,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 13,
+    "table_index": 1,
+    "heading": "Nine Months Ended",
     "image": "AAPL_10Q-Q3-2025-as-filed_p13_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 188.1,
+      "x1": 562.5,
+      "y1": 273.6
+    },
     "rows": 15,
     "data": [
       "Note 6 \u2014 Debt",
@@ -5151,7 +7059,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 13,
+    "table_index": 2,
+    "heading": "RSUs Grant-Date Fair",
     "image": "AAPL_10Q-Q3-2025-as-filed_p13_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 566.3,
+      "x1": 562.5,
+      "y1": 623.3
+    },
     "rows": 16,
     "data": [
       "EN OE SE IDOE IE III OES",
@@ -5173,7 +7093,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 14,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL_10Q-Q3-2025-as-filed_p14_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 393.2,
+      "x1": 562.5,
+      "y1": 649.7
+    },
     "rows": 26,
     "data": [
       "me VLompany Is subject tO varlous legal proceedings and Claims tal Nave arisen in the orainary Course of business and Mat",
@@ -5205,7 +7137,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 15,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL_10Q-Q3-2025-as-filed_p15_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 116.1,
+      "x1": 562.5,
+      "y1": 158.8
+    },
     "rows": 9,
     "data": [
       "A reconciliation of the Company\u2019s segment operating income to the Condensed Consolidated Statements of Operations for the",
@@ -5220,7 +7164,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 17,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL_10Q-Q3-2025-as-filed_p17_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 340.5,
+      "x1": 562.5,
+      "y1": 411.8
+    },
     "rows": 16,
     "data": [
       "response, anda the overall magnituae anda auration of these measures. Irage ana other international Gisputes Can Nave an",
@@ -5242,7 +7198,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 18,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL_10Q-Q3-2025-as-filed_p18_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 118.7,
+      "x1": 562.5,
+      "y1": 204.2
+    },
     "rows": 12,
     "data": [
       "Products and Services Performance",
@@ -5260,7 +7228,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 19,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL_10Q-Q3-2025-as-filed_p19_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 132.9,
+      "x1": 562.5,
+      "y1": 175.7
+    },
     "rows": 10,
     "data": [
       "Gross Margin",
@@ -5276,7 +7256,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 19,
+    "table_index": 2,
+    "heading": "Gross margin percentage:",
     "image": "AAPL_10Q-Q3-2025-as-filed_p19_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 200.9,
+      "x1": 562.5,
+      "y1": 243.7
+    },
     "rows": 13,
     "data": [
       "Products and Services gross margin and gross margin percentage for the three- and nine-month periods ended June 28, 2025",
@@ -5295,7 +7287,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 20,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL_10Q-Q3-2025-as-filed_p20_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 132.9,
+      "x1": 562.5,
+      "y1": 211.7
+    },
     "rows": 18,
     "data": [
       "Operating Expenses",
@@ -5319,7 +7323,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 20,
+    "table_index": 2,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL_10Q-Q3-2025-as-filed_p20_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 437.6,
+      "x1": 562.5,
+      "y1": 466.1
+    },
     "rows": 18,
     "data": [
       "Selling, General and Administrative",
@@ -5343,7 +7359,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "10Q-Q3-2025-as-filed",
+    "period": "2025",
+    "page": 24,
+    "table_index": 1,
+    "heading": "of Shares Paid Per Plans or Under the Plans",
     "image": "AAPL_10Q-Q3-2025-as-filed_p24_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 288.9,
+      "x1": 561.8,
+      "y1": 403.6
+    },
     "rows": 19,
     "data": [
       "there nave been no material changes to the Vompany 's risk factors since the <U<\u00e94 Form 10-K.",
@@ -5368,7 +7396,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 3,
+    "table_index": 1,
+    "heading": "TABLE OF CONTENTS",
     "image": "AAPL__10-K-2025-As-Filed_p03_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 155.6,
+      "x1": 562.5,
+      "y1": 254.1
+    },
     "rows": 19,
     "data": [
       "Apple Inc.",
@@ -5393,7 +7433,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 3,
+    "table_index": 2,
+    "heading": "Table (Page 3, #2)",
     "image": "AAPL__10-K-2025-As-Filed_p03_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 268.8,
+      "x1": 562.5,
+      "y1": 407.1
+    },
     "rows": 35,
     "data": [
       "Part!",
@@ -5434,7 +7486,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 22,
+    "table_index": 1,
+    "heading": "of Shares Paid Per Plans or Under the Plans",
     "image": "AAPL__10-K-2025-As-Filed_p22_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 291.5,
+      "x1": 562.5,
+      "y1": 393.5
+    },
     "rows": 36,
     "data": [
       "As of October 17, 2025, there were 22,429 shareholders of record.",
@@ -5476,7 +7540,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 23,
+    "table_index": 1,
+    "heading": "September September September September September September",
     "image": "AAPL__10-K-2025-As-Filed_p23_t01.png",
+    "coordinates": {
+      "x0": 50.3,
+      "y0": 522.0,
+      "x1": 561.8,
+      "y1": 561.0
+    },
     "rows": 9,
     "data": [
       "$0",
@@ -5491,7 +7567,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 25,
+    "table_index": 1,
+    "heading": "Segment Operating Performance",
     "image": "AAPL__10-K-2025-As-Filed_p25_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 308.0,
+      "x1": 562.5,
+      "y1": 379.2
+    },
     "rows": 16,
     "data": [
       "availabilty Of rare eartns ana other raw materials and components, pricing and gross margin. ine ultimate impact remains",
@@ -5513,7 +7601,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 26,
+    "table_index": 1,
+    "heading": "Products and Services Performance",
     "image": "AAPL__10-K-2025-As-Filed_p26_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 100.3,
+      "x1": 562.5,
+      "y1": 171.6
+    },
     "rows": 9,
     "data": [
       "Products and Services Performance",
@@ -5528,7 +7628,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 27,
+    "table_index": 1,
+    "heading": "Table (Page 27, #1)",
     "image": "AAPL__10-K-2025-As-Filed_p27_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 100.3,
+      "x1": 562.5,
+      "y1": 143.1
+    },
     "rows": 7,
     "data": [
       "Gross Margin",
@@ -5541,7 +7653,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 27,
+    "table_index": 2,
+    "heading": "Gross margin percentage:",
     "image": "AAPL__10-K-2025-As-Filed_p27_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 168.3,
+      "x1": 562.5,
+      "y1": 211.1
+    },
     "rows": 37,
     "data": [
       "Gross Margin",
@@ -5584,7 +7708,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 27,
+    "table_index": 3,
+    "heading": "Operating Expenses",
     "image": "AAPL__10-K-2025-As-Filed_p27_t03.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 522.1,
+      "x1": 562.5,
+      "y1": 600.8
+    },
     "rows": 20,
     "data": [
       "Services gross margin percentage increased during 2025 compared to 2024 primarily due to a different mix of services, partially",
@@ -5610,7 +7746,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 28,
+    "table_index": 1,
+    "heading": "Provision for Income Taxes",
     "image": "AAPL__10-K-2025-As-Filed_p28_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 111.2,
+      "x1": 562.5,
+      "y1": 139.7
+    },
     "rows": 11,
     "data": [
       "Provision for Income Taxes",
@@ -5627,7 +7775,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 31,
+    "table_index": 1,
+    "heading": "Index to Consolidated Financial Statements Page",
     "image": "AAPL__10-K-2025-As-Filed_p31_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 109.9,
+      "x1": 562.5,
+      "y1": 226.2
+    },
     "rows": 21,
     "data": [
       "Item 8. Financial Statements and Supplementary Data",
@@ -5654,7 +7814,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 32,
+    "table_index": 1,
+    "heading": "CONSOLIDATED STATEMENTS OF OPERATIONS",
     "image": "AAPL__10-K-2025-As-Filed_p32_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 546.3
+    },
     "rows": 92,
     "data": [
       "Net sales:",
@@ -5752,7 +7924,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 33,
+    "table_index": 1,
+    "heading": "CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME",
     "image": "AAPL__10-K-2025-As-Filed_p33_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 413.5
+    },
     "rows": 24,
     "data": [
       "Apple Inc.",
@@ -5782,7 +7966,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 34,
+    "table_index": 1,
+    "heading": "CONSOLIDATED BALANCE SHEETS",
     "image": "AAPL__10-K-2025-As-Filed_p34_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 120.3,
+      "x1": 562.5,
+      "y1": 700.8
+    },
     "rows": 41,
     "data": [
       "Apple Inc.",
@@ -5829,7 +8025,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 35,
+    "table_index": 1,
+    "heading": "CONSOLIDATED STATEMENTS OF SHAREHOLDERS\u2019 EQUITY",
     "image": "AAPL__10-K-2025-As-Filed_p35_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 510.3
+    },
     "rows": 28,
     "data": [
       "Apple Inc.",
@@ -5863,7 +8071,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 36,
+    "table_index": 1,
+    "heading": "Cash, cash equivalents, and restricted cash and cash equivalents, beginning",
     "image": "AAPL__10-K-2025-As-Filed_p36_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.9,
+      "x1": 562.5,
+      "y1": 721.7
+    },
     "rows": 45,
     "data": [
       "Apple Inc.",
@@ -5914,7 +8134,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 39,
+    "table_index": 1,
+    "heading": "The following table shows disaggregated net sales, as well as the portion of total net sales that was previously deferred, for",
     "image": "AAPL__10-K-2025-As-Filed_p39_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 94.3,
+      "x1": 562.5,
+      "y1": 204.6
+    },
     "rows": 11,
     "data": [
       "The following table shows disaggregated net sales, as well as the portion of total net sales that was previously deferred, for",
@@ -5931,7 +8163,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 39,
+    "table_index": 2,
+    "heading": "millions and shares in thousands):",
     "image": "AAPL__10-K-2025-As-Filed_p39_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 415.4,
+      "x1": 562.5,
+      "y1": 543.7
+    },
     "rows": 16,
     "data": [
       "revenue represented a moderately higher proportion of net sales.",
@@ -5953,7 +8197,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 40,
+    "table_index": 1,
+    "heading": "Cost Gains Losses Value Equivalents Securities Securities",
     "image": "AAPL__10-K-2025-As-Filed_p40_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 158.7,
+      "x1": 562.5,
+      "y1": 363.5
+    },
     "rows": 24,
     "data": [
       "Note 4 \u2014 Financial Instruments",
@@ -5983,7 +8239,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 40,
+    "table_index": 2,
+    "heading": "Cost Gains Losses Value Equivalents Securities Securities",
     "image": "AAPL__10-K-2025-As-Filed_p40_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 429.2,
+      "x1": 562.5,
+      "y1": 634.0
+    },
     "rows": 69,
     "data": [
       "Commercial paper 100",
@@ -6058,7 +8326,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 42,
+    "table_index": 1,
+    "heading": "Derivative instruments designated as accounting hedges:",
     "image": "AAPL__10-K-2025-As-Filed_p42_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 94.3,
+      "x1": 562.5,
+      "y1": 165.6
+    },
     "rows": 9,
     "data": [
       "The notional amounts of the Company\u2019s outstanding derivative instruments as of September 27, 2025 and September 28, 2024,",
@@ -6073,7 +8353,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 42,
+    "table_index": 2,
+    "heading": "The following table shows the Company\u2019s gross property, plant and equipment by major asset class and accumulated",
     "image": "AAPL__10-K-2025-As-Filed_p42_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 504.8,
+      "x1": 562.5,
+      "y1": 576.0
+    },
     "rows": 16,
     "data": [
       "mese venaors wno manutacture subassembdiles or assemble tinal proaucts for the Vompany. 1he Gompany purcnases these",
@@ -6095,7 +8387,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 43,
+    "table_index": 1,
+    "heading": "Other Non-Current Assets",
     "image": "AAPL__10-K-2025-As-Filed_p43_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 140.0,
+      "x1": 562.5,
+      "y1": 168.5
+    },
     "rows": 8,
     "data": [
       "Note 6 \u2014 Consolidated Financial Statement Details",
@@ -6109,7 +8413,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 43,
+    "table_index": 2,
+    "heading": "Other Current Liabilities",
     "image": "AAPL__10-K-2025-As-Filed_p43_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 232.2,
+      "x1": 562.5,
+      "y1": 275.0
+    },
     "rows": 27,
     "data": [
       "Other Non-Current Assets",
@@ -6142,7 +8458,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 43,
+    "table_index": 3,
+    "heading": "Provision for Income Taxes and Effective Tax Rate",
     "image": "AAPL__10-K-2025-As-Filed_p43_t03.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 551.8,
+      "x1": 562.5,
+      "y1": 722.8
+    },
     "rows": 56,
     "data": [
       "ine GVompany and Ireland appealed the olate Ald Vecision to the General Uourt of tne Uourt of Justice of the European Union",
@@ -6204,7 +8532,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 44,
+    "table_index": 1,
+    "heading": "Table (Page 44, #1)",
     "image": "AAPL__10-K-2025-As-Filed_p44_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 94.3,
+      "x1": 562.5,
+      "y1": 194.1
+    },
     "rows": 12,
     "data": [
       "A reconciliation of the provision for income taxes to the amount computed by applying the statutory federal income tax rate (21%",
@@ -6222,7 +8562,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 44,
+    "table_index": 2,
+    "heading": "Deferred tax assets:",
     "image": "AAPL__10-K-2025-As-Filed_p44_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 285.5,
+      "x1": 562.5,
+      "y1": 513.5
+    },
     "rows": 25,
     "data": [
       "Impact of the State Aid Decision (486) 10,246 _",
@@ -6253,7 +8605,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 45,
+    "table_index": 1,
+    "heading": "Uncertain Tax Positions",
     "image": "AAPL__10-K-2025-As-Filed_p45_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 155.5,
+      "x1": 562.6,
+      "y1": 241.0
+    },
     "rows": 14,
     "data": [
       "Uncertain Tax Positions",
@@ -6273,7 +8637,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 45,
+    "table_index": 3,
+    "heading": "Right-of-use assets:",
     "image": "AAPL__10-K-2025-As-Filed_p45_t03.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 534.7,
+      "x1": 562.6,
+      "y1": 677.2
+    },
     "rows": 20,
     "data": [
       "a et Nel\u201d tata ta\u201d a a at ee ee eins",
@@ -6299,7 +8675,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 46,
+    "table_index": 1,
+    "heading": "Leases Leases Total",
     "image": "AAPL__10-K-2025-As-Filed_p46_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 92.5,
+      "x1": 562.1,
+      "y1": 206.5
+    },
     "rows": 12,
     "data": [
       "Lease liability maturities as of September 27, 2025, are as follows (in millions):",
@@ -6317,7 +8705,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 46,
+    "table_index": 2,
+    "heading": "respectively, with maturities generally less than nine months. The weighted-average interest rate of the Company\u2019s commercial",
     "image": "AAPL__10-K-2025-As-Filed_p46_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 471.4,
+      "x1": 562.1,
+      "y1": 585.3
+    },
     "rows": 16,
     "data": [
       "Note 9 \u2014 Debt",
@@ -6339,7 +8739,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 47,
+    "table_index": 1,
+    "heading": "Maturities Amount Effective Amount Effective",
     "image": "AAPL__10-K-2025-As-Filed_p47_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 131.4,
+      "x1": 562.5,
+      "y1": 282.1
+    },
     "rows": 18,
     "data": [
       "Term Debt",
@@ -6363,7 +8775,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 47,
+    "table_index": 2,
+    "heading": "applicable, adjustments related to hedging.",
     "image": "AAPL__10-K-2025-As-Filed_p47_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 404.8,
+      "x1": 562.5,
+      "y1": 504.5
+    },
     "rows": 16,
     "data": [
       "Less: Current portion of term debt (12,350) (10,912)",
@@ -6385,7 +8809,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 48,
+    "table_index": 1,
+    "heading": "Shares of Common Stock",
     "image": "AAPL__10-K-2025-As-Filed_p48_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 100.3,
+      "x1": 562.5,
+      "y1": 143.1
+    },
     "rows": 12,
     "data": [
       "Shares of Common Stock",
@@ -6403,7 +8839,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 48,
+    "table_index": 2,
+    "heading": "RSUs Grant-Date Fair",
     "image": "AAPL__10-K-2025-As-Filed_p48_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 370.4,
+      "x1": 562.5,
+      "y1": 427.4
+    },
     "rows": 15,
     "data": [
       "stock options and stock appreciation rights. RSUs granted under the 2022 Plan generally vest over four years, based on",
@@ -6424,7 +8872,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 49,
+    "table_index": 1,
+    "heading": "arrangements, licensed intellectual property and content, and distribution rights. Future payments under unconditional purchase",
     "image": "AAPL__10-K-2025-As-Filed_p49_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 142.8,
+      "x1": 562.5,
+      "y1": 228.3
+    },
     "rows": 13,
     "data": [
       "Note 12 - Commitments, Contingencies and Supply Concentrations",
@@ -6443,7 +8903,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 50,
+    "table_index": 1,
+    "heading": "Americas Europe China Japan Asia Pacific Corporate Total",
     "image": "AAPL__10-K-2025-As-Filed_p50_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 300.0,
+      "x1": 562.5,
+      "y1": 363.8
+    },
     "rows": 16,
     "data": [
       "The CODM uses segment net sales and operating income information to make certain decisions, such as product and service",
@@ -6465,7 +8937,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 50,
+    "table_index": 2,
+    "heading": "Americas Europe China Japan Asia Pacific Corporate Total",
     "image": "AAPL__10-K-2025-As-Filed_p50_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 422.0,
+      "x1": 562.5,
+      "y1": 485.8
+    },
     "rows": 27,
     "data": [
       "Net sales",
@@ -6498,7 +8982,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 50,
+    "table_index": 3,
+    "heading": "Americas Europe China Japan Asia Pacific Corporate Total",
     "image": "AAPL__10-K-2025-As-Filed_p50_t03.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 544.0,
+      "x1": 562.5,
+      "y1": 607.8
+    },
     "rows": 27,
     "data": [
       "Net sales",
@@ -6531,7 +9027,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 51,
+    "table_index": 1,
+    "heading": "amounts for the remaining countries (in millions):",
     "image": "AAPL__10-K-2025-As-Filed_p51_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 105.2,
+      "x1": 562.5,
+      "y1": 162.2
+    },
     "rows": 9,
     "data": [
       "The following tables show net sales for 2025, 2024 and 2023 and long-lived assets as of September 27, 2025 and",
@@ -6546,7 +9054,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 51,
+    "table_index": 2,
+    "heading": "Long-lived assets:",
     "image": "AAPL__10-K-2025-As-Filed_p51_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 200.2,
+      "x1": 562.5,
+      "y1": 257.2
+    },
     "rows": 14,
     "data": [
       "September 28, 2024 for countries that individually accounted for 10% or more of the respective totals, as well as aggregate",
@@ -6566,7 +9086,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 57,
+    "table_index": 1,
+    "heading": "Index to Consolidated Financial Statements Page",
     "image": "AAPL__10-K-2025-As-Filed_p57_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 155.8,
+      "x1": 562.5,
+      "y1": 272.1
+    },
     "rows": 24,
     "data": [
       "PART IV",
@@ -6596,7 +9128,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 69,
+    "table_index": 2,
+    "heading": "\u201cComparable Government Bond Rate\u201d means the price, expressed as a percentage (rounded to three",
     "image": "AAPL__10-K-2025-As-Filed_p69_t02.png",
+    "coordinates": {
+      "x0": 72.0,
+      "y0": 200.7,
+      "x1": 540.5,
+      "y1": 253.8
+    },
     "rows": 15,
     "data": [
       "market makers in, United Kingdom government bonds selected by us, determine to be appropriate for determining the",
@@ -6617,7 +9161,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 70,
+    "table_index": 3,
+    "heading": "becomes due and payable at its stated maturity, upon optional redemption, upon declaration or",
     "image": "AAPL__10-K-2025-As-Filed_p70_t03.png",
+    "coordinates": {
+      "x0": 126.0,
+      "y0": 228.3,
+      "x1": 538.5,
+      "y1": 313.8
+    },
     "rows": 18,
     "data": [
       "ach of the following events are defined in the Indentures as an \u201cevent of default\u2019 (whatever the reason for",
@@ -6641,7 +9197,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 71,
+    "table_index": 1,
+    "heading": "Table (Page 71, #1)",
     "image": "AAPL__10-K-2025-As-Filed_p71_t01.png",
+    "coordinates": {
+      "x0": 72.0,
+      "y0": 72.0,
+      "x1": 527.7,
+      "y1": 114.3
+    },
     "rows": 5,
     "data": [
       "If an event of default with respect to debt securities of any series (other than an event of default relating to",
@@ -6652,7 +9220,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 71,
+    "table_index": 5,
+    "heading": "notice of such continuing event of default with respect to the debt securities of such series;",
     "image": "AAPL__10-K-2025-As-Filed_p71_t05.png",
+    "coordinates": {
+      "x0": 108.0,
+      "y0": 428.4,
+      "x1": 527.7,
+      "y1": 469.8
+    },
     "rows": 13,
     "data": [
       ".TOr any otner series of aept securities issued under tne inaentures.",
@@ -6671,7 +9251,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-K-2025-As-Filed",
+    "period": "2025",
+    "page": 73,
+    "table_index": 1,
+    "heading": "The holders of at least a majority in aggregate principal amount of the outstanding Notes of any series may,",
     "image": "AAPL__10-K-2025-As-Filed_p73_t01.png",
+    "coordinates": {
+      "x0": 72.0,
+      "y0": 544.9,
+      "x1": 542.4,
+      "y1": 641.2
+    },
     "rows": 20,
     "data": [
       "e to supplement any of the provisions of the applicable indenture to such extent as Snall be necessary to",
@@ -6697,7 +9289,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 3,
+    "table_index": 1,
+    "heading": "TABLE OF CONTENTS",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p03_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 154.8,
+      "x1": 562.5,
+      "y1": 211.3
+    },
     "rows": 14,
     "data": [
       "Apple Inc.",
@@ -6717,7 +9321,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 3,
+    "table_index": 2,
+    "heading": "TABLE OF CONTENTS",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p03_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 224.5,
+      "x1": 562.5,
+      "y1": 323.8
+    },
     "rows": 26,
     "data": [
       "For the Fiscal Quarter Ended June 29, 2024",
@@ -6749,7 +9365,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 4,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p04_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 192.9,
+      "x1": 562.5,
+      "y1": 591.9
+    },
     "rows": 32,
     "data": [
       "PART | \u2014 FINANCIAL INFORMATION",
@@ -6787,7 +9415,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 5,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p05_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 415.0
+    },
     "rows": 25,
     "data": [
       "Apple Inc.",
@@ -6818,7 +9458,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 6,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p06_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 120.3,
+      "x1": 562.5,
+      "y1": 699.3
+    },
     "rows": 70,
     "data": [
       "Apple Inc.",
@@ -6894,7 +9546,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 7,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p07_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 507.3
+    },
     "rows": 28,
     "data": [
       "Apple Inc.",
@@ -6928,7 +9592,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 8,
+    "table_index": 1,
+    "heading": "Nine Months Ended",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p08_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 147.3,
+      "x1": 562.5,
+      "y1": 703.0
+    },
     "rows": 41,
     "data": [
       "Apple Inc.",
@@ -6975,7 +9651,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 9,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p09_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 383.2,
+      "x1": 562.5,
+      "y1": 456.0
+    },
     "rows": 16,
     "data": [
       "WNICHUQEA IW) WE MSC HSCal Qualler CVery IVE OF SIX Yedis lO FealiQh We VOMPANy Ss NSCal Quallers WITT) CalenQalr Quallers, WHICT)",
@@ -6997,7 +9685,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 10,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p10_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 132.9,
+      "x1": 562.5,
+      "y1": 261.2
+    },
     "rows": 14,
     "data": [
       "Note 3 \u2014 Earnings Per Share",
@@ -7017,7 +9717,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 10,
+    "table_index": 2,
+    "heading": "Cost Gains Losses Value Equivalents Securities Securities",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p10_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 433.7,
+      "x1": 562.5,
+      "y1": 638.5
+    },
     "rows": 27,
     "data": [
       "ee ee i se a, Ss EE",
@@ -7050,7 +9762,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 11,
+    "table_index": 1,
+    "heading": "Cost Gains Losses Value Equivalents Securities Securities",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p11_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 97.5,
+      "x1": 562.5,
+      "y1": 302.2
+    },
     "rows": 36,
     "data": [
       "Adjusted Unrealized",
@@ -7092,7 +9816,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 11,
+    "table_index": 2,
+    "heading": "The following table shows the fair value of the Company\u2019s non-current marketable debt securities, by contractual maturity, as of",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p11_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 439.7,
+      "x1": 562.5,
+      "y1": 482.5
+    },
     "rows": 13,
     "data": [
       "Total $ 173,752 $ 30 $ (11,683) $ 162,099 $ 29,965 $ 31,590 $ 100,544",
@@ -7111,7 +9847,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 12,
+    "table_index": 1,
+    "heading": "Derivative instruments designated as accounting hedges:",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p12_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 159.8,
+      "x1": 562.5,
+      "y1": 231.0
+    },
     "rows": 12,
     "data": [
       "Interest Rate Risk",
@@ -7129,7 +9877,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 12,
+    "table_index": 2,
+    "heading": "Hedged assets/(liabilities):",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p12_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 314.6,
+      "x1": 562.5,
+      "y1": 343.1
+    },
     "rows": 11,
     "data": [
       "roreign excnange contractS Po) 00,042 14,1350",
@@ -7146,7 +9906,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 12,
+    "table_index": 3,
+    "heading": "Property, Plant and Equipment, Net",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p12_t03.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 669.7,
+      "x1": 562.5,
+      "y1": 698.2
+    },
     "rows": 11,
     "data": [
       "vendor non-trade receivables, which accounted for 46% and 18%. As of September 30, 2023, \u2018the Company had two vendors",
@@ -7163,7 +9935,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 13,
+    "table_index": 1,
+    "heading": "Nine Months Ended",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p13_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 347.7,
+      "x1": 562.5,
+      "y1": 433.2
+    },
     "rows": 15,
     "data": [
       "Note 7 \u2014 Debt",
@@ -7184,7 +9968,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 14,
+    "table_index": 1,
+    "heading": "RSUs Grant Date Fair Fair Value",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p14_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 136.7,
+      "x1": 562.5,
+      "y1": 193.7
+    },
     "rows": 11,
     "data": [
       "Note 9 \u2014 Share-Based Compensation",
@@ -7201,7 +9997,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 15,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p15_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 132.9,
+      "x1": 562.5,
+      "y1": 389.4
+    },
     "rows": 22,
     "data": [
       "Note 11 \u2014 Segment Information and Geographic Data",
@@ -7229,7 +10037,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 15,
+    "table_index": 2,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p15_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 479.8,
+      "x1": 562.5,
+      "y1": 522.5
+    },
     "rows": 12,
     "data": [
       "Rest of Asia Pacific:",
@@ -7247,7 +10067,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 17,
+    "table_index": 1,
+    "heading": "Net sales by reportable segment:",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p17_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 132.9,
+      "x1": 562.5,
+      "y1": 218.4
+    },
     "rows": 58,
     "data": [
       "Segment Operating Performance",
@@ -7311,7 +10143,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 18,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p18_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 118.7,
+      "x1": 562.5,
+      "y1": 218.4
+    },
     "rows": 62,
     "data": [
       "Products and Services Performance",
@@ -7379,7 +10223,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 19,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p19_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 132.9,
+      "x1": 562.5,
+      "y1": 175.7
+    },
     "rows": 10,
     "data": [
       "Gross Margin",
@@ -7395,7 +10251,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 19,
+    "table_index": 2,
+    "heading": "Gross margin percentage:",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p19_t02.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 200.9,
+      "x1": 562.5,
+      "y1": 243.7
+    },
     "rows": 13,
     "data": [
       "Products and Services gross margin and gross margin percentage for the three- and nine-month periods ended June 29, 2024",
@@ -7414,7 +10282,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 19,
+    "table_index": 3,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p19_t03.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 598.0,
+      "x1": 562.5,
+      "y1": 676.8
+    },
     "rows": 21,
     "data": [
       "The Company\u2019s future gross margins can be impacted by a variety of factors, as discussed in Part I, Item 1A of the 2023 Form",
@@ -7441,7 +10321,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 20,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p20_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 189.3,
+      "x1": 562.5,
+      "y1": 217.8
+    },
     "rows": 18,
     "data": [
       "Selling, General and Administrative",
@@ -7465,7 +10357,19 @@
     ]
   },
   {
+    "company": "AAPL",
+    "report": "_10-Q-Q3-2024-As-Filed",
+    "period": "2024",
+    "page": 23,
+    "table_index": 1,
+    "heading": "of Shares Paid Per Plans or Under the Plans",
     "image": "AAPL__10-Q-Q3-2024-As-Filed_p23_t01.png",
+    "coordinates": {
+      "x0": 49.5,
+      "y0": 164.7,
+      "x1": 561.8,
+      "y1": 279.5
+    },
     "rows": 18,
     "data": [
       "Item 2. Unregistered Sales of Equity Securities and Use of Proceeds",

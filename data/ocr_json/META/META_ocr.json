@@ -1,6 +1,18 @@
 [
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 6,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED BALANCE SHEETS",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p06_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 173.5,
+      "x1": 593.2,
+      "y1": 596.7
+    },
     "rows": 44,
     "data": [
       "Table of Contents",
@@ -50,7 +62,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 7,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED STATEMENTS OF INCOME",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p07_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 160.4,
+      "x1": 593.2,
+      "y1": 376.0
+    },
     "rows": 25,
     "data": [
       "Table of Contents",
@@ -81,7 +105,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 8,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p08_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 160.9,
+      "x1": 593.2,
+      "y1": 222.1
+    },
     "rows": 12,
     "data": [
       "Table of Contents",
@@ -99,7 +135,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 9,
+    "table_index": 1,
+    "heading": "Shares Value Capital Loss Earnings Equity Shares Value Capital Loss Earnings Equity",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p09_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 175.0,
+      "x1": 592.5,
+      "y1": 317.9
+    },
     "rows": 36,
     "data": [
       "Table of Contents",
@@ -141,7 +189,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 10,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p10_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 139.1,
+      "x1": 593.2,
+      "y1": 602.1
+    },
     "rows": 45,
     "data": [
       "Table of Contents",
@@ -192,7 +252,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 11,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p11_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 138.8,
+      "x1": 593.2,
+      "y1": 229.5
+    },
     "rows": 24,
     "data": [
       "Table of Contents",
@@ -222,7 +294,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 13,
+    "table_index": 1,
+    "heading": "Revenue disaggregated by revenue source and by segment consists of the following (in millions):",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p13_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 142.6,
+      "x1": 593.1,
+      "y1": 204.5
+    },
     "rows": 15,
     "data": [
       "Table of Contents",
@@ -243,7 +327,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 13,
+    "table_index": 2,
+    "heading": "Revenue disaggregated by geography, based on the addresses of our customers, consists of the following (in millions):",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p13_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 262.8,
+      "x1": 593.1,
+      "y1": 324.0
+    },
     "rows": 15,
     "data": [
       "Three Months Ended March 31,",
@@ -264,7 +360,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 14,
+    "table_index": 1,
+    "heading": "share amounts):",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p14_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 261.2,
+      "x1": 593.2,
+      "y1": 454.9
+    },
     "rows": 26,
     "data": [
       "rights. Accordingly, we present the earnings per share (EPS) for Class A and Class B common stock together. :",
@@ -296,7 +404,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 15,
+    "table_index": 1,
+    "heading": "Identical Assets Observable Inputs Inputs",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p15_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 235.8,
+      "x1": 593.2,
+      "y1": 417.1
+    },
     "rows": 26,
     "data": [
       "Fair Value Measurements",
@@ -328,7 +448,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 16,
+    "table_index": 1,
+    "heading": "Identical Assets Observable Inputs Inputs",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p16_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 119.9,
+      "x1": 593.1,
+      "y1": 301.0
+    },
     "rows": 21,
     "data": [
       "Table of Contents",
@@ -355,7 +487,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 16,
+    "table_index": 2,
+    "heading": "Fair Value Unrealized Losses Fair Value Unrealized Losses Fair Value Unrealized Losses",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p16_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 402.3,
+      "x1": 593.1,
+      "y1": 451.6
+    },
     "rows": 14,
     "data": [
       "Total marketable securities 33,926 19,168 14,758 \u2014",
@@ -375,7 +519,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 16,
+    "table_index": 3,
+    "heading": "Fair Value Unrealized Losses Fair Value Unrealized Losses Fair Value Unrealized Losses",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p16_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 499.0,
+      "x1": 593.1,
+      "y1": 548.1
+    },
     "rows": 22,
     "data": [
       "December 31, 2024, aggregated by major security type and the length of time that individual securities have been in a continuous loss position (in millions):",
@@ -403,7 +559,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 17,
+    "table_index": 1,
+    "heading": "The following table classifies our marketable debt securities by contractual maturities (in millions):",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p17_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 123.3,
+      "x1": 593.1,
+      "y1": 161.3
+    },
     "rows": 7,
     "data": [
       "Table of Contents",
@@ -416,7 +584,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 17,
+    "table_index": 2,
+    "heading": "summarizes our non-marketable equity securities that were measured using measurement alternative and equity method (in millions):",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p17_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 240.7,
+      "x1": 593.1,
+      "y1": 326.0
+    },
     "rows": 16,
     "data": [
       "The following table classifies our marketable debt securities by contractual maturities (in millions):",
@@ -438,7 +618,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 17,
+    "table_index": 3,
+    "heading": "Property and equipment, net consists of the following (in millions):",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p17_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 392.0,
+      "x1": 593.1,
+      "y1": 512.3
+    },
     "rows": 20,
     "data": [
       "Non-marketable equity securities under measurement alternative:",
@@ -464,7 +656,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 24,
+    "table_index": 1,
+    "heading": "The following table summarizes our dividends activities for the periods presented (in millions, except per share amounts):",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p24_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 113.4,
+      "x1": 592.5,
+      "y1": 202.5
+    },
     "rows": 11,
     "data": [
       "Table of Contents",
@@ -481,7 +685,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 24,
+    "table_index": 2,
+    "heading": "statements of income (in millions):",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p24_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 367.2,
+      "x1": 592.5,
+      "y1": 428.0
+    },
     "rows": 15,
     "data": [
       "Our board of directors increased our first quarter 2025 cash dividend by 5% to $0.525 per share of the outstanding Class A and Class B common stock.",
@@ -502,7 +718,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 24,
+    "table_index": 3,
+    "heading": "Number of Shares Date Fair Value Per Share",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p24_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 492.8,
+      "x1": 592.5,
+      "y1": 553.5
+    },
     "rows": 17,
     "data": [
       "Three Months Ended March 31,",
@@ -525,7 +753,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 26,
+    "table_index": 1,
+    "heading": "The following table sets forth our segment information of revenue, expenses, and income (loss) from operations (in millions):",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p26_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 185.6,
+      "x1": 593.2,
+      "y1": 394.9
+    },
     "rows": 23,
     "data": [
       "Table of Contents",
@@ -554,7 +794,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 28,
+    "table_index": 1,
+    "heading": "Family of Apps Reality Labs Total",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p28_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 183.6,
+      "x1": 593.5,
+      "y1": 234.9
+    },
     "rows": 13,
     "data": [
       "Table of Contents",
@@ -573,7 +825,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 37,
+    "table_index": 1,
+    "heading": "The following table sets forth our condensed consolidated statements of income data (in millions):",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p37_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 136.8,
+      "x1": 593.3,
+      "y1": 282.8
+    },
     "rows": 38,
     "data": [
       "Table of Contents",
@@ -617,7 +881,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 37,
+    "table_index": 2,
+    "heading": "Table (Page 37, #2)",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p37_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 343.4,
+      "x1": 593.3,
+      "y1": 488.7
+    },
     "rows": 41,
     "data": [
       "General and administrative",
@@ -664,7 +940,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 38,
+    "table_index": 1,
+    "heading": "The following table sets forth our revenue by source and by segment:",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p38_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 138.4,
+      "x1": 594.0,
+      "y1": 200.5
+    },
     "rows": 11,
     "data": [
       "Table of Contents",
@@ -681,7 +969,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 40,
+    "table_index": 2,
+    "heading": "The following table sets forth income (loss) from operations by segment:",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p40_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 296.3,
+      "x1": 594.0,
+      "y1": 333.5
+    },
     "rows": 12,
     "data": [
       "General and administrative expenses in the three months ended March 31, 2025 decreased $1.18 billion, or 34%, compared to the same period in 2024.",
@@ -699,7 +999,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 41,
+    "table_index": 1,
+    "heading": "Interest and other income, net",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p41_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 117.5,
+      "x1": 594.0,
+      "y1": 178.2
+    },
     "rows": 15,
     "data": [
       "Table of Contents",
@@ -720,7 +1032,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 42,
+    "table_index": 1,
+    "heading": "The following table presents our cash flows (in millions):",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p42_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 295.9,
+      "x1": 593.2,
+      "y1": 331.4
+    },
     "rows": 15,
     "data": [
       "Our principal sources of liquidity are our cash, cash equivalents, marketable securities, and cash generated from operations. Cash, cash equivalents, and",
@@ -741,7 +1065,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "69c84e73-5862-4f7e-b0c5-823310c5bb43",
+    "period": "2025",
+    "page": 88,
+    "table_index": 1,
+    "heading": "Total Number of Shares Average Price Paid per Purchased as Part of Publicly Purchased Under the Programs",
     "image": "META_69c84e73-5862-4f7e-b0c5-823310c5bb43_p88_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 204.3,
+      "x1": 593.3,
+      "y1": 263.9
+    },
     "rows": 18,
     "data": [
       "Item 2. Unregistered Sales of Equity Securities and Use of Proceeds",
@@ -765,7 +1101,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 6,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED BALANCE SHEETS",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p06_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 173.5,
+      "x1": 593.2,
+      "y1": 596.7
+    },
     "rows": 69,
     "data": [
       "Table of Contents",
@@ -840,7 +1188,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 7,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED STATEMENTS OF INCOME",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p07_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 160.4,
+      "x1": 593.2,
+      "y1": 376.0
+    },
     "rows": 41,
     "data": [
       "Table of Contents",
@@ -887,7 +1247,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 8,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p08_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 160.9,
+      "x1": 593.2,
+      "y1": 230.8
+    },
     "rows": 13,
     "data": [
       "Table of Contents",
@@ -906,7 +1278,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 9,
+    "table_index": 1,
+    "heading": "Shares Value Capital Loss Earnings Equity Shares Value Capital Loss Earnings Equity",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p09_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 159.3,
+      "x1": 592.7,
+      "y1": 309.8
+    },
     "rows": 28,
     "data": [
       "Table of Contents",
@@ -940,7 +1324,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 9,
+    "table_index": 2,
+    "heading": "Shares Value Capital Loss Earnings Equity Shares Value Capital Loss Earnings Equity",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p09_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 382.5,
+      "x1": 592.7,
+      "y1": 533.3
+    },
     "rows": 45,
     "data": [
       "Dividends and dividend",
@@ -991,7 +1387,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 10,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p10_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 139.1,
+      "x1": 593.2,
+      "y1": 623.7
+    },
     "rows": 47,
     "data": [
       "Table of Contents",
@@ -1044,7 +1452,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 11,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p11_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 138.8,
+      "x1": 593.2,
+      "y1": 229.5
+    },
     "rows": 25,
     "data": [
       "Table of Contents",
@@ -1075,7 +1495,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 13,
+    "table_index": 1,
+    "heading": "Revenue disaggregated by revenue source and by segment consists of the following (in millions):",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p13_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 142.6,
+      "x1": 593.1,
+      "y1": 204.5
+    },
     "rows": 10,
     "data": [
       "Table of Contents",
@@ -1091,7 +1523,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 13,
+    "table_index": 2,
+    "heading": "Revenue disaggregated by geography, based on the addresses of our customers, consists of the following (in millions):",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p13_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 262.6,
+      "x1": 593.1,
+      "y1": 324.0
+    },
     "rows": 15,
     "data": [
       "Three Months Ended September 30, Nine Months Ended September 30,",
@@ -1112,7 +1556,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 14,
+    "table_index": 2,
+    "heading": "Severance and Other",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p14_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 243.2,
+      "x1": 593.1,
+      "y1": 304.4
+    },
     "rows": 16,
     "data": [
       "2022 Restructuring",
@@ -1134,7 +1590,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 14,
+    "table_index": 4,
+    "heading": "Severance and Other",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p14_t04.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 373.9,
+      "x1": 593.1,
+      "y1": 435.4
+    },
     "rows": 17,
     "data": [
       "Severance and Other",
@@ -1157,7 +1625,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 14,
+    "table_index": 5,
+    "heading": "Facilities Consolidation Personnel Costs Data Center Assets Total",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p14_t05.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 497.7,
+      "x1": 593.1,
+      "y1": 558.9
+    },
     "rows": 17,
     "data": [
       "September 30, 2024 Nine Months Ended September 30, 2025",
@@ -1180,7 +1660,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 15,
+    "table_index": 1,
+    "heading": "share amounts):",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p15_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 272.0,
+      "x1": 593.2,
+      "y1": 465.7
+    },
     "rows": 26,
     "data": [
       "Basic EPS is computed by dividing net income by the weighted-average number of shares of our Class A and Class B common stock outstanding.",
@@ -1212,7 +1704,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 16,
+    "table_index": 1,
+    "heading": "Identical Assets Observable Inputs Inputs",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p16_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 236.0,
+      "x1": 593.2,
+      "y1": 416.5
+    },
     "rows": 26,
     "data": [
       "Fair Value Measurements",
@@ -1244,7 +1748,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 17,
+    "table_index": 1,
+    "heading": "Identical Assets Observable Inputs Inputs",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p17_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 119.7,
+      "x1": 593.2,
+      "y1": 300.4
+    },
     "rows": 36,
     "data": [
       "Table of Contents",
@@ -1286,7 +1802,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 17,
+    "table_index": 2,
+    "heading": "Fair Value Unrealized Losses Fair Value Unrealized Losses Fair Value Unrealized Losses",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p17_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 412.4,
+      "x1": 593.2,
+      "y1": 461.7
+    },
     "rows": 14,
     "data": [
       "Restricted cash equivalents 857 857 =",
@@ -1306,7 +1834,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 17,
+    "table_index": 3,
+    "heading": "Fair Value Unrealized Losses Fair Value Unrealized Losses Fair Value Unrealized Losses",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p17_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 509.2,
+      "x1": 593.2,
+      "y1": 558.9
+    },
     "rows": 15,
     "data": [
       "millions):",
@@ -1327,7 +1867,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 18,
+    "table_index": 1,
+    "heading": "The following table classifies our marketable debt securities by contractual maturities (in millions):",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p18_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 123.5,
+      "x1": 593.2,
+      "y1": 161.3
+    },
     "rows": 7,
     "data": [
       "Table of Contents",
@@ -1340,7 +1892,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 18,
+    "table_index": 2,
+    "heading": "summarizes our non-marketable equity securities that were measured using measurement alternative or equity method (in millions):",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p18_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 305.5,
+      "x1": 593.2,
+      "y1": 390.8
+    },
     "rows": 15,
     "data": [
       "Instruments Measured at Fair Value on Non-recurring Basis",
@@ -1361,7 +1925,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 19,
+    "table_index": 1,
+    "heading": "Property and equipment, net consists of the following (in millions):",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p19_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 131.6,
+      "x1": 593.1,
+      "y1": 252.5
+    },
     "rows": 14,
     "data": [
       "Table of Contents",
@@ -1381,7 +1957,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 20,
+    "table_index": 1,
+    "heading": "The following tables summarize the components of operating lease costs and supplemental lease information (in millions):",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p20_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 142.2,
+      "x1": 593.2,
+      "y1": 177.5
+    },
     "rows": 8,
     "data": [
       "Table of Contents",
@@ -1395,7 +1983,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 20,
+    "table_index": 2,
+    "heading": "The following tables summarize the components of operating lease costs and supplemental lease information (in millions):",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p20_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 215.1,
+      "x1": 593.2,
+      "y1": 250.4
+    },
     "rows": 13,
     "data": [
       "Note 8. Leases",
@@ -1414,7 +2014,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 20,
+    "table_index": 3,
+    "heading": "Useful Lives Gross Carrying Accumulated Net Carrying Gross Carrying Accumulated Net Carrying",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p20_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 484.2,
+      "x1": 593.2,
+      "y1": 558.2
+    },
     "rows": 18,
     "data": [
       "O1L6.T7 OUMOD, MOSUY LO Gdtld COMlers ana COlOCAUONS. LHeEse OPCraullls leases Will COMMNCHCEe DCLWCCH Wie TeMalhaer Ol 2UAT Aha LULZ WIUL ledse lenis OF",
@@ -1438,7 +2050,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 21,
+    "table_index": 1,
+    "heading": "carrying amount of our debt (in millions, except percentages):",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p21_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 144.9,
+      "x1": 593.1,
+      "y1": 227.5
+    },
     "rows": 13,
     "data": [
       "Table of Contents",
@@ -1457,7 +2081,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 21,
+    "table_index": 2,
+    "heading": "Notes at any time, in whole or in part, at specified redemption prices. We are not subject to any financial covenants under the Notes. Interest expense, net of",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p21_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 361.1,
+      "x1": 593.1,
+      "y1": 434.0
+    },
     "rows": 15,
     "data": [
       "Long-term debt $ 28,823 $ 18,385",
@@ -1478,7 +2114,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 21,
+    "table_index": 3,
+    "heading": "The components of accrued expenses and other current liabilities are as follows (in millions):",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p21_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 497.3,
+      "x1": 593.1,
+      "y1": 570.4
+    },
     "rows": 16,
     "data": [
       "nee eee ee ee ee ee eee en ne eee ee nnn eee ee ee I IN IOI DID OF J I ON ONE NII ID IE ND NLD LILI LILI INA I",
@@ -1500,7 +2148,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 22,
+    "table_index": 1,
+    "heading": "network infrastructure, and consumer hardware products in Reality Labs. The following is a schedule, by years, of non-cancelable contractual commitments as",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p22_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 164.7,
+      "x1": 593.1,
+      "y1": 249.1
+    },
     "rows": 14,
     "data": [
       "Table of Contents",
@@ -1520,7 +2180,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 27,
+    "table_index": 1,
+    "heading": "statements of income (in millions):",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p27_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 466.4,
+      "x1": 591.2,
+      "y1": 527.8
+    },
     "rows": 14,
     "data": [
       "Subject to legally available funds and future declaration by our board of directors, we currently intend to continue to pay a quarterly cash dividend on",
@@ -1540,7 +2212,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 28,
+    "table_index": 1,
+    "heading": "Number of Shares Date Fair Value Per Share",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p28_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 119.5,
+      "x1": 593.2,
+      "y1": 180.2
+    },
     "rows": 10,
     "data": [
       "Table of Contents",
@@ -1556,7 +2240,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 30,
+    "table_index": 1,
+    "heading": "The following table sets forth our segment information of revenue and income (loss) from operations (in millions):",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p30_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 261.5,
+      "x1": 593.2,
+      "y1": 373.3
+    },
     "rows": 19,
     "data": [
       "Messenger, WhatsApp, and other services. RL includes our virtual, augmented, and mixed reality related consumer hardware, software, and content. Our",
@@ -1581,7 +2277,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 32,
+    "table_index": 1,
+    "heading": "Three Months Ended September Three Months Ended September Three Months Ended September",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p32_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 184.3,
+      "x1": 593.5,
+      "y1": 234.9
+    },
     "rows": 14,
     "data": [
       "Table of Contents",
@@ -1601,7 +2309,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 41,
+    "table_index": 1,
+    "heading": "The following table sets forth our condensed consolidated statements of income data (in millions):",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p41_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 136.8,
+      "x1": 593.4,
+      "y1": 282.2
+    },
     "rows": 18,
     "data": [
       "Table of Contents",
@@ -1625,7 +2345,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 41,
+    "table_index": 2,
+    "heading": "Table (Page 41, #2)",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p41_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 343.1,
+      "x1": 593.4,
+      "y1": 488.7
+    },
     "rows": 43,
     "data": [
       "General and administrative",
@@ -1674,7 +2406,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 42,
+    "table_index": 1,
+    "heading": "The following table sets forth our revenue by source and by segment:",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p42_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 139.1,
+      "x1": 594.0,
+      "y1": 200.5
+    },
     "rows": 35,
     "data": [
       "Table of Contents",
@@ -1715,7 +2459,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 44,
+    "table_index": 2,
+    "heading": "The following table sets forth income (loss) from operations by segment:",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p44_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 361.1,
+      "x1": 594.0,
+      "y1": 398.3
+    },
     "rows": 17,
     "data": [
       "General and administrative expenses in the nine months ended September 30, 2024 decreased $141 million, or 2%, compared to the same period in",
@@ -1738,7 +2494,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 45,
+    "table_index": 1,
+    "heading": "Interest and other income, net",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p45_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 117.5,
+      "x1": 594.0,
+      "y1": 178.2
+    },
     "rows": 36,
     "data": [
       "Table of Contents",
@@ -1780,7 +2548,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 46,
+    "table_index": 1,
+    "heading": "The following table presents our cash flows (in millions):",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p46_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 264.1,
+      "x1": 593.2,
+      "y1": 299.7
+    },
     "rows": 15,
     "data": [
       "Our principal sources of liquidity are our cash, cash equivalents, marketable securities, and cash generated from operations. Cash, cash equivalents, and",
@@ -1801,7 +2581,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "6cb62ee7-0314-4360-b45d-d74dddeb7bbc",
+    "period": "2024",
+    "page": 91,
+    "table_index": 1,
+    "heading": "Total Number of Shares Average Price Paid per Purchased as Part of Publicly Purchased Under the Programs",
     "image": "META_6cb62ee7-0314-4360-b45d-d74dddeb7bbc_p91_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 204.8,
+      "x1": 593.3,
+      "y1": 263.9
+    },
     "rows": 33,
     "data": [
       "Item 2. Unregistered Sales of Equity Securities and Use of Proceeds",
@@ -1840,7 +2632,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 6,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED BALANCE SHEETS",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p06_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 173.5,
+      "x1": 593.2,
+      "y1": 596.7
+    },
     "rows": 44,
     "data": [
       "Table of Contents",
@@ -1890,7 +2694,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 7,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED STATEMENTS OF INCOME",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p07_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 160.4,
+      "x1": 593.2,
+      "y1": 376.0
+    },
     "rows": 26,
     "data": [
       "Table of Contents",
@@ -1922,7 +2738,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 8,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p08_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 160.9,
+      "x1": 593.2,
+      "y1": 230.8
+    },
     "rows": 14,
     "data": [
       "Table of Contents",
@@ -1942,7 +2770,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 9,
+    "table_index": 1,
+    "heading": "Shares Value Capital Income (Loss) Earnings Equity Shares Value Capital Loss Earnings Equity",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p09_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 159.3,
+      "x1": 592.4,
+      "y1": 301.7
+    },
     "rows": 36,
     "data": [
       "Table of Contents",
@@ -1984,7 +2824,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 9,
+    "table_index": 2,
+    "heading": "Shares Value Capital Income (Loss) Earnings Equity Shares Value Capital Loss Earnings Equity",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p09_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 369.0,
+      "x1": 592.4,
+      "y1": 511.7
+    },
     "rows": 45,
     "data": [
       "Shares withheld related to",
@@ -2035,7 +2887,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 10,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p10_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 142.7,
+      "x1": 593.2,
+      "y1": 643.9
+    },
     "rows": 49,
     "data": [
       "Table of Contents",
@@ -2090,7 +2954,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 11,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p11_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 143.4,
+      "x1": 593.3,
+      "y1": 245.7
+    },
     "rows": 16,
     "data": [
       "Table of Contents",
@@ -2112,7 +2988,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 13,
+    "table_index": 1,
+    "heading": "Revenue disaggregated by revenue source and by segment consists of the following (in millions):",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p13_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 142.2,
+      "x1": 587.7,
+      "y1": 204.5
+    },
     "rows": 16,
     "data": [
       "Table of Contents",
@@ -2134,7 +3022,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 13,
+    "table_index": 2,
+    "heading": "Revenue disaggregated by geography, based on the addresses of our customers, consists of the following (in millions):",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p13_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 262.4,
+      "x1": 587.7,
+      "y1": 323.3
+    },
     "rows": 15,
     "data": [
       "Three Months Ended June 30, Six Months Ended June 30,",
@@ -2155,7 +3055,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 14,
+    "table_index": 1,
+    "heading": "share amounts):",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p14_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 272.3,
+      "x1": 593.2,
+      "y1": 466.4
+    },
     "rows": 38,
     "data": [
       "Basic EPS is computed by dividing net income by the weighted-average number of shares of our common stock outstanding. Diluted EPS is computed",
@@ -2199,7 +3111,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 15,
+    "table_index": 1,
+    "heading": "Assets Observable Inputs Inputs",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p15_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 235.8,
+      "x1": 593.2,
+      "y1": 405.0
+    },
     "rows": 25,
     "data": [
       "Fair Value Measurements",
@@ -2230,7 +3154,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 16,
+    "table_index": 1,
+    "heading": "Assets Observable Inputs Inputs",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p16_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 119.9,
+      "x1": 593.1,
+      "y1": 301.0
+    },
     "rows": 21,
     "data": [
       "Table of Contents",
@@ -2257,7 +3193,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 16,
+    "table_index": 2,
+    "heading": "Fair Value Unrealized Losses Fair Value Unrealized Losses Fair Value Unrealized Losses",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p16_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 423.9,
+      "x1": 593.1,
+      "y1": 473.2
+    },
     "rows": 14,
     "data": [
       "Other assets 101",
@@ -2277,7 +3225,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 16,
+    "table_index": 3,
+    "heading": "Fair Value Unrealized Losses Fair Value Unrealized Losses Fair Value Unrealized Losses",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p16_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 520.6,
+      "x1": 593.1,
+      "y1": 569.7
+    },
     "rows": 15,
     "data": [
       "aggregated by major security type and the length of time that individual securities have been in a continuous loss position (in millions):",
@@ -2298,7 +3258,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 17,
+    "table_index": 1,
+    "heading": "The following table classifies our marketable debt securities by contractual maturities (in millions):",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p17_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 177.3,
+      "x1": 593.2,
+      "y1": 215.3
+    },
     "rows": 10,
     "data": [
       "Table of Contents",
@@ -2314,7 +3286,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 17,
+    "table_index": 2,
+    "heading": "The following table summarizes our non-marketable equity investments under measurement alternative and equity method (in millions):",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p17_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 273.1,
+      "x1": 593.2,
+      "y1": 358.4
+    },
     "rows": 16,
     "data": [
       "Contractual Maturities",
@@ -2336,7 +3320,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 18,
+    "table_index": 1,
+    "heading": "Property and equipment, net consists of the following (in millions):",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p18_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 131.6,
+      "x1": 593.1,
+      "y1": 251.8
+    },
     "rows": 14,
     "data": [
       "Table of Contents",
@@ -2356,7 +3352,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 24,
+    "table_index": 1,
+    "heading": "The following table summarizes our dividends activities for the periods presented (in millions, except per share amounts):",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p24_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 434.7,
+      "x1": 591.3,
+      "y1": 535.3
+    },
     "rows": 17,
     "data": [
       "Capital Return Program",
@@ -2379,7 +3387,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 25,
+    "table_index": 1,
+    "heading": "statements of income (in millions):",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p25_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 231.1,
+      "x1": 593.1,
+      "y1": 292.3
+    },
     "rows": 16,
     "data": [
       "Our board of directors and stockholders approved our 2025 Equity Incentive Plan (2025 Plan), effective as of May 28, 2025, which serves as the",
@@ -2401,7 +3421,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 25,
+    "table_index": 2,
+    "heading": "Number of Shares Date Fair Value Per Share",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p25_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 357.1,
+      "x1": 593.1,
+      "y1": 417.8
+    },
     "rows": 40,
     "data": [
       "Cost of revenue",
@@ -2447,7 +3479,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 27,
+    "table_index": 1,
+    "heading": "The following table sets forth our segment information of revenue, expenses, and income (loss) from operations (in millions):",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p27_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 185.4,
+      "x1": 593.2,
+      "y1": 394.2
+    },
     "rows": 23,
     "data": [
       "Table of Contents",
@@ -2476,7 +3520,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 29,
+    "table_index": 1,
+    "heading": "Family of Apps Reality Labs Total",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p29_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 183.6,
+      "x1": 594.0,
+      "y1": 234.2
+    },
     "rows": 13,
     "data": [
       "Table of Contents",
@@ -2495,7 +3551,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 38,
+    "table_index": 1,
+    "heading": "The following table sets forth our condensed consolidated statements of income data (in millions):",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p38_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 137.2,
+      "x1": 593.4,
+      "y1": 282.8
+    },
     "rows": 29,
     "data": [
       "Table of Contents",
@@ -2530,7 +3598,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 38,
+    "table_index": 2,
+    "heading": "Table (Page 38, #2)",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p38_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 343.8,
+      "x1": 593.4,
+      "y1": 489.4
+    },
     "rows": 43,
     "data": [
       "General and administrative",
@@ -2579,7 +3659,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 39,
+    "table_index": 1,
+    "heading": "The following table sets forth our revenue by source and by segment:",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p39_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 149.9,
+      "x1": 594.0,
+      "y1": 211.3
+    },
     "rows": 17,
     "data": [
       "Table of Contents",
@@ -2602,7 +3694,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 41,
+    "table_index": 2,
+    "heading": "The following table sets forth income (loss) from operations by segment:",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p41_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 295.7,
+      "x1": 594.0,
+      "y1": 333.5
+    },
     "rows": 12,
     "data": [
       "General and administrative expenses in the three and six months ended June 30, 2025 decreased $995 million, or 27%, and $2.17 billion, or 31%,",
@@ -2620,7 +3724,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 42,
+    "table_index": 1,
+    "heading": "Interest and other income, net",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p42_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 117.5,
+      "x1": 594.0,
+      "y1": 178.2
+    },
     "rows": 38,
     "data": [
       "Table of Contents",
@@ -2664,7 +3780,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 43,
+    "table_index": 1,
+    "heading": "The following table presents our cash flows (in millions):",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p43_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 328.5,
+      "x1": 593.2,
+      "y1": 363.8
+    },
     "rows": 15,
     "data": [
       "Our principal sources of liquidity are our cash, cash equivalents, marketable securities, and cash generated from operations. Cash, cash equivalents, and",
@@ -2685,7 +3813,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "9a129eb1-5997-470d-b0cb-ac02db203108",
+    "period": "2025",
+    "page": 90,
+    "table_index": 1,
+    "heading": "Total Number of Shares Average Price Paid per Purchased as Part of Publicly Purchased Under the Programs",
     "image": "META_9a129eb1-5997-470d-b0cb-ac02db203108_p90_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 204.8,
+      "x1": 593.3,
+      "y1": 263.9
+    },
     "rows": 17,
     "data": [
       "Item 2. Unregistered Sales of Equity Securities and Use of Proceeds",
@@ -2708,7 +3848,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 101,
+    "table_index": 1,
+    "heading": "Revenue disaggregated by revenue source and by segment consists of the following (in millions):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p101_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 121.5,
+      "x1": 593.2,
+      "y1": 204.5
+    },
     "rows": 15,
     "data": [
       "Table of Contents",
@@ -2729,7 +3881,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 101,
+    "table_index": 2,
+    "heading": "Revenue disaggregated by geography, based on the addresses of our customers, consists of the following (in millions):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p101_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 262.4,
+      "x1": 593.2,
+      "y1": 323.3
+    },
     "rows": 16,
     "data": [
       "Year Ended December 31,",
@@ -2751,7 +3915,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 102,
+    "table_index": 1,
+    "heading": "follows (in millions):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p102_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 226.3,
+      "x1": 593.1,
+      "y1": 287.6
+    },
     "rows": 15,
     "data": [
       "Note 3. Restructuring",
@@ -2772,7 +3948,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 102,
+    "table_index": 2,
+    "heading": "Facilities Consolidation Personnel Costs Data Center Assets Total",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p102_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 347.4,
+      "x1": 593.1,
+      "y1": 408.4
+    },
     "rows": 16,
     "data": [
       "Year Ended December 31,",
@@ -2794,7 +3982,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 103,
+    "table_index": 1,
+    "heading": "share amounts):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p103_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 272.3,
+      "x1": 593.2,
+      "y1": 468.4
+    },
     "rows": 26,
     "data": [
       "Basic EPS is computed by dividing net income by the weighted-average number of shares of our common stock outstanding. Diluted EPS is computed",
@@ -2826,7 +4026,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 104,
+    "table_index": 1,
+    "heading": "Identical Assets Observable Inputs Inputs",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p104_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 236.2,
+      "x1": 593.2,
+      "y1": 417.1
+    },
     "rows": 26,
     "data": [
       "Fair Value Measurements",
@@ -2858,7 +4070,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 105,
+    "table_index": 1,
+    "heading": "Identical Assets Observable Inputs Inputs",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p105_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 119.7,
+      "x1": 593.1,
+      "y1": 288.2
+    },
     "rows": 35,
     "data": [
       "Table of Contents",
@@ -2899,7 +4123,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 105,
+    "table_index": 2,
+    "heading": "Fair Value Unrealized Losses Fair Value Unrealized Losses Fair Value Unrealized Losses",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p105_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 378.7,
+      "x1": 593.1,
+      "y1": 427.9
+    },
     "rows": 15,
     "data": [
       "Corporate debt securities 11,604 \u2014 11,604 \u2014",
@@ -2920,7 +4156,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 105,
+    "table_index": 3,
+    "heading": "Fair Value Unrealized Losses Fair Value Unrealized Losses Fair Value Unrealized Losses",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p105_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 486.2,
+      "x1": 593.1,
+      "y1": 535.3
+    },
     "rows": 21,
     "data": [
       "U.S. government securities",
@@ -2947,7 +4195,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 106,
+    "table_index": 1,
+    "heading": "The following table classifies our marketable debt securities by contractual maturities (in millions):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p106_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 134.1,
+      "x1": 593.2,
+      "y1": 172.1
+    },
     "rows": 7,
     "data": [
       "Table of Contents",
@@ -2960,7 +4220,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 106,
+    "table_index": 2,
+    "heading": "summarizes our non-marketable equity securities that were measured using measurement alternative and equity method (in millions):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p106_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 346.0,
+      "x1": 593.2,
+      "y1": 431.3
+    },
     "rows": 16,
     "data": [
       "Our non-marketable equity securities accounted for using the measurement alternative are measured at fair value on a non-recurring basis and are",
@@ -2982,7 +4254,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 107,
+    "table_index": 1,
+    "heading": "Property and equipment, net consists of the following (in millions):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p107_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 134.1,
+      "x1": 592.9,
+      "y1": 254.5
+    },
     "rows": 15,
     "data": [
       "Table of Contents",
@@ -3003,7 +4287,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 107,
+    "table_index": 2,
+    "heading": "The components of lease costs are as follows (in millions):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p107_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 472.2,
+      "x1": 592.9,
+      "y1": 555.5
+    },
     "rows": 17,
     "data": [
       "ns",
@@ -3026,7 +4322,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 108,
+    "table_index": 1,
+    "heading": "Supplemental balance sheet information related to lease liabilities is as follows:",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p108_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 110.0,
+      "x1": 593.3,
+      "y1": 191.0
+    },
     "rows": 19,
     "data": [
       "Table of Contents",
@@ -3051,7 +4359,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 108,
+    "table_index": 2,
+    "heading": "Operating Leases Finance Leases",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p108_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 233.1,
+      "x1": 593.3,
+      "y1": 392.8
+    },
     "rows": 29,
     "data": [
       "supplemental balance sheet intormauion related to lease Mavdii0les 1S aS TOMOWS.:",
@@ -3086,7 +4406,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 108,
+    "table_index": 3,
+    "heading": "Supplemental cash flow information related to leases is as follows (in millions):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p108_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 505.3,
+      "x1": 593.3,
+      "y1": 598.0
+    },
     "rows": 18,
     "data": [
       "Lease liabilities, current $ 1,942 \u00a7$ 716",
@@ -3110,7 +4442,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 109,
+    "table_index": 1,
+    "heading": "Goodwill generated from our business acquisitions was primarily attributable to expected synergies and potential monetization opportunities. Changes in",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p109_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 131.6,
+      "x1": 592.1,
+      "y1": 215.3
+    },
     "rows": 11,
     "data": [
       "Table of Contents",
@@ -3127,7 +4471,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 109,
+    "table_index": 2,
+    "heading": "Useful Lives Gross Carrying Accumulated Net Carrying Gross Carrying Accumulated Net Carrying",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p109_t02.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 301.9,
+      "x1": 592.1,
+      "y1": 387.5
+    },
     "rows": 19,
     "data": [
       "Acquisitions \u2014 357 357",
@@ -3152,7 +4508,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 109,
+    "table_index": 3,
+    "heading": "follows (in millions):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p109_t03.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 467.1,
+      "x1": 592.1,
+      "y1": 551.5
+    },
     "rows": 17,
     "data": [
       "Acquired patents Jef 22 (105) o/ 20/",
@@ -3175,7 +4543,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 110,
+    "table_index": 1,
+    "heading": "Table of Contents",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p110_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 153.5,
+      "x1": 593.1,
+      "y1": 235.6
+    },
     "rows": 12,
     "data": [
       "Table of Contents",
@@ -3193,7 +4573,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 110,
+    "table_index": 2,
+    "heading": "Notes at any time, in whole or in part, at specified redemption prices. We are not subject to any financial covenants under the Notes. Interest expense, net of",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p110_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 359.1,
+      "x1": 593.1,
+      "y1": 431.3
+    },
     "rows": 14,
     "data": [
       "Long-term debt $ 28,826 $ 18,385",
@@ -3213,7 +4605,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 110,
+    "table_index": 3,
+    "heading": "The components of accrued expenses and other current liabilities are as follows (in millions):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p110_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 519.1,
+      "x1": 593.1,
+      "y1": 592.0
+    },
     "rows": 15,
     "data": [
       "2027 2,750",
@@ -3234,7 +4638,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 111,
+    "table_index": 1,
+    "heading": "Contractual Commitments",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p111_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 174.8,
+      "x1": 593.1,
+      "y1": 259.2
+    },
     "rows": 13,
     "data": [
       "Table of Contents",
@@ -3253,7 +4669,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 118,
+    "table_index": 1,
+    "heading": "of income (in millions):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p118_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 137.0,
+      "x1": 592.9,
+      "y1": 198.5
+    },
     "rows": 10,
     "data": [
       "Table of Contents",
@@ -3269,7 +4697,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 118,
+    "table_index": 2,
+    "heading": "Number of Shares Share",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p118_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 266.6,
+      "x1": 592.9,
+      "y1": 327.4
+    },
     "rows": 17,
     "data": [
       "Year Ended December 31,",
@@ -3292,7 +4732,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 118,
+    "table_index": 3,
+    "heading": "The following table presents the detail of interest and other income (expense), net (in millions):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p118_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 501.5,
+      "x1": 592.9,
+      "y1": 562.3
+    },
     "rows": 18,
     "data": [
       "a, eS Ss",
@@ -3316,7 +4768,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 119,
+    "table_index": 1,
+    "heading": "The components of income before provision for income taxes are as follows (in millions):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p119_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 142.2,
+      "x1": 593.4,
+      "y1": 180.2
+    },
     "rows": 8,
     "data": [
       "Table of Contents",
@@ -3330,7 +4794,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 119,
+    "table_index": 2,
+    "heading": "The provision for income taxes consists of the following (in millions):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p119_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 238.0,
+      "x1": 593.4,
+      "y1": 384.8
+    },
     "rows": 20,
     "data": [
       "The components of income before provision for income taxes are as follows (in millions):",
@@ -3356,7 +4832,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 119,
+    "table_index": 3,
+    "heading": "A reconciliation of the U.S. federal statutory income tax rates to our effective tax rate is as follows (in percentages):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p119_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 439.4,
+      "x1": 593.4,
+      "y1": 536.0
+    },
     "rows": 19,
     "data": [
       "total current tax expense",
@@ -3381,7 +4869,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 120,
+    "table_index": 1,
+    "heading": "Our deferred tax assets (liabilities) are as follows (in millions):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p120_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 112.5,
+      "x1": 593.1,
+      "y1": 330.8
+    },
     "rows": 36,
     "data": [
       "Table of Contents",
@@ -3423,7 +4923,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 120,
+    "table_index": 2,
+    "heading": "The following table reflects changes in the gross unrecognized tax benefits (in millions):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p120_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 518.4,
+      "x1": 593.1,
+      "y1": 602.8
+    },
     "rows": 17,
     "data": [
       "As of December 31, 2024, our state net operating loss carryforwards were $2.36 billion, which will begin to expire in 2031, if not utilized. We have",
@@ -3446,7 +4958,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 122,
+    "table_index": 1,
+    "heading": "expenses, and income (loss) from operations (in millions):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p122_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 315.0,
+      "x1": 593.2,
+      "y1": 524.5
+    },
     "rows": 26,
     "data": [
       "asset or liability information.",
@@ -3478,7 +5002,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 123,
+    "table_index": 1,
+    "heading": "assets (in millions):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p123_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 115.2,
+      "x1": 593.2,
+      "y1": 153.2
+    },
     "rows": 8,
     "data": [
       "Table of Contents",
@@ -3492,7 +5028,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 61,
+    "table_index": 1,
+    "heading": "Year Ended Year Ended Year Ended",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p61_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 183.6,
+      "x1": 594.0,
+      "y1": 239.6
+    },
     "rows": 14,
     "data": [
       "Table of Contents",
@@ -3512,7 +5060,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 72,
+    "table_index": 1,
+    "heading": "The following table sets forth our consolidated statements of income data (in millions):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p72_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 185.0,
+      "x1": 592.7,
+      "y1": 330.8
+    },
     "rows": 20,
     "data": [
       "Table of Contents",
@@ -3538,7 +5098,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 72,
+    "table_index": 2,
+    "heading": "Table (Page 72, #2)",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p72_t02.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 385.0,
+      "x1": 592.7,
+      "y1": 530.6
+    },
     "rows": 44,
     "data": [
       "Marketing and sales",
@@ -3588,7 +5160,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 73,
+    "table_index": 1,
+    "heading": "The following table sets forth our revenue by source and by segment:",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p73_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 145.8,
+      "x1": 594.0,
+      "y1": 207.2
+    },
     "rows": 12,
     "data": [
       "Table of Contents",
@@ -3606,7 +5190,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 75,
+    "table_index": 2,
+    "heading": "The following table sets forth income (loss) from operations by segment:",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p75_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 326.0,
+      "x1": 593.4,
+      "y1": 403.6
+    },
     "rows": 16,
     "data": [
       "Percentage of revenue 6% 8% 10 %",
@@ -3628,7 +5224,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 76,
+    "table_index": 1,
+    "heading": "Interest and other income (expense), net",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p76_t01.png",
+    "coordinates": {
+      "x0": 18.8,
+      "y0": 124.2,
+      "x1": 593.4,
+      "y1": 184.9
+    },
     "rows": 11,
     "data": [
       "Table of Contents",
@@ -3645,7 +5253,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 77,
+    "table_index": 1,
+    "heading": "The following table presents our cash flows (in millions):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p77_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 346.5,
+      "x1": 593.2,
+      "y1": 382.1
+    },
     "rows": 15,
     "data": [
       "Our principal sources of liquidity are our cash, cash equivalents, marketable securities, and cash generated from operations. Cash, cash equivalents, and",
@@ -3666,7 +5286,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 78,
+    "table_index": 1,
+    "heading": "The following is a reconciliation of FCF to the most comparable GAAP measure, net cash provided by operating activities (in millions):",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p78_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 439.6,
+      "x1": 593.2,
+      "y1": 489.4
+    },
     "rows": 15,
     "data": [
       "FCF has limitations as an analytical tool, and you should not consider it in isolation or as a substitute for analysis of other GAAP financial measures,",
@@ -3687,7 +5319,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 87,
+    "table_index": 1,
+    "heading": "CONSOLIDATED BALANCE SHEETS",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p87_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 130.5,
+      "x1": 593.2,
+      "y1": 553.5
+    },
     "rows": 66,
     "data": [
       "Table of Contents",
@@ -3759,7 +5403,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 88,
+    "table_index": 1,
+    "heading": "CONSOLIDATED STATEMENTS OF INCOME",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p88_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 130.5,
+      "x1": 593.2,
+      "y1": 346.3
+    },
     "rows": 24,
     "data": [
       "Table of Contents",
@@ -3789,7 +5445,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 89,
+    "table_index": 1,
+    "heading": "CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p89_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 131.0,
+      "x1": 593.2,
+      "y1": 192.4
+    },
     "rows": 11,
     "data": [
       "Table of Contents",
@@ -3806,7 +5474,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 90,
+    "table_index": 1,
+    "heading": "Shares Par Value Paid-In Capital Income (Loss) Earnings Equity",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p90_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 146.5,
+      "x1": 590.4,
+      "y1": 439.4
+    },
     "rows": 33,
     "data": [
       "Table of Contents",
@@ -3845,7 +5525,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 91,
+    "table_index": 1,
+    "heading": "CONSOLIDATED STATEMENTS OF CASH FLOWS",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p91_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 119.5,
+      "x1": 592.5,
+      "y1": 616.3
+    },
     "rows": 48,
     "data": [
       "Table of Contents",
@@ -3899,7 +5591,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 92,
+    "table_index": 1,
+    "heading": "CONSOLIDATED STATEMENTS OF CASH FLOWS",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p92_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 124.5,
+      "x1": 593.2,
+      "y1": 224.1
+    },
     "rows": 17,
     "data": [
       "Table of Contents",
@@ -3922,7 +5626,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "a8eb8302-b52c-4db5-964f-a2d796c05f4b",
+    "period": "2024",
+    "page": 97,
+    "table_index": 1,
+    "heading": "Property and Equipment Useful Life/ Amortization period",
     "image": "META_a8eb8302-b52c-4db5-964f-a2d796c05f4b_p97_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 436.7,
+      "x1": 593.7,
+      "y1": 495.5
+    },
     "rows": 15,
     "data": [
       "various factors, including historical experience, the age of the accounts receivable balances, credit quality of our customers, current economic conditions,",
@@ -3943,7 +5659,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 6,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED BALANCE SHEETS",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p06_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 173.5,
+      "x1": 593.2,
+      "y1": 596.7
+    },
     "rows": 44,
     "data": [
       "Table of Contents",
@@ -3993,7 +5721,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 7,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED STATEMENTS OF INCOME",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p07_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 160.4,
+      "x1": 593.2,
+      "y1": 376.0
+    },
     "rows": 41,
     "data": [
       "Table of Contents",
@@ -4040,7 +5780,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 8,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p08_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 160.9,
+      "x1": 593.2,
+      "y1": 230.8
+    },
     "rows": 19,
     "data": [
       "Table of Contents",
@@ -4065,7 +5817,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 9,
+    "table_index": 1,
+    "heading": "Shares Value Capital Income Earnings Equity Shares Value Capital Loss Earnings Equity",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p09_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 149.6,
+      "x1": 592.4,
+      "y1": 292.3
+    },
     "rows": 36,
     "data": [
       "Table of Contents",
@@ -4107,7 +5871,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 9,
+    "table_index": 2,
+    "heading": "Shares Value Capital Income (Loss) Earnings Equity Shares Value Capital Loss Earnings Equity",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p09_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 359.1,
+      "x1": 592.4,
+      "y1": 501.5
+    },
     "rows": 45,
     "data": [
       "Shares withheld related to",
@@ -4158,7 +5934,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 10,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p10_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 126.9,
+      "x1": 593.2,
+      "y1": 639.2
+    },
     "rows": 50,
     "data": [
       "Table of Contents",
@@ -4214,7 +6002,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 11,
+    "table_index": 1,
+    "heading": "CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p11_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 126.6,
+      "x1": 593.3,
+      "y1": 205.9
+    },
     "rows": 23,
     "data": [
       "Table of Contents",
@@ -4243,7 +6043,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 13,
+    "table_index": 1,
+    "heading": "Revenue disaggregated by revenue source and by segment consists of the following (in millions):",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p13_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 142.2,
+      "x1": 587.7,
+      "y1": 204.5
+    },
     "rows": 10,
     "data": [
       "Table of Contents",
@@ -4259,7 +6071,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 13,
+    "table_index": 2,
+    "heading": "Revenue disaggregated by geography, based on the addresses of our customers, consists of the following (in millions):",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p13_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 262.4,
+      "x1": 587.7,
+      "y1": 323.3
+    },
     "rows": 15,
     "data": [
       "Three Months Ended September 30, Nine Months Ended September 30,",
@@ -4280,7 +6104,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 14,
+    "table_index": 1,
+    "heading": "share amounts):",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p14_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 271.8,
+      "x1": 593.2,
+      "y1": 465.7
+    },
     "rows": 38,
     "data": [
       "Basic EPS is computed by dividing net income by the weighted-average number of shares of our common stock outstanding. Diluted EPS is computed",
@@ -4324,7 +6160,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 15,
+    "table_index": 1,
+    "heading": "Assets Observable Inputs Inputs",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p15_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 235.8,
+      "x1": 593.2,
+      "y1": 405.0
+    },
     "rows": 25,
     "data": [
       "Fair Value Measurements",
@@ -4355,7 +6203,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 16,
+    "table_index": 1,
+    "heading": "Assets Observable Inputs Inputs",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p16_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 119.9,
+      "x1": 593.1,
+      "y1": 301.0
+    },
     "rows": 21,
     "data": [
       "Table of Contents",
@@ -4382,7 +6242,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 16,
+    "table_index": 2,
+    "heading": "Fair Value Unrealized Losses Fair Value Unrealized Losses Fair Value Unrealized Losses",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p16_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 402.3,
+      "x1": 593.1,
+      "y1": 451.6
+    },
     "rows": 14,
     "data": [
       "Total marketable securities 33,926 19,168 14,758 \u2014",
@@ -4402,7 +6274,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 16,
+    "table_index": 3,
+    "heading": "Fair Value Unrealized Losses Fair Value Unrealized Losses Fair Value Unrealized Losses",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p16_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 499.0,
+      "x1": 593.1,
+      "y1": 548.8
+    },
     "rows": 15,
     "data": [
       "2024, aggregated by major security type and the length of time that individual securities have been in a continuous loss position (in millions):",
@@ -4423,7 +6307,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 17,
+    "table_index": 1,
+    "heading": "The following table classifies our marketable debt securities by contractual maturities (in millions):",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p17_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 101.7,
+      "x1": 593.2,
+      "y1": 139.7
+    },
     "rows": 6,
     "data": [
       "Table of Contents",
@@ -4435,7 +6331,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 17,
+    "table_index": 2,
+    "heading": "non-marketable equity investments under measurement alternative and equity method (in millions):",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p17_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 267.7,
+      "x1": 593.2,
+      "y1": 353.0
+    },
     "rows": 17,
     "data": [
       "Vue alter one year to live years",
@@ -4458,7 +6366,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 18,
+    "table_index": 1,
+    "heading": "Property and equipment, net consists of the following (in millions):",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p18_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 131.6,
+      "x1": 593.1,
+      "y1": 252.5
+    },
     "rows": 14,
     "data": [
       "Table of Contents",
@@ -4478,7 +6398,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 19,
+    "table_index": 1,
+    "heading": "Table of Contents",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p19_t01.png",
+    "coordinates": {
+      "x0": 18.7,
+      "y0": 91.1,
+      "x1": 592.2,
+      "y1": 151.2
+    },
     "rows": 9,
     "data": [
       "Table of Contents",
@@ -4493,7 +6425,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 19,
+    "table_index": 2,
+    "heading": "Useful Lives Gross Carrying Accumulated Net Carrying Gross Carrying Accumulated Net Carrying",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p19_t02.png",
+    "coordinates": {
+      "x0": 18.7,
+      "y0": 237.6,
+      "x1": 592.2,
+      "y1": 323.3
+    },
     "rows": 19,
     "data": [
       "Family of Apps Reality Labs Total",
@@ -4518,7 +6462,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 19,
+    "table_index": 3,
+    "heading": "follows (in millions):",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p19_t03.png",
+    "coordinates": {
+      "x0": 18.7,
+      "y0": 405.7,
+      "x1": 592.2,
+      "y1": 490.1
+    },
     "rows": 17,
     "data": [
       "FAVE PAteIts UOT el Airey) OF eve",
@@ -4541,7 +6497,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 27,
+    "table_index": 1,
+    "heading": "The following table summarizes our dividends activities for the periods presented (in millions, except per share amounts):",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p27_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 240.3,
+      "x1": 591.3,
+      "y1": 353.0
+    },
     "rows": 18,
     "data": [
       "Capital Return Program",
@@ -4565,7 +6533,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 28,
+    "table_index": 1,
+    "heading": "statements of income (in millions):",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p28_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 123.3,
+      "x1": 593.1,
+      "y1": 184.3
+    },
     "rows": 10,
     "data": [
       "Table of Contents",
@@ -4581,7 +6561,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 28,
+    "table_index": 2,
+    "heading": "Number of Shares Date Fair Value Per Share",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p28_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 249.1,
+      "x1": 593.1,
+      "y1": 309.8
+    },
     "rows": 36,
     "data": [
       "Cost of revenue",
@@ -4623,7 +6615,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 30,
+    "table_index": 1,
+    "heading": "The following table sets forth our segment information of revenue, expenses, and income (loss) from operations (in millions):",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p30_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 218.0,
+      "x1": 593.2,
+      "y1": 427.3
+    },
     "rows": 25,
     "data": [
       "accumulated foreign earnings, global intangible low-taxed income tax, and foreign-derived intangible income deduction from the 2017 Tax Cuts and Jobs Act.",
@@ -4654,7 +6658,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 33,
+    "table_index": 1,
+    "heading": "Three Months Ended September Three Months Ended September Three Months Ended September",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p33_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 184.3,
+      "x1": 593.5,
+      "y1": 234.9
+    },
     "rows": 14,
     "data": [
       "Table of Contents",
@@ -4674,7 +6690,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 42,
+    "table_index": 1,
+    "heading": "The following table sets forth our condensed consolidated statements of income data (in millions):",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p42_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 137.0,
+      "x1": 593.3,
+      "y1": 282.8
+    },
     "rows": 18,
     "data": [
       "Table of Contents",
@@ -4698,7 +6726,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 42,
+    "table_index": 2,
+    "heading": "Table (Page 42, #2)",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p42_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 343.6,
+      "x1": 593.3,
+      "y1": 489.4
+    },
     "rows": 43,
     "data": [
       "General and administrative",
@@ -4747,7 +6787,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 43,
+    "table_index": 1,
+    "heading": "The following table sets forth our revenue by source and by segment:",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p43_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 149.9,
+      "x1": 594.0,
+      "y1": 211.3
+    },
     "rows": 11,
     "data": [
       "Table of Contents",
@@ -4764,7 +6816,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 45,
+    "table_index": 3,
+    "heading": "The following table sets forth income (loss) from operations by segment:",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p45_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 456.3,
+      "x1": 594.0,
+      "y1": 493.4
+    },
     "rows": 12,
     "data": [
       "General and administrative expenses in the nine months ended September 30, 2025 decreased $523 million, or 6%, compared to the same periods in",
@@ -4782,7 +6846,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 46,
+    "table_index": 1,
+    "heading": "Interest and other income, net",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p46_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 268.0,
+      "x1": 594.0,
+      "y1": 328.7
+    },
     "rows": 16,
     "data": [
       "tecnnology deveropment Costs, partlally Olfset Dy a Gecrease in employee Compensauion.",
@@ -4804,7 +6880,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 47,
+    "table_index": 1,
+    "heading": "The following table presents our cash flows (in millions):",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p47_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 447.3,
+      "x1": 593.2,
+      "y1": 482.6
+    },
     "rows": 16,
     "data": [
       "Our principal sources of liquidity are our cash, cash equivalents, marketable securities, and cash generated from operations. Cash, cash equivalents, and",
@@ -4826,7 +6914,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "aa3d2e89-2568-4c4c-b3cc-6df47166435e",
+    "period": "2025",
+    "page": 95,
+    "table_index": 1,
+    "heading": "Total Number of Shares Average Price Paid per Purchased as Part of Publicly Purchased Under the Programs",
     "image": "META_aa3d2e89-2568-4c4c-b3cc-6df47166435e_p95_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 226.5,
+      "x1": 593.3,
+      "y1": 285.5
+    },
     "rows": 14,
     "data": [
       "Item 2. Unregistered Sales of Equity Securities and Use of Proceeds",
@@ -4846,7 +6946,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 103,
+    "table_index": 1,
+    "heading": "Revenue disaggregated by revenue source and by segment consists of the following (in millions):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p103_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 186.3,
+      "x1": 593.2,
+      "y1": 269.3
+    },
     "rows": 16,
     "data": [
       "Table of Contents",
@@ -4868,7 +6980,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 103,
+    "table_index": 2,
+    "heading": "Revenue disaggregated by geography, based on the addresses of our customers, consists of the following (in millions):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p103_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 327.4,
+      "x1": 593.2,
+      "y1": 388.8
+    },
     "rows": 15,
     "data": [
       "Year Ended December 31,",
@@ -4889,7 +7013,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 104,
+    "table_index": 1,
+    "heading": "share amounts):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p104_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 261.5,
+      "x1": 593.2,
+      "y1": 457.6
+    },
     "rows": 26,
     "data": [
       "rights. Accordingly, we present the earnings per share (EPS) for Class A and Class B common stock together.",
@@ -4921,7 +7057,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 105,
+    "table_index": 1,
+    "heading": "Identical Assets Observable Inputs Inputs",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p105_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 236.0,
+      "x1": 593.2,
+      "y1": 417.2
+    },
     "rows": 26,
     "data": [
       "Fair Value Measurements",
@@ -4953,7 +7101,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 106,
+    "table_index": 1,
+    "heading": "Identical Assets Observable Inputs Inputs",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p106_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 119.5,
+      "x1": 593.1,
+      "y1": 300.4
+    },
     "rows": 37,
     "data": [
       "Table of Contents",
@@ -4996,7 +7156,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 106,
+    "table_index": 2,
+    "heading": "Fair Value Unrealized Losses Fair Value Unrealized Losses Fair Value Unrealized Losses",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p106_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 390.6,
+      "x1": 593.1,
+      "y1": 440.1
+    },
     "rows": 21,
     "data": [
       "Marketable equity securities 1,226",
@@ -5023,7 +7195,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 106,
+    "table_index": 3,
+    "heading": "Fair Value Unrealized Losses Fair Value Unrealized Losses Fair Value Unrealized Losses",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p106_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 506.2,
+      "x1": 593.1,
+      "y1": 555.5
+    },
     "rows": 22,
     "data": [
       "U.S. government securities",
@@ -5051,7 +7235,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 107,
+    "table_index": 1,
+    "heading": "The following table classifies our marketable debt securities by contractual maturities (in millions):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p107_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 101.7,
+      "x1": 593.1,
+      "y1": 139.7
+    },
     "rows": 6,
     "data": [
       "Table of Contents",
@@ -5063,7 +7259,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 107,
+    "table_index": 2,
+    "heading": "non-marketable equity investments under measurement alternative and equity method (in millions):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p107_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 277.9,
+      "x1": 593.1,
+      "y1": 351.7
+    },
     "rows": 15,
     "data": [
       "Total $ 39,727",
@@ -5084,7 +7292,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 108,
+    "table_index": 1,
+    "heading": "Property and equipment, net consists of the following (in millions):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p108_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 220.9,
+      "x1": 593.1,
+      "y1": 341.6
+    },
     "rows": 21,
     "data": [
       "We do not have the power to direct the activities that most significantly impact the Venture's economic performance. Therefore, we are not the primary",
@@ -5111,7 +7331,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 109,
+    "table_index": 1,
+    "heading": "The components of lease costs are as follows (in millions):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p109_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 164.0,
+      "x1": 593.0,
+      "y1": 247.1
+    },
     "rows": 13,
     "data": [
       "Table of Contents",
@@ -5130,7 +7362,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 109,
+    "table_index": 2,
+    "heading": "Supplemental balance sheet information related to lease liabilities is as follows:",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p109_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 324.3,
+      "x1": 593.0,
+      "y1": 405.0
+    },
     "rows": 17,
     "data": [
       "Finance lease cost:",
@@ -5153,7 +7397,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 109,
+    "table_index": 3,
+    "heading": "Operating Leases Finance Leases",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p109_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 447.5,
+      "x1": 593.0,
+      "y1": 606.8
+    },
     "rows": 30,
     "data": [
       "supplemental Dalance sneet mMrormauvion related tO lease MaDUIlies IS aS TOMOWS.",
@@ -5189,7 +7445,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 110,
+    "table_index": 1,
+    "heading": "Supplemental cash flow information related to leases is as follows (in millions):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p110_t01.png",
+    "coordinates": {
+      "x0": 19.1,
+      "y0": 147.5,
+      "x1": 592.0,
+      "y1": 240.3
+    },
     "rows": 15,
     "data": [
       "Table of Contents",
@@ -5210,7 +7478,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 110,
+    "table_index": 2,
+    "heading": "businesses in our consolidated financial statements from their respective dates of acquisition.",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p110_t02.png",
+    "coordinates": {
+      "x0": 19.1,
+      "y0": 384.1,
+      "x1": 592.0,
+      "y1": 467.8
+    },
     "rows": 17,
     "data": [
       "PIANC\u2019 leases > Old d iol d YOO",
@@ -5233,7 +7513,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 111,
+    "table_index": 1,
+    "heading": "Useful Lives Gross Carrying Accumulated Net Carrying Gross Carrying Accumulated Net Carrying",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p111_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 141.1,
+      "x1": 592.8,
+      "y1": 226.8
+    },
     "rows": 23,
     "data": [
       "Table of Contents",
@@ -5262,7 +7554,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 111,
+    "table_index": 2,
+    "heading": "Table (Page 111, #2)",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p111_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 317.2,
+      "x1": 592.8,
+      "y1": 401.6
+    },
     "rows": 17,
     "data": [
       "Acquired patents 6.4 224 (143) sl EZ",
@@ -5285,7 +7589,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 111,
+    "table_index": 3,
+    "heading": "The components of accrued expenses and other current liabilities are as follows (in millions):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p111_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 478.6,
+      "x1": 592.8,
+      "y1": 551.5
+    },
     "rows": 16,
     "data": [
       "2027 1,162",
@@ -5307,7 +7623,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 112,
+    "table_index": 1,
+    "heading": "senior unsecured notes (the Notes) and the carrying amount of our long-term debt (in millions, except percentages):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p112_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 134.6,
+      "x1": 593.2,
+      "y1": 228.8
+    },
     "rows": 20,
     "data": [
       "Table of Contents",
@@ -5333,7 +7661,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 112,
+    "table_index": 2,
+    "heading": "in part, at specified redemption prices. We are not subject to any financial covenants under the Notes. Interest expense, net of capitalized interest, recognized on",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p112_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 340.9,
+      "x1": 593.2,
+      "y1": 425.3
+    },
     "rows": 15,
     "data": [
       "net (256) (174)",
@@ -5354,7 +7694,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 113,
+    "table_index": 1,
+    "heading": "cloud capacity arrangements and our continued investments in servers and network infrastructure, data centers, and consumer hardware products in Reality",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p113_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 175.5,
+      "x1": 593.1,
+      "y1": 259.9
+    },
     "rows": 13,
     "data": [
       "Table of Contents",
@@ -5373,7 +7725,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 120,
+    "table_index": 1,
+    "heading": "The following table summarizes our dividends activities for the periods presented (in millions, except per share amounts):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p120_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 409.7,
+      "x1": 581.3,
+      "y1": 533.9
+    },
     "rows": 21,
     "data": [
       "Our board of directors has authorized a share repurchase program of our Class A common stock, which commenced in January 2017 and does not hav.",
@@ -5400,7 +7764,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 121,
+    "table_index": 1,
+    "heading": "of income (in millions):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p121_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 320.8,
+      "x1": 582.7,
+      "y1": 382.1
+    },
     "rows": 17,
     "data": [
       "2012 Plan. Shares that are withheld in connection with the net settlement of RSUs granted under the 2012 Plan and 2025 Plan, as well as forfeited shares",
@@ -5423,7 +7799,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 121,
+    "table_index": 2,
+    "heading": "Number of Shares Per Share",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p121_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 450.2,
+      "x1": 582.7,
+      "y1": 511.0
+    },
     "rows": 18,
     "data": [
       "Year Ended December 31,",
@@ -5447,7 +7835,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 122,
+    "table_index": 1,
+    "heading": "The following table presents the detail of interest and other income, net (in millions):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p122_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 142.6,
+      "x1": 593.2,
+      "y1": 203.9
+    },
     "rows": 10,
     "data": [
       "Table of Contents",
@@ -5463,7 +7863,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 122,
+    "table_index": 2,
+    "heading": "The components of income before provision for income taxes are as follows (in millions):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p122_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 280.8,
+      "x1": 593.2,
+      "y1": 318.6
+    },
     "rows": 14,
     "data": [
       "2025 2024 2023",
@@ -5483,7 +7895,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 122,
+    "table_index": 3,
+    "heading": "The provision for income taxes consists of the following (in millions):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p122_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 376.4,
+      "x1": 593.2,
+      "y1": 523.1
+    },
     "rows": 20,
     "data": [
       "The components of income before provision for income taxes are as follows (in millions):",
@@ -5509,7 +7933,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 123,
+    "table_index": 4,
+    "heading": "Table (Page 123, #4)",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p123_t04.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 205.2,
+      "x1": 593.1,
+      "y1": 277.4
+    },
     "rows": 17,
     "data": [
       "Beginning in 2025 annual reporting, we adopted ASU 2023-09 prospectively. See Note 1 \u2014 Summary of Significant Accounting Policies \u2014 Recently",
@@ -5532,7 +7968,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 123,
+    "table_index": 5,
+    "heading": "nontaxable or nondeductible items.",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p123_t05.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 401.4,
+      "x1": 593.1,
+      "y1": 497.5
+    },
     "rows": 19,
     "data": [
       "Other \u201c 689 0.8",
@@ -5557,7 +8005,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 124,
+    "table_index": 4,
+    "heading": "Table of Contents",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p124_t04.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 190.4,
+      "x1": 593.2,
+      "y1": 216.0
+    },
     "rows": 13,
     "data": [
       "Table of Contents",
@@ -5576,7 +8036,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 124,
+    "table_index": 5,
+    "heading": "Our deferred tax assets (liabilities) are as follows (in millions):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p124_t05.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 276.3,
+      "x1": 593.2,
+      "y1": 517.1
+    },
     "rows": 54,
     "data": [
       "NGS",
@@ -5636,7 +8108,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 125,
+    "table_index": 1,
+    "heading": "The following table reflects changes in the gross unrecognized tax benefits (in millions):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p125_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 209.9,
+      "x1": 593.1,
+      "y1": 294.3
+    },
     "rows": 16,
     "data": [
       "Utilization of our net operating loss and tax credit carryforwards may be subject to substantial annual limitations due to the ownership change limitations",
@@ -5658,7 +8142,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 127,
+    "table_index": 1,
+    "heading": "The following table sets forth our segment information of revenue, expenses, and income (loss) from operations (in millions):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p127_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 304.2,
+      "x1": 593.2,
+      "y1": 513.7
+    },
     "rows": 26,
     "data": [
       "(loss) from operations to allocate resources during our annual planning process and to assess performance. Our CODM does not evaluate operating segments",
@@ -5690,7 +8186,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 128,
+    "table_index": 1,
+    "heading": "assets (in millions):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p128_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 115.2,
+      "x1": 593.2,
+      "y1": 153.2
+    },
     "rows": 8,
     "data": [
       "Table of Contents",
@@ -5704,7 +8212,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 62,
+    "table_index": 1,
+    "heading": "Year Ended Year Ended Year Ended",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p62_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 183.6,
+      "x1": 593.5,
+      "y1": 239.6
+    },
     "rows": 18,
     "data": [
       "Table of Contents",
@@ -5728,7 +8248,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 73,
+    "table_index": 1,
+    "heading": "The following table sets forth our consolidated statements of income data (in millions):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p73_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 173.9,
+      "x1": 592.7,
+      "y1": 319.3
+    },
     "rows": 20,
     "data": [
       "Table of Contents",
@@ -5754,7 +8286,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 73,
+    "table_index": 2,
+    "heading": "Table (Page 73, #2)",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p73_t02.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 373.9,
+      "x1": 592.7,
+      "y1": 519.7
+    },
     "rows": 25,
     "data": [
       "Marketing and sales 11,991",
@@ -5785,7 +8329,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 74,
+    "table_index": 1,
+    "heading": "The following table sets forth our revenue by source and by segment:",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p74_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 145.8,
+      "x1": 594.0,
+      "y1": 207.2
+    },
     "rows": 12,
     "data": [
       "Table of Contents",
@@ -5803,7 +8359,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 76,
+    "table_index": 2,
+    "heading": "The following table sets forth income (loss) from operations by segment:",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p76_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 261.2,
+      "x1": 593.4,
+      "y1": 339.5
+    },
     "rows": 16,
     "data": [
       "(in millions, except percentages)",
@@ -5825,7 +8393,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 77,
+    "table_index": 1,
+    "heading": "Interest and other income, net",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p77_t01.png",
+    "coordinates": {
+      "x0": 18.8,
+      "y0": 124.2,
+      "x1": 593.4,
+      "y1": 184.3
+    },
     "rows": 11,
     "data": [
       "Table of Contents",
@@ -5842,7 +8422,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 78,
+    "table_index": 1,
+    "heading": "The following table presents our cash flows (in millions):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p78_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 346.5,
+      "x1": 593.2,
+      "y1": 382.0
+    },
     "rows": 15,
     "data": [
       "Our principal sources of liquidity are our cash, cash equivalents, marketable securities, and cash generated from operations. Cash, cash equivalents, and",
@@ -5863,7 +8455,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 79,
+    "table_index": 1,
+    "heading": "The following is a reconciliation of FCF to the most comparable GAAP measure, net cash provided by operating activities (in millions):",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p79_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 428.8,
+      "x1": 593.2,
+      "y1": 478.6
+    },
     "rows": 15,
     "data": [
       "FCF has limitations as an analytical tool, and you should not consider it in isolation or as a substitute for analysis of other GAAP financial measures,",
@@ -5884,7 +8488,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 89,
+    "table_index": 1,
+    "heading": "CONSOLIDATED BALANCE SHEETS",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p89_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 130.7,
+      "x1": 593.2,
+      "y1": 554.2
+    },
     "rows": 41,
     "data": [
       "Table of Contents",
@@ -5931,7 +8547,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 90,
+    "table_index": 1,
+    "heading": "CONSOLIDATED STATEMENTS OF INCOME",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p90_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 130.7,
+      "x1": 593.2,
+      "y1": 346.3
+    },
     "rows": 24,
     "data": [
       "Table of Contents",
@@ -5961,7 +8589,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 91,
+    "table_index": 1,
+    "heading": "CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p91_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 130.5,
+      "x1": 593.2,
+      "y1": 191.7
+    },
     "rows": 15,
     "data": [
       "Table of Contents",
@@ -5982,7 +8622,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 92,
+    "table_index": 1,
+    "heading": "Shares Par Value Paid-In Capital Income (Loss) Earnings Equity",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p92_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 135.5,
+      "x1": 590.4,
+      "y1": 445.5
+    },
     "rows": 34,
     "data": [
       "Table of Contents",
@@ -6022,7 +8674,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 93,
+    "table_index": 1,
+    "heading": "CONSOLIDATED STATEMENTS OF CASH FLOWS",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p93_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 110.3,
+      "x1": 592.5,
+      "y1": 641.9
+    },
     "rows": 51,
     "data": [
       "Table of Contents",
@@ -6079,7 +8743,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 94,
+    "table_index": 1,
+    "heading": "CONSOLIDATED STATEMENTS OF CASH FLOWS",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p94_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 114.1,
+      "x1": 593.2,
+      "y1": 202.5
+    },
     "rows": 14,
     "data": [
       "Table of Contents",
@@ -6099,7 +8775,19 @@
     ]
   },
   {
+    "company": "META",
+    "report": "b919eb05-86d9-4412-a8ff-308be1afb070",
+    "period": "2025",
+    "page": 99,
+    "table_index": 1,
+    "heading": "Property and Equipment Useful Life/ Amortization period",
     "image": "META_b919eb05-86d9-4412-a8ff-308be1afb070_p99_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 468.9,
+      "x1": 594.0,
+      "y1": 527.9
+    },
     "rows": 15,
     "data": [
       "various factors, including historical experience, the age of the accounts receivable balances, credit quality of our customers, current economic conditions,",

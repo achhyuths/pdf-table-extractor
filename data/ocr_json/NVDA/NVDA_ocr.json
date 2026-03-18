@@ -1,6 +1,18 @@
 [
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 3,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p03_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 198.4,
+      "x1": 593.2,
+      "y1": 463.7
+    },
     "rows": 48,
     "data": [
       "Part I. Financial Information",
@@ -54,7 +66,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 4,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p04_t01.png",
+    "coordinates": {
+      "x0": 18.8,
+      "y0": 148.5,
+      "x1": 592.6,
+      "y1": 268.0
+    },
     "rows": 17,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -77,7 +101,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 5,
+    "table_index": 1,
+    "heading": "Condensed Consolidated Balance Sheets",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p05_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 126.6,
+      "x1": 592.5,
+      "y1": 531.9
+    },
     "rows": 66,
     "data": [
       "Assets",
@@ -149,7 +185,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 6,
+    "table_index": 1,
+    "heading": "Shares Amount Paid-in Capital Income Earnings Equity",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p06_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 141.1,
+      "x1": 592.4,
+      "y1": 332.8
+    },
     "rows": 27,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -182,7 +230,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 7,
+    "table_index": 1,
+    "heading": "Shares Amount Capital Income Earnings Equity",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p07_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 141.1,
+      "x1": 592.4,
+      "y1": 331.4
+    },
     "rows": 27,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -215,7 +275,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 8,
+    "table_index": 1,
+    "heading": "Nine Months Ended",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p08_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 122.2,
+      "x1": 592.5,
+      "y1": 538.0
+    },
     "rows": 76,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -297,7 +369,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 10,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p10_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 143.1,
+      "x1": 580.3,
+      "y1": 187.7
+    },
     "rows": 11,
     "data": [
       "NVIDIA CORPORATION AND SUBSIDIARIES",
@@ -314,7 +398,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 10,
+    "table_index": 2,
+    "heading": "Number of Shares Value Per Share",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p10_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 274.0,
+      "x1": 593.2,
+      "y1": 330.1
+    },
     "rows": 17,
     "data": [
       "\u2014Nws ea) aN i iil \u2014s eS aw =e aes vos",
@@ -337,7 +433,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 10,
+    "table_index": 3,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p10_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 438.1,
+      "x1": 593.2,
+      "y1": 550.8
+    },
     "rows": 21,
     "data": [
       "Granted ve 9",
@@ -364,7 +472,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 12,
+    "table_index": 1,
+    "heading": "Category Cost Gain Loss Fair Value Cash Equivalents Securities",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p12_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 201.1,
+      "x1": 593.1,
+      "y1": 340.9
+    },
     "rows": 22,
     "data": [
       "Note 5 - Cash Equivalents and Marketable Securities",
@@ -392,7 +512,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 13,
+    "table_index": 1,
+    "heading": "Category Cost Gain Loss Fair Value Cash Equivalents Securities",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p13_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 147.1,
+      "x1": 593.1,
+      "y1": 286.2
+    },
     "rows": 31,
     "data": [
       "Corporate debt securities",
@@ -429,7 +561,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 13,
+    "table_index": 2,
+    "heading": "Estimated Fair Value Gross Unrealized Loss Estimated Fair Value Gross Unrealized Loss",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p13_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 376.6,
+      "x1": 593.1,
+      "y1": 421.2
+    },
     "rows": 17,
     "data": [
       "Total debt securities with fair",
@@ -452,7 +596,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 14,
+    "table_index": 1,
+    "heading": "The estimated fair value of debt securities included in cash equivalents and marketable securities are shown below by contractual maturity.",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p14_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 132.3,
+      "x1": 593.1,
+      "y1": 166.0
+    },
     "rows": 9,
     "data": [
       "NVIDIA CORPORATION AND SUBSIDIARIES",
@@ -467,7 +623,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 14,
+    "table_index": 2,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p14_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 301.0,
+      "x1": 593.1,
+      "y1": 381.4
+    },
     "rows": 17,
     "data": [
       "Total $ 54,952",
@@ -490,7 +658,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 14,
+    "table_index": 3,
+    "heading": "Amount Amortization Amount Amount Amortization Amount",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p14_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 525.8,
+      "x1": 593.1,
+      "y1": 560.2
+    },
     "rows": 14,
     "data": [
       "eee SE pee | Reel ieiiensiielil iia co_mmtetot Hl bhcatl wel hel | tl a,",
@@ -510,7 +690,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 15,
+    "table_index": 1,
+    "heading": "Future Amortization Expense",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p15_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 120.8,
+      "x1": 593.1,
+      "y1": 208.6
+    },
     "rows": 15,
     "data": [
       "NVIDIA CORPORATION AND SUBSIDIARIES",
@@ -531,7 +723,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 15,
+    "table_index": 2,
+    "heading": "Inventories: (In millions)",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p15_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 378.0,
+      "x1": 593.1,
+      "y1": 423.2
+    },
     "rows": 13,
     "data": [
       "Note 8 - Balance Sheet Components",
@@ -550,7 +754,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 15,
+    "table_index": 3,
+    "heading": "Other Assets (Long Term): (In millions)",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p15_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 527.8,
+      "x1": 593.1,
+      "y1": 583.9
+    },
     "rows": 16,
     "data": [
       "Raw materials $ 4,209 $ 3,408",
@@ -572,7 +788,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 16,
+    "table_index": 1,
+    "heading": "Accrued and Other Current Liabilities: (In millions)",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p16_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 114.1,
+      "x1": 593.1,
+      "y1": 201.8
+    },
     "rows": 22,
     "data": [
       "NVIDIA CORPORATION AND SUBSIDIARIES",
@@ -600,7 +828,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 16,
+    "table_index": 2,
+    "heading": "Other Long-Term Liabilities: (In millions)",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p16_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 286.9,
+      "x1": 593.1,
+      "y1": 342.2
+    },
     "rows": 17,
     "data": [
       "Product warranty 2,707 1,290",
@@ -623,7 +863,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 16,
+    "table_index": 3,
+    "heading": "Nine Months Ended",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p16_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 450.2,
+      "x1": 593.1,
+      "y1": 494.8
+    },
     "rows": 15,
     "data": [
       "Deferred income tax 1,621 fetele}",
@@ -644,7 +896,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 18,
+    "table_index": 1,
+    "heading": "Remaining Term Effective",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p18_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 158.6,
+      "x1": 593.1,
+      "y1": 280.8
+    },
     "rows": 18,
     "data": [
       "Note 10 - Debt",
@@ -668,7 +932,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 19,
+    "table_index": 2,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p19_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 166.1,
+      "x1": 593.2,
+      "y1": 213.3
+    },
     "rows": 13,
     "data": [
       "NVIDIA CORPORATION AND SUBSIDIARIES",
@@ -687,7 +963,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 21,
+    "table_index": 1,
+    "heading": "Networking Graphics Total",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p21_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 189.0,
+      "x1": 593.3,
+      "y1": 402.3
+    },
     "rows": 25,
     "data": [
       "(Unaudited)",
@@ -718,7 +1006,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 22,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p22_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 125.6,
+      "x1": 592.0,
+      "y1": 213.3
+    },
     "rows": 14,
     "data": [
       "NVIDIA CORPORATION AND SUBSIDIARIES",
@@ -738,7 +1038,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 22,
+    "table_index": 2,
+    "heading": "Geographic Revenue based upon Customer Headquarters Location",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p22_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 311.2,
+      "x1": 592.0,
+      "y1": 366.5
+    },
     "rows": 16,
     "data": [
       "Acquisition-related and other Costs (of)",
@@ -760,7 +1072,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 23,
+    "table_index": 1,
+    "heading": "Revenue by End Market:",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p23_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 153.9,
+      "x1": 593.1,
+      "y1": 240.3
+    },
     "rows": 16,
     "data": [
       "NVIDIA CORPORATION AND SUBSIDIARIES",
@@ -782,7 +1106,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 23,
+    "table_index": 2,
+    "heading": "Operating Lease Obligations",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p23_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 332.1,
+      "x1": 593.1,
+      "y1": 465.1
+    },
     "rows": 23,
     "data": [
       "4,265 3,279 12,315 8,806",
@@ -811,7 +1147,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 24,
+    "table_index": 1,
+    "heading": "Nine Months Ended",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p24_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 143.1,
+      "x1": 593.3,
+      "y1": 175.5
+    },
     "rows": 13,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -830,7 +1178,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 26,
+    "table_index": 1,
+    "heading": "Quarter-over-Quarter Year-over-Year",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p26_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 463.0,
+      "x1": 593.4,
+      "y1": 527.8
+    },
     "rows": 36,
     "data": [
       "capabilities will depend on the domestic manufacturing ecosystem 's capacity to ramp. production supply to the required volume and ona timely basis.",
@@ -872,7 +1232,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 27,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p27_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 384.3,
+      "x1": 594.0,
+      "y1": 552.8
+    },
     "rows": 40,
     "data": [
       "Financial Information by Business Segment and Geographic Data",
@@ -918,7 +1290,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 28,
+    "table_index": 1,
+    "heading": "Change Change Change Change",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p28_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 140.4,
+      "x1": 594.0,
+      "y1": 182.2
+    },
     "rows": 11,
     "data": [
       "Revenue by Reportable Segments",
@@ -935,7 +1319,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 28,
+    "table_index": 2,
+    "heading": "Change Change Change Change",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p28_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 259.2,
+      "x1": 594.0,
+      "y1": 301.7
+    },
     "rows": 16,
     "data": [
       "$ \u2018a $ %",
@@ -957,7 +1353,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 29,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p29_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 456.3,
+      "x1": 594.0,
+      "y1": 506.2
+    },
     "rows": 23,
     "data": [
       "ene ee EE OOM EE I VAS OO TVS SEM PMO VMNYVOIO IVE NS Tok Yate wr howe yar",
@@ -986,7 +1394,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 30,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p30_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 140.4,
+      "x1": 593.1,
+      "y1": 185.6
+    },
     "rows": 9,
     "data": [
       "Total Other Income, Net",
@@ -1001,7 +1421,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 30,
+    "table_index": 2,
+    "heading": "Liquidity and Capital Resources",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p30_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 554.9,
+      "x1": 593.1,
+      "y1": 589.3
+    },
     "rows": 14,
     "data": [
       "ee ee eee eee een eee ee eee NE AIRE NAR",
@@ -1021,7 +1453,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 31,
+    "table_index": 1,
+    "heading": "Nine Months Ended",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p31_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 117.5,
+      "x1": 593.2,
+      "y1": 149.9
+    },
     "rows": 10,
     "data": [
       "Net cash provided by operating activities",
@@ -1037,7 +1481,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 32,
+    "table_index": 1,
+    "heading": "Outstanding Indebtedness and Commercial Paper Program",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p32_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 136.4,
+      "x1": 587.0,
+      "y1": 226.1
+    },
     "rows": 12,
     "data": [
       "Outstanding Indebtedness and Commercial Paper Program",
@@ -1055,7 +1511,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 42,
+    "table_index": 1,
+    "heading": "Purchased Average Price Paid Program Program",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p42_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 142.4,
+      "x1": 593.4,
+      "y1": 187.7
+    },
     "rows": 20,
     "data": [
       "The following table presents details of our share repurchase transactions during the third quarter of fiscal year 2026:",
@@ -1081,7 +1549,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "13e6981b-95ed-4aac-a602-ebc5865d0590",
+    "period": "2025",
+    "page": 42,
+    "table_index": 2,
+    "heading": "Officer Common Stock to be",
     "image": "NVDA_13e6981b-95ed-4aac-a602-ebc5865d0590_p42_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 466.7,
+      "x1": 593.4,
+      "y1": 531.9
+    },
     "rows": 18,
     "data": [
       "Recent Sales of Unregistered Securities and Use of Proceeds",
@@ -1105,7 +1585,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 13,
+    "table_index": 1,
+    "heading": "Name Age Position",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p13_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 111.8,
+      "x1": 591.7,
+      "y1": 166.0
+    },
     "rows": 9,
     "data": [
       "Table of Contents",
@@ -1120,7 +1612,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 34,
+    "table_index": 1,
+    "heading": "Purchased Average Price Paid Publicly Announced Purchased Under the",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p34_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 161.1,
+      "x1": 593.3,
+      "y1": 206.6
+    },
     "rows": 13,
     "data": [
       "Table of Contents",
@@ -1139,7 +1643,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 35,
+    "table_index": 1,
+    "heading": "Source: FactSet financial data and analytics.",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p35_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 401.6,
+      "x1": 593.2,
+      "y1": 434.7
+    },
     "rows": 11,
     "data": [
       "500",
@@ -1156,7 +1672,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 38,
+    "table_index": 1,
+    "heading": "or create other uncertainty for our business.",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p38_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 201.2,
+      "x1": 593.6,
+      "y1": 266.0
+    },
     "rows": 17,
     "data": [
       "Israel and Regional Conflicts",
@@ -1179,7 +1707,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 40,
+    "table_index": 1,
+    "heading": "The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income expressed as a percentage of revenue.",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p40_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 284.2,
+      "x1": 592.7,
+      "y1": 452.3
+    },
     "rows": 44,
     "data": [
       "ee eee Oe ee Oe eee eee eee eee eee Oe ee eee ee eee ee NN EAE ARE SARE CAREER EERE OEE PME es rie eee eee",
@@ -1229,7 +1769,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 41,
+    "table_index": 1,
+    "heading": "Revenue by Reportable Segments",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p41_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 145.8,
+      "x1": 593.6,
+      "y1": 179.6
+    },
     "rows": 18,
     "data": [
       "Table of Contents",
@@ -1253,7 +1805,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 41,
+    "table_index": 2,
+    "heading": "Operating Income by Reportable Segments",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p41_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 254.5,
+      "x1": 593.6,
+      "y1": 299.0
+    },
     "rows": 33,
     "data": [
       "Compute & Networking",
@@ -1292,7 +1856,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 41,
+    "table_index": 3,
+    "heading": "Networking segment, are presented in the following table:",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p41_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 548.9,
+      "x1": 593.6,
+      "y1": 583.2
+    },
     "rows": 14,
     "data": [
       "All Other operating loss \u2014 The year over year increase was due to an increase in stock-based compensation expense reflecting employee growth and",
@@ -1312,7 +1888,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 42,
+    "table_index": 1,
+    "heading": "Operating Expenses",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p42_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 351.7,
+      "x1": 593.4,
+      "y1": 418.5
+    },
     "rows": 18,
     "data": [
       "TLGHyINIG AIIUIIZAUUIL CAVETIO\u20ac\u2019, CUSlS TUE HURTIS\u00ae ail UCVEIOVITCTIL GH SEeIVING AIGAIYellictiilo, IP -IelaleU UCUolo, AHU SLUURTVASeU CUINVEHOGUUl! TeldleUu LW",
@@ -1336,7 +1924,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 43,
+    "table_index": 1,
+    "heading": "Other Income (Expense), Net",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p43_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 133.7,
+      "x1": 592.7,
+      "y1": 178.2
+    },
     "rows": 14,
     "data": [
       "Table of Contents",
@@ -1356,7 +1956,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 43,
+    "table_index": 2,
+    "heading": "Liquidity and Capital Resources",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p43_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 467.1,
+      "x1": 592.7,
+      "y1": 500.8
+    },
     "rows": 14,
     "data": [
       "ihe emective tax rate increased primarily Que to higher pre-tax Income and a prior year discrete benetit due to an audit resolution.",
@@ -1376,7 +1988,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 43,
+    "table_index": 3,
+    "heading": "Liquidity and Capital Resources",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p43_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 552.1,
+      "x1": 592.7,
+      "y1": 584.5
+    },
     "rows": 19,
     "data": [
       "Refer to Note 13 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form 10-K for additional information.",
@@ -1401,7 +2025,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 44,
+    "table_index": 1,
+    "heading": "Outstanding Indebtedness and Commercial Paper Program",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p44_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 481.9,
+      "x1": 593.1,
+      "y1": 548.1
+    },
     "rows": 17,
     "data": [
       "From January 2/, 2025 through February 21, 2020, we repurchased 29 million shares for 93./ billion pursuant to a pre-establisned trading plan. Our share",
@@ -1424,7 +2060,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 47,
+    "table_index": 1,
+    "heading": "Officer Stock to be Sold",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p47_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 136.3,
+      "x1": 593.6,
+      "y1": 169.4
+    },
     "rows": 9,
     "data": [
       "Table of Contents",
@@ -1439,7 +2087,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 52,
+    "table_index": 1,
+    "heading": "Consolidated Statements of Income",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p52_t01.png",
+    "coordinates": {
+      "x0": 22.9,
+      "y0": 121.5,
+      "x1": 588.0,
+      "y1": 396.9
+    },
     "rows": 28,
     "data": [
       "Table of Contents",
@@ -1473,7 +2133,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 53,
+    "table_index": 1,
+    "heading": "Consolidated Statements of Comprehensive Income",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p53_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 121.5,
+      "x1": 592.5,
+      "y1": 257.8
+    },
     "rows": 18,
     "data": [
       "Table of Contents",
@@ -1497,7 +2169,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 54,
+    "table_index": 1,
+    "heading": "Consolidated Balance Sheets",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p54_t01.png",
+    "coordinates": {
+      "x0": 19.5,
+      "y0": 109.3,
+      "x1": 591.8,
+      "y1": 525.8
+    },
     "rows": 95,
     "data": [
       "Table of Contents",
@@ -1598,7 +2282,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 55,
+    "table_index": 1,
+    "heading": "Shares Amount Capital Income (Loss) Earnings Equity",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p55_t01.png",
+    "coordinates": {
+      "x0": 25.0,
+      "y0": 120.8,
+      "x1": 585.9,
+      "y1": 372.6
+    },
     "rows": 58,
     "data": [
       "Table of Contents",
@@ -1662,7 +2358,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 56,
+    "table_index": 1,
+    "heading": "Consolidated Statements of Cash Flows",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p56_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 111.8,
+      "x1": 592.5,
+      "y1": 592.0
+    },
     "rows": 49,
     "data": [
       "Table of Contents",
@@ -1717,7 +2425,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 62,
+    "table_index": 1,
+    "heading": "of revenue, as follows:",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p62_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 428.6,
+      "x1": 593.1,
+      "y1": 473.2
+    },
     "rows": 15,
     "data": [
       "Termination of the Arm onare Furchase Agreement",
@@ -1738,7 +2458,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 63,
+    "table_index": 1,
+    "heading": "The following is a summary of equity awards granted under our equity incentive plans:",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p63_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 135.0,
+      "x1": 593.1,
+      "y1": 238.3
+    },
     "rows": 42,
     "data": [
       "Table of Contents",
@@ -1786,7 +2518,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 63,
+    "table_index": 2,
+    "heading": "The fair value of shares issued under our ESPP have been estimated with the following assumptions:",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p63_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 347.0,
+      "x1": 593.1,
+      "y1": 390.2
+    },
     "rows": 16,
     "data": [
       "ESPP",
@@ -1808,7 +2552,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 64,
+    "table_index": 1,
+    "heading": "Number of Shares Fair Value Per Share",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p64_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 287.9,
+      "x1": 593.2,
+      "y1": 368.6
+    },
     "rows": 19,
     "data": [
       "AMCNQCE dala NEStalea 2U 14 CMIPIOYee CLOCK FUICHdase Fildall",
@@ -1833,7 +2589,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 65,
+    "table_index": 1,
+    "heading": "The following is a reconciliation of the denominator of the basic and diluted net income per share computations for the periods presented:",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p65_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 159.3,
+      "x1": 592.1,
+      "y1": 278.8
+    },
     "rows": 19,
     "data": [
       "Table of Contents",
@@ -1858,7 +2626,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 65,
+    "table_index": 2,
+    "heading": "Amount Amortization Amount Amount Amortization Amount",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p65_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 481.3,
+      "x1": 592.1,
+      "y1": 523.1
+    },
     "rows": 16,
     "data": [
       "As of January 26, 2025, the total carrying amount of goodwill was $5.2 billion, consisting of goodwill balances allocated to our Compute & Networking and",
@@ -1880,7 +2660,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 66,
+    "table_index": 1,
+    "heading": "Future Amortization Expense",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p66_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 129.6,
+      "x1": 593.1,
+      "y1": 217.4
+    },
     "rows": 21,
     "data": [
       "Table of Contents",
@@ -1907,7 +2699,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 66,
+    "table_index": 2,
+    "heading": "Cost Gain Loss Fair Value Equivalents Securities",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p66_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 327.4,
+      "x1": 593.1,
+      "y1": 459.0
+    },
     "rows": 24,
     "data": [
       "\u00a3ULIg",
@@ -1937,7 +2741,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 67,
+    "table_index": 1,
+    "heading": "Cost Gain Loss Fair Value Cash Equivalents Securities",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p67_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 149.2,
+      "x1": 593.1,
+      "y1": 257.9
+    },
     "rows": 20,
     "data": [
       "Table of Contents",
@@ -1963,7 +2779,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 67,
+    "table_index": 2,
+    "heading": "Value Unrealized Loss Value Unrealized Loss Value Unrealized Loss",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p67_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 356.4,
+      "x1": 593.1,
+      "y1": 417.2
+    },
     "rows": 18,
     "data": [
       "Certificates of deposit 510 \u2014 = 510 294 216",
@@ -1987,7 +2815,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 67,
+    "table_index": 3,
+    "heading": "Value Unrealized Loss Value Unrealized Loss Value Unrealized Loss",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p67_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 488.0,
+      "x1": 593.1,
+      "y1": 548.8
+    },
     "rows": 26,
     "data": [
       "Debt securities issued by the U.S.",
@@ -2019,7 +2859,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 68,
+    "table_index": 1,
+    "heading": "Cost Fair Value Cost Fair Value",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p68_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 133.7,
+      "x1": 592.7,
+      "y1": 168.1
+    },
     "rows": 14,
     "data": [
       "Table of Contents",
@@ -2039,7 +2891,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 68,
+    "table_index": 2,
+    "heading": "markets. We review fair value classification on a quarterly basis.",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p68_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 278.1,
+      "x1": 592.7,
+      "y1": 498.8
+    },
     "rows": 30,
     "data": [
       "(All PERMA POY",
@@ -2075,7 +2939,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 69,
+    "table_index": 1,
+    "heading": "Notes to the Consolidated Financial Statements",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p69_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 146.5,
+      "x1": 593.1,
+      "y1": 216.7
+    },
     "rows": 18,
     "data": [
       "Table of Contents",
@@ -2099,7 +2975,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 69,
+    "table_index": 2,
+    "heading": "Inventories: (In millions)",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p69_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 393.5,
+      "x1": 576.9,
+      "y1": 438.8
+    },
     "rows": 15,
     "data": [
       "TTIPOIITIOCES UE DIVO TNO GLI DFO TTT OL SSUUIIUIES HSIN as Ul UalUaly \u00a320, 2U29 ali vdlllldly \u00a320, 2U2L, IboVpeuulVvely.",
@@ -2120,7 +3008,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 69,
+    "table_index": 3,
+    "heading": "Property and Equipment: (In millions) (In years)",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p69_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 500.9,
+      "x1": 593.1,
+      "y1": 579.2
+    },
     "rows": 18,
     "data": [
       "Certain balance sheet components are as follows:",
@@ -2144,7 +3044,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 70,
+    "table_index": 1,
+    "heading": "Other Assets (Long Term): (In millions)",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p70_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 186.3,
+      "x1": 593.1,
+      "y1": 253.1
+    },
     "rows": 16,
     "data": [
       "\u2014\u2014 Nene",
@@ -2166,7 +3078,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 70,
+    "table_index": 2,
+    "heading": "Accrued and Other Current Liabilities: (In millions)",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p70_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 307.1,
+      "x1": 593.1,
+      "y1": 427.3
+    },
     "rows": 41,
     "data": [
       "Other Assets (Long Term):",
@@ -2213,7 +3137,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 70,
+    "table_index": 3,
+    "heading": "Other Long-Term Liabilities: (In millions)",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p70_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 502.2,
+      "x1": 593.1,
+      "y1": 568.4
+    },
     "rows": 18,
     "data": [
       "Accrued payroll and related expenses 848 675",
@@ -2237,7 +3173,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 71,
+    "table_index": 1,
+    "heading": "Deferred Revenue",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p71_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 150.5,
+      "x1": 593.1,
+      "y1": 195.1
+    },
     "rows": 12,
     "data": [
       "Table of Contents",
@@ -2255,7 +3203,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 72,
+    "table_index": 1,
+    "heading": "Remaining Term Effective",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p72_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 166.7,
+      "x1": 593.1,
+      "y1": 299.0
+    },
     "rows": 53,
     "data": [
       "Table of Contents",
@@ -2314,7 +3274,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 73,
+    "table_index": 1,
+    "heading": "Notes to the Consolidated Financial Statements",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p73_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 128.9,
+      "x1": 593.2,
+      "y1": 216.7
+    },
     "rows": 15,
     "data": [
       "Table of Contents",
@@ -2335,7 +3307,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 73,
+    "table_index": 2,
+    "heading": "product returns and product warranty activity consisted of the following:",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p73_t02.png",
+    "coordinates": {
+      "x0": 280.1,
+      "y0": 274.1,
+      "x1": 593.2,
+      "y1": 299.4
+    },
     "rows": 12,
     "data": [
       "[PEE BE EEEEENAL IST",
@@ -2353,7 +3337,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 73,
+    "table_index": 3,
+    "heading": "product returns and product warranty activity consisted of the following:",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p73_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 310.5,
+      "x1": 593.2,
+      "y1": 358.4
+    },
     "rows": 15,
     "data": [
       "2028 2,992",
@@ -2374,7 +3370,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 75,
+    "table_index": 1,
+    "heading": "Current income taxes:",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p75_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 173.5,
+      "x1": 592.8,
+      "y1": 284.9
+    },
     "rows": 28,
     "data": [
       "Table of Contents",
@@ -2408,7 +3416,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 75,
+    "table_index": 2,
+    "heading": "Income before income tax consists of the following:",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p75_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 346.3,
+      "x1": 592.8,
+      "y1": 380.0
+    },
     "rows": 25,
     "data": [
       "Foreign",
@@ -2439,7 +3459,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 75,
+    "table_index": 3,
+    "heading": "Table (Page 75, #3)",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p75_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 449.6,
+      "x1": 592.8,
+      "y1": 558.9
+    },
     "rows": 21,
     "data": [
       "Income before income tax consists of the following:",
@@ -2466,7 +3498,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 76,
+    "table_index": 1,
+    "heading": "The tax effect of temporary differences that gives rise to significant portions of the deferred tax assets and liabilities are presented below:",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p76_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 131.6,
+      "x1": 592.5,
+      "y1": 351.7
+    },
     "rows": 53,
     "data": [
       "Table of Contents",
@@ -2525,7 +3569,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 77,
+    "table_index": 1,
+    "heading": "A reconciliation of gross unrecognized tax benefits is as follows:",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p77_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 169.4,
+      "x1": 592.5,
+      "y1": 246.4
+    },
     "rows": 18,
     "data": [
       "Table of Contents",
@@ -2549,7 +3605,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 78,
+    "table_index": 1,
+    "heading": "Networking Graphics All Other Consolidated",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p78_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 411.1,
+      "x1": 593.4,
+      "y1": 567.7
+    },
     "rows": 24,
     "data": [
       "The Graphics segment includes GeForce GPUs for gaming and PCs, the GeForce NOW game streaming service and related infrastructure, and solutions for",
@@ -2579,7 +3647,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 79,
+    "table_index": 1,
+    "heading": "Reconciling items included in \"All Other\" category: (In millions)",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p79_t01.png",
+    "coordinates": {
+      "x0": 18.5,
+      "y0": 197.8,
+      "x1": 591.8,
+      "y1": 263.9
+    },
     "rows": 16,
     "data": [
       "(Continued)",
@@ -2601,7 +3681,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 79,
+    "table_index": 2,
+    "heading": "Geographic Revenue based upon Customer Billing Location: (In millions)",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p79_t02.png",
+    "coordinates": {
+      "x0": 18.5,
+      "y0": 344.3,
+      "x1": 591.8,
+      "y1": 411.1
+    },
     "rows": 46,
     "data": [
       "Stock-based compensation expense",
@@ -2653,7 +3745,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 80,
+    "table_index": 1,
+    "heading": "presented in the following table:",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p80_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 140.3,
+      "x1": 591.9,
+      "y1": 174.8
+    },
     "rows": 12,
     "data": [
       "Table of Contents",
@@ -2671,7 +3775,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 80,
+    "table_index": 2,
+    "heading": "Revenue by End Market: (In millions)",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p80_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 275.4,
+      "x1": 591.9,
+      "y1": 361.8
+    },
     "rows": 31,
     "data": [
       "Direct Customer A",
@@ -2708,7 +3824,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 80,
+    "table_index": 3,
+    "heading": "Long-lived assets: (In millions)",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p80_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 430.7,
+      "x1": 591.9,
+      "y1": 486.0
+    },
     "rows": 17,
     "data": [
       "Mata Vole wv hiv, ivw Tf wav WY Iliad bectitinall",
@@ -2731,7 +3859,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 81,
+    "table_index": 1,
+    "heading": "Operating Lease Obligations",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p81_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 111.4,
+      "x1": 591.0,
+      "y1": 244.4
+    },
     "rows": 18,
     "data": [
       "Table of Contents",
@@ -2755,7 +3895,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 81,
+    "table_index": 2,
+    "heading": "Other information related to leases was as follows:",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p81_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 360.5,
+      "x1": 591.0,
+      "y1": 401.0
+    },
     "rows": 15,
     "data": [
       "Present value of net future minimum lease payments 1,807",
@@ -2776,7 +3928,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "177440d5-3b32-4185-8cc8-95500a9dc783",
+    "period": "2025",
+    "page": 82,
+    "table_index": 1,
+    "heading": "Description Period Additions Deductions End of Period",
     "image": "NVDA_177440d5-3b32-4185-8cc8-95500a9dc783_p82_t01.png",
+    "coordinates": {
+      "x0": 20.1,
+      "y0": 145.1,
+      "x1": 591.2,
+      "y1": 263.9
+    },
     "rows": 57,
     "data": [
       "Description",
@@ -2839,7 +4003,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 3,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p03_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 198.9,
+      "x1": 593.2,
+      "y1": 464.4
+    },
     "rows": 48,
     "data": [
       "Part I. Financial Information",
@@ -2893,7 +4069,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 4,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p04_t01.png",
+    "coordinates": {
+      "x0": 18.8,
+      "y0": 149.2,
+      "x1": 592.6,
+      "y1": 268.0
+    },
     "rows": 17,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -2916,7 +4104,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 5,
+    "table_index": 1,
+    "heading": "Condensed Consolidated Balance Sheets",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p05_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 126.5,
+      "x1": 592.5,
+      "y1": 520.4
+    },
     "rows": 64,
     "data": [
       "Assets",
@@ -2986,7 +4186,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 6,
+    "table_index": 1,
+    "heading": "Shares Amount Paid-in Capital Income (Loss) Earnings Equity",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p06_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 141.1,
+      "x1": 592.4,
+      "y1": 316.6
+    },
     "rows": 25,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -3017,7 +4229,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 7,
+    "table_index": 1,
+    "heading": "Shares Amount Capital Income Earnings Equity",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p07_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 141.1,
+      "x1": 592.4,
+      "y1": 331.4
+    },
     "rows": 27,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -3050,7 +4274,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 8,
+    "table_index": 1,
+    "heading": "Six Months Ended",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p08_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 122.2,
+      "x1": 592.5,
+      "y1": 538.0
+    },
     "rows": 76,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -3132,7 +4368,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 10,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p10_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 143.1,
+      "x1": 580.3,
+      "y1": 187.7
+    },
     "rows": 11,
     "data": [
       "NVIDIA CORPORATION AND SUBSIDIARIES",
@@ -3149,7 +4397,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 10,
+    "table_index": 2,
+    "heading": "Number of Shares Value Per Share",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p10_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 274.1,
+      "x1": 593.2,
+      "y1": 330.1
+    },
     "rows": 17,
     "data": [
       "\u2014\u2014ss ani? ers \u2014\u2014sas\u2014 ons \u2014\u2014 as ern \u2014\u2014\u2014S a",
@@ -3172,7 +4432,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 10,
+    "table_index": 3,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p10_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 437.4,
+      "x1": 593.2,
+      "y1": 550.8
+    },
     "rows": 21,
     "data": [
       "Granted 40 oO",
@@ -3199,7 +4471,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 12,
+    "table_index": 1,
+    "heading": "Category Cost Gain Loss Fair Value Cash Equivalents Securities",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p12_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 201.8,
+      "x1": 593.1,
+      "y1": 340.9
+    },
     "rows": 22,
     "data": [
       "Note 5 - Cash Equivalents and Marketable Securities",
@@ -3227,7 +4511,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 13,
+    "table_index": 1,
+    "heading": "Category Cost Gain Loss Fair Value Cash Equivalents Securities",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p13_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 146.5,
+      "x1": 593.1,
+      "y1": 286.2
+    },
     "rows": 40,
     "data": [
       "Corporate debt securities",
@@ -3273,7 +4569,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 13,
+    "table_index": 2,
+    "heading": "Estimated Fair Value Gross Unrealized Loss Estimated Fair Value Gross Unrealized Loss",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p13_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 376.0,
+      "x1": 593.1,
+      "y1": 421.2
+    },
     "rows": 16,
     "data": [
       "Total debt securities with fair",
@@ -3295,7 +4603,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 14,
+    "table_index": 1,
+    "heading": "The estimated fair value of debt securities included in cash equivalents and marketable securities are shown below by contractual maturity.",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p14_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 131.6,
+      "x1": 593.1,
+      "y1": 165.4
+    },
     "rows": 10,
     "data": [
       "NVIDIA CORPORATION AND SUBSIDIARIES",
@@ -3311,7 +4631,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 14,
+    "table_index": 2,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p14_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 290.2,
+      "x1": 593.1,
+      "y1": 371.2
+    },
     "rows": 19,
     "data": [
       "Due in 1 - 5 years",
@@ -3336,7 +4668,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 14,
+    "table_index": 3,
+    "heading": "Amount Amortization Amount Amount Amortization Amount",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p14_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 515.7,
+      "x1": 593.1,
+      "y1": 549.4
+    },
     "rows": 14,
     "data": [
       "NN EE OA EEE EE basil Vive UW iwi | a hy iw",
@@ -3356,7 +4700,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 15,
+    "table_index": 1,
+    "heading": "Future Amortization Expense",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p15_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 121.5,
+      "x1": 593.1,
+      "y1": 209.2
+    },
     "rows": 14,
     "data": [
       "NVIDIA CORPORATION AND SUBSIDIARIES",
@@ -3376,7 +4732,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 15,
+    "table_index": 2,
+    "heading": "Inventories: (In millions)",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p15_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 359.8,
+      "x1": 593.1,
+      "y1": 404.3
+    },
     "rows": 14,
     "data": [
       "In the first half of fiscal year 2026, goodwill increased by $567 million from acquisitions and was allocated to our Compute & Networking reporting unit.",
@@ -3396,7 +4764,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 15,
+    "table_index": 3,
+    "heading": "Other Assets (Long Term): (In millions)",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p15_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 500.2,
+      "x1": 593.1,
+      "y1": 566.3
+    },
     "rows": 17,
     "data": [
       "Inventories: (In millions)",
@@ -3419,7 +4799,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 16,
+    "table_index": 1,
+    "heading": "Accrued and Other Current Liabilities: (In millions)",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p16_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 113.4,
+      "x1": 593.1,
+      "y1": 233.5
+    },
     "rows": 28,
     "data": [
       "NVIDIA CORPORATION AND SUBSIDIARIES",
@@ -3453,7 +4845,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 16,
+    "table_index": 2,
+    "heading": "Other Long-Term Liabilities: (In millions)",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p16_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 318.6,
+      "x1": 593.1,
+      "y1": 384.7
+    },
     "rows": 18,
     "data": [
       "Deferred revenue (2) 980 837",
@@ -3477,7 +4881,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 16,
+    "table_index": 3,
+    "heading": "Six Months Ended",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p16_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 492.7,
+      "x1": 593.1,
+      "y1": 538.0
+    },
     "rows": 15,
     "data": [
       "Deterred revenue (2) 1,099 Ifo",
@@ -3498,7 +4914,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 17,
+    "table_index": 2,
+    "heading": "Remaining Term Effective",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p17_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 412.4,
+      "x1": 593.1,
+      "y1": 511.0
+    },
     "rows": 18,
     "data": [
       "Not designated as accounting hedges $ 939 $ 1,297",
@@ -3522,7 +4950,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 18,
+    "table_index": 1,
+    "heading": "may result in additional costs.",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p18_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 280.8,
+      "x1": 593.2,
+      "y1": 369.2
+    },
     "rows": 18,
     "data": [
       "Note 11 - Commitments and Contingencies",
@@ -3546,7 +4986,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 18,
+    "table_index": 3,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p18_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 462.4,
+      "x1": 593.2,
+      "y1": 510.3
+    },
     "rows": 15,
     "data": [
       "2028 3,915",
@@ -3567,7 +5019,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 21,
+    "table_index": 1,
+    "heading": "Networking Graphics Total",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p21_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 121.5,
+      "x1": 592.5,
+      "y1": 334.8
+    },
     "rows": 60,
     "data": [
       "Three Months Ended Jul 27, 2025",
@@ -3633,7 +5097,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 21,
+    "table_index": 2,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p21_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 490.1,
+      "x1": 592.5,
+      "y1": 577.8
+    },
     "rows": 20,
     "data": [
       "(1) Other segment items for the Compute & Networking and Graphics reportable segments primarily include product costs and inventory provisions, compensation and benefits excluding stock-based",
@@ -3659,7 +5135,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 22,
+    "table_index": 1,
+    "heading": "Geographic Revenue based upon Customer Billing Location:",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p22_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 164.0,
+      "x1": 593.1,
+      "y1": 230.2
+    },
     "rows": 15,
     "data": [
       "NVIDIA CORPORATION AND SUBSIDIARIES",
@@ -3680,7 +5168,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 22,
+    "table_index": 2,
+    "heading": "Revenue by End Market:",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p22_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 502.9,
+      "x1": 593.1,
+      "y1": 589.3
+    },
     "rows": 19,
     "data": [
       "For the second quarter of fiscal year 2026, sales to one direct customer, Customer A, represented 23% of total revenue; and sales to a second direct customer,",
@@ -3705,7 +5205,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 23,
+    "table_index": 1,
+    "heading": "Operating Lease Obligations",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p23_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 174.2,
+      "x1": 593.2,
+      "y1": 307.1
+    },
     "rows": 31,
     "data": [
       "Notes to Condensed Consolidated Financial Statements (Continued)",
@@ -3742,7 +5254,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 23,
+    "table_index": 2,
+    "heading": "Six Months Ended",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p23_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 431.3,
+      "x1": 593.2,
+      "y1": 463.7
+    },
     "rows": 16,
     "data": [
       "Less short-term operating lease liabilities 301",
@@ -3764,7 +5288,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 25,
+    "table_index": 1,
+    "heading": "Quarter-over-Quarter Year-over-Year",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p25_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 446.2,
+      "x1": 593.4,
+      "y1": 511.0
+    },
     "rows": 19,
     "data": [
       "capabilities will depend on the domestic manufacturing ecosystem's capacity to ramp production supply to the required volume and on a timely basis.",
@@ -3789,7 +5325,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 26,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p26_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 402.3,
+      "x1": 594.0,
+      "y1": 570.4
+    },
     "rows": 25,
     "data": [
       "Financial Information by Business Segment and Geographic Data",
@@ -3820,7 +5368,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 27,
+    "table_index": 1,
+    "heading": "Change Change Change Change",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p27_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 140.4,
+      "x1": 594.0,
+      "y1": 182.2
+    },
     "rows": 12,
     "data": [
       "Revenue by Reportable Segments",
@@ -3838,7 +5398,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 27,
+    "table_index": 2,
+    "heading": "Change Change Change Change",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p27_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 259.2,
+      "x1": 594.0,
+      "y1": 301.0
+    },
     "rows": 40,
     "data": [
       "Jul 27, 2025 Jul 28, 2024",
@@ -3884,7 +5456,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 28,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p28_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 482.6,
+      "x1": 594.0,
+      "y1": 531.9
+    },
     "rows": 20,
     "data": [
       "iwewir\u2122Se sO EER NEE EE RMS MIE EEE REE EE es eee",
@@ -3910,7 +5494,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 29,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p29_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 140.4,
+      "x1": 593.1,
+      "y1": 185.0
+    },
     "rows": 13,
     "data": [
       "Total Other Income (Expense), Net",
@@ -3929,7 +5525,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 29,
+    "table_index": 2,
+    "heading": "Liquidity and Capital Resources",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p29_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 517.7,
+      "x1": 593.1,
+      "y1": 551.5
+    },
     "rows": 14,
     "data": [
       "\u2014\u2014\u2014\u2014\u2014SE ere NN eee",
@@ -3949,7 +5557,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 29,
+    "table_index": 3,
+    "heading": "Six Months Ended",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p29_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 602.8,
+      "x1": 593.1,
+      "y1": 635.2
+    },
     "rows": 20,
     "data": [
       "Refer to Note 4 of the Notes to Condensed Consolidated Financial Statements in Part |, Item 1 of this Quarterly Report on Form 10-Q for additional information.",
@@ -3975,7 +5595,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 31,
+    "table_index": 1,
+    "heading": "Outstanding Indebtedness and Commercial Paper Program",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p31_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 135.7,
+      "x1": 587.0,
+      "y1": 191.0
+    },
     "rows": 14,
     "data": [
       "Outstanding Indebtedness and Commercial Paper Program",
@@ -3995,7 +5627,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "2e217538-c226-4d05-8f74-aaca89a21b33",
+    "period": "2025",
+    "page": 38,
+    "table_index": 1,
+    "heading": "Purchased Average Price Paid Program Program",
     "image": "NVDA_2e217538-c226-4d05-8f74-aaca89a21b33_p38_t01.png",
+    "coordinates": {
+      "x0": 18.4,
+      "y0": 206.8,
+      "x1": 593.1,
+      "y1": 251.8
+    },
     "rows": 31,
     "data": [
       "We repurchased 67 million and 193 million shares of our common stock for $9.7 billion and $24.2 billion during the second quarter and first half of fiscal year",
@@ -4032,7 +5676,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 3,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p03_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 198.8,
+      "x1": 592.5,
+      "y1": 463.7
+    },
     "rows": 48,
     "data": [
       "Part I. Financial Information",
@@ -4086,7 +5742,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 4,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p04_t01.png",
+    "coordinates": {
+      "x0": 20.1,
+      "y0": 138.4,
+      "x1": 591.2,
+      "y1": 257.2
+    },
     "rows": 17,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -4109,7 +5777,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 5,
+    "table_index": 1,
+    "heading": "Condensed Consolidated Balance Sheets",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p05_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 115.1,
+      "x1": 592.5,
+      "y1": 502.9
+    },
     "rows": 66,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -4181,7 +5861,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 6,
+    "table_index": 1,
+    "heading": "Shares Amount Paid-in Capital Income (Loss) Earnings Equity",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p06_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 142.4,
+      "x1": 592.4,
+      "y1": 316.6
+    },
     "rows": 63,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -4250,7 +5942,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 7,
+    "table_index": 1,
+    "heading": "Shares Amount Capital Income (Loss) Earnings Equity",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p07_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 142.4,
+      "x1": 592.4,
+      "y1": 315.9
+    },
     "rows": 26,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -4282,7 +5986,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 8,
+    "table_index": 1,
+    "heading": "Six Months Ended",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p08_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 111.1,
+      "x1": 592.5,
+      "y1": 583.2
+    },
     "rows": 49,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -4337,7 +6053,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 10,
+    "table_index": 1,
+    "heading": "Operating Lease",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p10_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 197.1,
+      "x1": 593.2,
+      "y1": 330.1
+    },
     "rows": 20,
     "data": [
       "yeE\u2014e\u2014\u2014\u2014ere",
@@ -4363,7 +6091,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 10,
+    "table_index": 2,
+    "heading": "Six Months Ended",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p10_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 453.6,
+      "x1": 593.2,
+      "y1": 486.0
+    },
     "rows": 20,
     "data": [
       "Less short-term operating lease liabilities 250",
@@ -4389,7 +6129,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 11,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p11_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 217.4,
+      "x1": 593.1,
+      "y1": 261.9
+    },
     "rows": 13,
     "data": [
       "Note 3 - Stock-Based Compensation",
@@ -4408,7 +6160,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 11,
+    "table_index": 2,
+    "heading": "Number of Shares Value Per Share",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p11_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 349.0,
+      "x1": 593.1,
+      "y1": 404.3
+    },
     "rows": 16,
     "data": [
       "(In millions)",
@@ -4430,7 +6194,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 11,
+    "table_index": 3,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p11_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 512.3,
+      "x1": 593.1,
+      "y1": 631.8
+    },
     "rows": 23,
     "data": [
       "Grantea Bi) 62.68",
@@ -4459,7 +6235,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 12,
+    "table_index": 1,
+    "heading": "Cost Gain Loss Fair Value Cash Equivalents Securities",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p12_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 425.9,
+      "x1": 593.1,
+      "y1": 538.0
+    },
     "rows": 23,
     "data": [
       "Vnhile we believe that we have adequately provided tor all uncertain tax positions, or tax positions where we believe it iS not more-likely-tnan-not tnat the position",
@@ -4488,7 +6276,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 13,
+    "table_index": 1,
+    "heading": "Cost Gain Loss Fair Value Equivalents Securities",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p13_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 147.1,
+      "x1": 593.1,
+      "y1": 255.1
+    },
     "rows": 26,
     "data": [
       "Corporate debt securities",
@@ -4520,7 +6320,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 13,
+    "table_index": 2,
+    "heading": "Value Unrealized Loss Value Unrealized Loss Value Unrealized Loss",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p13_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 347.6,
+      "x1": 593.1,
+      "y1": 408.4
+    },
     "rows": 19,
     "data": [
       "government agencies 2,326 8 (1) 2,333 89 2,244",
@@ -4545,7 +6357,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 13,
+    "table_index": 3,
+    "heading": "Value Unrealized Loss Value Unrealized Loss Value Unrealized Loss",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p13_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 476.5,
+      "x1": 593.1,
+      "y1": 537.3
+    },
     "rows": 26,
     "data": [
       "Debt securities issued by U.S.",
@@ -4577,7 +6401,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 14,
+    "table_index": 1,
+    "heading": "Amortized Cost Value Amortized Cost Value",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p14_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 164.0,
+      "x1": 593.2,
+      "y1": 197.8
+    },
     "rows": 11,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -4594,7 +6430,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 14,
+    "table_index": 2,
+    "heading": "markets. We review fair value classification on a quarterly basis.",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p14_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 289.6,
+      "x1": 593.2,
+      "y1": 517.7
+    },
     "rows": 31,
     "data": [
       "Amortized Cost Value Amortized Cost Value",
@@ -4631,7 +6479,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 15,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p15_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 143.1,
+      "x1": 593.2,
+      "y1": 211.9
+    },
     "rows": 19,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -4656,7 +6516,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 15,
+    "table_index": 2,
+    "heading": "Amount Amortization Amount Amount Amortization Amount",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p15_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 339.5,
+      "x1": 593.2,
+      "y1": 373.3
+    },
     "rows": 14,
     "data": [
       "Impairments and unrealized losses (15) (1) (15) (14)",
@@ -4676,7 +6548,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 15,
+    "table_index": 3,
+    "heading": "Future Amortization Expense",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p15_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 455.6,
+      "x1": 593.2,
+      "y1": 543.4
+    },
     "rows": 19,
     "data": [
       "Carrying Accumulated Net Carrying Carrying Accumulated Net Carrying",
@@ -4701,7 +6585,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 16,
+    "table_index": 1,
+    "heading": "Inventories: (In millions)",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p16_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 178.2,
+      "x1": 592.4,
+      "y1": 222.8
+    },
     "rows": 14,
     "data": [
       "a\u2014\u2014\u2014\u2014_\u2014\u2014\u2014E\u2014EO\u2014\u2014SEIEHEO TET \u2014_ \u2014_\u2014\u2014 \u2014\u2014 \u2014 TOOT",
@@ -4721,7 +6617,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 16,
+    "table_index": 2,
+    "heading": "Other Assets (Long Term): (In millions)",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p16_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 277.4,
+      "x1": 592.4,
+      "y1": 343.6
+    },
     "rows": 19,
     "data": [
       "oA",
@@ -4746,7 +6654,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 16,
+    "table_index": 3,
+    "heading": "Accrued and Other Current Liabilities: (In millions)",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p16_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 390.2,
+      "x1": 592.4,
+      "y1": 510.3
+    },
     "rows": 24,
     "data": [
       "Jul 28, 2024 Jan 28, 2024",
@@ -4776,7 +6696,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 17,
+    "table_index": 1,
+    "heading": "Other Long-Term Liabilities: (In millions)",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p17_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 113.4,
+      "x1": 592.9,
+      "y1": 169.4
+    },
     "rows": 20,
     "data": [
       "Other Long-Term Liabilities:",
@@ -4802,7 +6734,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 17,
+    "table_index": 2,
+    "heading": "Six Months Ended",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p17_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 278.8,
+      "x1": 592.9,
+      "y1": 324.0
+    },
     "rows": 15,
     "data": [
       "VIEISIIeU TeVvenue (2) ffv Viv",
@@ -4823,7 +6767,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 18,
+    "table_index": 1,
+    "heading": "Remaining Term Effective",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p18_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 175.5,
+      "x1": 593.1,
+      "y1": 307.8
+    },
     "rows": 32,
     "data": [
       "Notes to Condensed Consolidated Financial Statements (Continued)",
@@ -4861,7 +6817,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 19,
+    "table_index": 1,
+    "heading": "Notes to Condensed Consolidated Financial Statements (Continued)",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p19_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 129.6,
+      "x1": 593.2,
+      "y1": 217.4
+    },
     "rows": 14,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -4881,7 +6849,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 19,
+    "table_index": 3,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p19_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 313.2,
+      "x1": 593.2,
+      "y1": 361.1
+    },
     "rows": 15,
     "data": [
       "2027 2,778",
@@ -4902,7 +6882,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 21,
+    "table_index": 1,
+    "heading": "Networking Graphics All Other Consolidated",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p21_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 362.5,
+      "x1": 593.3,
+      "y1": 532.6
+    },
     "rows": 24,
     "data": [
       "Operating results by segment include costs or expenses directly attributable to each segment, and costs or expenses that are leveraged across our unified",
@@ -4932,7 +6924,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 22,
+    "table_index": 1,
+    "heading": "Reconciling items included in \"All Other\" category:",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p22_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 135.7,
+      "x1": 593.2,
+      "y1": 191.7
+    },
     "rows": 16,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -4954,7 +6958,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 22,
+    "table_index": 2,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p22_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 290.3,
+      "x1": 593.2,
+      "y1": 357.1
+    },
     "rows": 18,
     "data": [
       "VSWR VASE LUTIVEHSAUUIT CAVPEIIOS v AT, tOt) 9 (Ore) Y \\O, 10%) 9 \\I,VlO)",
@@ -4978,7 +6994,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 22,
+    "table_index": 3,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p22_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 469.8,
+      "x1": 593.2,
+      "y1": 525.8
+    },
     "rows": 17,
     "data": [
       "China (including Hong Kong) 3,667 2,740 6,158 4,330",
@@ -5001,7 +7029,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 23,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p23_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 153.9,
+      "x1": 593.1,
+      "y1": 240.3
+    },
     "rows": 16,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -5023,7 +7063,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 26,
+    "table_index": 1,
+    "heading": "Quarter-over-Quarter Year-over-Year",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p26_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 288.2,
+      "x1": 593.4,
+      "y1": 353.0
+    },
     "rows": 19,
     "data": [
       "THanayge PIVUUULL AVAHAUMHIY GU UVoto WHIT UUE VOHUUlso.",
@@ -5048,7 +7100,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 28,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p28_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 150.3,
+      "x1": 594.0,
+      "y1": 317.9
+    },
     "rows": 20,
     "data": [
       "Results of Operations",
@@ -5074,7 +7138,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 28,
+    "table_index": 2,
+    "heading": "Change Change Change Change",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p28_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 405.0,
+      "x1": 594.0,
+      "y1": 438.7
+    },
     "rows": 16,
     "data": [
       "AV.)",
@@ -5096,7 +7172,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 28,
+    "table_index": 3,
+    "heading": "Change Change Change Change",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p28_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 513.0,
+      "x1": 594.0,
+      "y1": 557.5
+    },
     "rows": 17,
     "data": [
       "Three Months Ended",
@@ -5119,7 +7207,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 29,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p29_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 305.8,
+      "x1": 594.0,
+      "y1": 361.8
+    },
     "rows": 18,
     "data": [
       "Concentration of Revenue",
@@ -5143,7 +7243,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 30,
+    "table_index": 1,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p30_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 232.2,
+      "x1": 593.4,
+      "y1": 315.9
+    },
     "rows": 20,
     "data": [
       "gross Margin Was aN UNTavorable IMpact Of 2./ /o ANG 4.U7/o IN ThE SECONa Quarter ana ifst Nall OF MSCal Year 2UZo, TESPeclively.",
@@ -5169,7 +7281,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 30,
+    "table_index": 2,
+    "heading": "Three Months Ended Six Months Ended",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p30_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 479.9,
+      "x1": 593.4,
+      "y1": 524.5
+    },
     "rows": 15,
     "data": [
       "Tne increases in research ana development expenses tor the second quarter and first nalt of Tiscal year 2U2o were driven Dy oo% and 34% Increase In",
@@ -5190,7 +7314,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 31,
+    "table_index": 1,
+    "heading": "Liquidity and Capital Resources",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p31_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 269.3,
+      "x1": 593.1,
+      "y1": 303.1
+    },
     "rows": 14,
     "data": [
       "ee eee aes eee EE EE OO INE EME EEO PEE OM eI eee OTe ee EEE REO MAE ETO NOE METS",
@@ -5210,7 +7346,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 31,
+    "table_index": 2,
+    "heading": "Six Months Ended",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p31_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 353.7,
+      "x1": 593.1,
+      "y1": 386.1
+    },
     "rows": 19,
     "data": [
       "Refer to Note 5 of the Notes to Condensed Consolidated Financial Statements in Part I, Item 1 of this Quarterly Report on Form 10-Q for additional information.",
@@ -5235,7 +7383,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 32,
+    "table_index": 1,
+    "heading": "Outstanding Indebtedness and Commercial Paper Program",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p32_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 403.0,
+      "x1": 587.0,
+      "y1": 491.4
+    },
     "rows": 19,
     "data": [
       "August 26, 2024, our Board of Directors approved an additional $50.0 billion to our share repurchase authorization, without expiration. As of August 26, 2024, a",
@@ -5260,7 +7420,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "78501ce3-7816-4c4d-8688-53dd140df456",
+    "period": "2024",
+    "page": 40,
+    "table_index": 1,
+    "heading": "Period (In millions) per Share (In millions) (In billions)",
     "image": "NVDA_78501ce3-7816-4c4d-8688-53dd140df456_p40_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 318.4,
+      "x1": 593.3,
+      "y1": 363.8
+    },
     "rows": 25,
     "data": [
       "The repurchases can be made in the open market, in privately negotiated transactions, pursuant to a Rule 10b5-1 trading plan or in structured share repurchase",
@@ -5291,7 +7463,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 3,
+    "table_index": 1,
+    "heading": "Three Months Ended",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p03_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 198.8,
+      "x1": 592.5,
+      "y1": 463.7
+    },
     "rows": 47,
     "data": [
       "Part I. Financial Information",
@@ -5344,7 +7528,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 4,
+    "table_index": 1,
+    "heading": "Three Months Ended",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p04_t01.png",
+    "coordinates": {
+      "x0": 18.8,
+      "y0": 149.2,
+      "x1": 592.6,
+      "y1": 260.5
+    },
     "rows": 23,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -5373,7 +7569,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 5,
+    "table_index": 1,
+    "heading": "Condensed Consolidated Balance Sheets",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p05_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 126.5,
+      "x1": 592.5,
+      "y1": 521.1
+    },
     "rows": 64,
     "data": [
       "Assets",
@@ -5443,7 +7651,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 6,
+    "table_index": 1,
+    "heading": "Shares Amount Paid-in Capital Income (Loss) Earnings Equity",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p06_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 141.1,
+      "x1": 592.4,
+      "y1": 331.4
+    },
     "rows": 27,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -5476,7 +7696,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 7,
+    "table_index": 1,
+    "heading": "Three Months Ended",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p07_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 121.5,
+      "x1": 592.5,
+      "y1": 505.6
+    },
     "rows": 71,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -5553,7 +7785,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 9,
+    "table_index": 1,
+    "heading": "Three Months Ended",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p09_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 197.8,
+      "x1": 593.1,
+      "y1": 242.3
+    },
     "rows": 11,
     "data": [
       "Note 2 - Stock-Based Compensation",
@@ -5570,7 +7814,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 9,
+    "table_index": 2,
+    "heading": "Number of Shares Value Per Share",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p09_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 328.7,
+      "x1": 593.1,
+      "y1": 384.8
+    },
     "rows": 17,
     "data": [
       "aap\u2019 &@\u2019s \u2014vearwJ foe = =a",
@@ -5593,7 +7849,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 9,
+    "table_index": 3,
+    "heading": "Three Months Ended",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p09_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 492.1,
+      "x1": 593.1,
+      "y1": 605.5
+    },
     "rows": 21,
     "data": [
       "Granted 44 90",
@@ -5620,7 +7888,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 10,
+    "table_index": 1,
+    "heading": "Cost Gain Loss Fair Value Cash Equivalents Securities",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p10_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 387.4,
+      "x1": 593.1,
+      "y1": 511.0
+    },
     "rows": 23,
     "data": [
       "While we believe that we have adequately provided for all uncertain tax positions, or tax positions where we believe it is not more-likely-than-not that the position",
@@ -5649,7 +7929,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 11,
+    "table_index": 1,
+    "heading": "Cost Gain Loss Fair Value Cash Equivalents Securities",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p11_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 147.2,
+      "x1": 593.1,
+      "y1": 270.7
+    },
     "rows": 20,
     "data": [
       "NVIDIA CORPORATION AND SUBSIDIARIES",
@@ -5675,7 +7967,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 11,
+    "table_index": 2,
+    "heading": "Estimated Fair Value Gross Unrealized Loss Estimated Fair Value Gross Unrealized Loss",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p11_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 360.5,
+      "x1": 593.1,
+      "y1": 405.7
+    },
     "rows": 16,
     "data": [
       "Certificates of deposit 97 _\u2014 _\u2014 97 97 _",
@@ -5697,7 +8001,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 11,
+    "table_index": 3,
+    "heading": "Amortized Cost Value Amortized Cost Value",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p11_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 532.6,
+      "x1": 593.1,
+      "y1": 566.3
+    },
     "rows": 13,
     "data": [
       "Debt securities issued by U.S. government agencies 321 (1) 816 (5)",
@@ -5716,7 +8032,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 12,
+    "table_index": 1,
+    "heading": "review fair value classification on a quarterly basis.",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p12_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 173.5,
+      "x1": 593.2,
+      "y1": 270.7
+    },
     "rows": 18,
     "data": [
       "NVIDIA CORPORATION AND SUBSIDIARIES",
@@ -5740,7 +8068,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 12,
+    "table_index": 2,
+    "heading": "Three Months Ended",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p12_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 391.5,
+      "x1": 593.2,
+      "y1": 471.8
+    },
     "rows": 19,
     "data": [
       "Vebt securities Issued Dy U.o. government agencies Level 2 oJ",
@@ -5765,7 +8105,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 13,
+    "table_index": 1,
+    "heading": "Amount Amortization Amount Amount Amortization Amount",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p13_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 186.3,
+      "x1": 593.1,
+      "y1": 220.0
+    },
     "rows": 12,
     "data": [
       "INVITES PU VUVUNVENDQEY VUNOVEIVALT EL PNAS TAL SIAR NIEIN TO (WV UPUCU)",
@@ -5783,7 +8135,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 13,
+    "table_index": 2,
+    "heading": "Future Amortization Expense",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p13_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 284.8,
+      "x1": 593.1,
+      "y1": 372.6
+    },
     "rows": 20,
     "data": [
       "Apr 27, 2025 Jan 26, 2025",
@@ -5809,7 +8173,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 13,
+    "table_index": 3,
+    "heading": "Inventories: (In millions)",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p13_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 523.1,
+      "x1": 593.1,
+      "y1": 567.7
+    },
     "rows": 14,
     "data": [
       "In the first quarter of fiscal year 2026, goodwill increased by $310 million from acquisitions and was allocated to our Compute & Networking reporting unit.",
@@ -5829,7 +8205,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 14,
+    "table_index": 1,
+    "heading": "Other Assets (Long Term): (In millions)",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p14_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 159.3,
+      "x1": 593.1,
+      "y1": 225.4
+    },
     "rows": 14,
     "data": [
       "NVIDIA CORPORATION AND SUBSIDIARIES",
@@ -5849,7 +8237,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 14,
+    "table_index": 2,
+    "heading": "Accrued and Other Current Liabilities: (In millions)",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p14_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 277.4,
+      "x1": 593.1,
+      "y1": 398.2
+    },
     "rows": 22,
     "data": [
       "Apr 27, 2025 Jan 26, 2025",
@@ -5877,7 +8277,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 14,
+    "table_index": 3,
+    "heading": "Other Long-Term Liabilities: (In millions)",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p14_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 490.0,
+      "x1": 593.1,
+      "y1": 556.2
+    },
     "rows": 18,
     "data": [
       "Unsettled share repurchases 306 132",
@@ -5901,7 +8313,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 15,
+    "table_index": 1,
+    "heading": "Three Months Ended",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p15_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 159.3,
+      "x1": 593.2,
+      "y1": 203.9
+    },
     "rows": 12,
     "data": [
       "NVIDIA CORPORATION AND SUBSIDIARIES",
@@ -5919,7 +8343,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 16,
+    "table_index": 1,
+    "heading": "Remaining Term Effective",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p16_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 175.5,
+      "x1": 593.1,
+      "y1": 274.7
+    },
     "rows": 17,
     "data": [
       "NVIDIA CDURPURALTIOUN AND SUDOIVIARIES",
@@ -5942,7 +8378,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 17,
+    "table_index": 1,
+    "heading": "Purchase Commitments",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p17_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 129.6,
+      "x1": 593.2,
+      "y1": 217.4
+    },
     "rows": 21,
     "data": [
       "NVIDIA CORPORATION AND SUBSIDIARIES",
@@ -5969,7 +8417,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 17,
+    "table_index": 2,
+    "heading": "Three Months Ended",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p17_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 310.5,
+      "x1": 593.2,
+      "y1": 358.4
+    },
     "rows": 15,
     "data": [
       "2028 3,110",
@@ -5990,7 +8450,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 19,
+    "table_index": 1,
+    "heading": "Networking Graphics All Other Consolidated",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p19_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 301.1,
+      "x1": 593.2,
+      "y1": 401.0
+    },
     "rows": 20,
     "data": [
       "The Graphics segment includes GeForce GPUs for gaming and PCs, the GeForce NOW game streaming service and related infrastructure, and solutions for",
@@ -6016,7 +8488,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 19,
+    "table_index": 2,
+    "heading": "Reconciling items included in \"All Other\" category:",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p19_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 529.2,
+      "x1": 593.2,
+      "y1": 585.2
+    },
     "rows": 17,
     "data": [
       "Other segment items (1) 5,628 2,128",
@@ -6039,7 +8523,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 20,
+    "table_index": 1,
+    "heading": "Geographic Revenue based upon Customer Billing Location:",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p20_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 164.0,
+      "x1": 593.1,
+      "y1": 230.2
+    },
     "rows": 15,
     "data": [
       "NVIDIA CORPORATION AND SUBSIDIARIES",
@@ -6060,7 +8556,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 20,
+    "table_index": 2,
+    "heading": "Revenue by End Market:",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p20_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 475.2,
+      "x1": 593.1,
+      "y1": 561.6
+    },
     "rows": 20,
     "data": [
       "We refer to customers who purchase products directly from NVIDIA as direct customers, such as add-in board manufacturers, distributors, ODMs, OEMs, and",
@@ -6086,7 +8594,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 21,
+    "table_index": 1,
+    "heading": "Operating Lease Obligations",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p21_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 119.5,
+      "x1": 593.2,
+      "y1": 252.4
+    },
     "rows": 28,
     "data": [
       "Notes to Condensed Consolidated Financial Statements (Continued)",
@@ -6120,7 +8640,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 21,
+    "table_index": 2,
+    "heading": "Three Months Ended",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p21_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 376.6,
+      "x1": 593.2,
+      "y1": 409.0
+    },
     "rows": 16,
     "data": [
       "Less short-term operating lease liabilities 300",
@@ -6142,7 +8674,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 23,
+    "table_index": 1,
+    "heading": "Quarter-over-Quarter Year-over-Year",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p23_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 518.4,
+      "x1": 593.4,
+      "y1": 583.2
+    },
     "rows": 18,
     "data": [
       "capabilities will depend on the domestic manufacturing ecosystem's capacity to ramp production supply to the required volume and ona timely basis.",
@@ -6166,7 +8710,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 25,
+    "table_index": 1,
+    "heading": "Three Months Ended",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p25_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 150.5,
+      "x1": 594.0,
+      "y1": 318.6
+    },
     "rows": 20,
     "data": [
       "Results of Operations",
@@ -6192,7 +8748,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 25,
+    "table_index": 2,
+    "heading": "Three Months Ended",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p25_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 392.8,
+      "x1": 594.0,
+      "y1": 427.3
+    },
     "rows": 26,
     "data": [
       "Interest income",
@@ -6224,7 +8792,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 25,
+    "table_index": 3,
+    "heading": "Three Months Ended",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p25_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 504.2,
+      "x1": 594.0,
+      "y1": 548.8
+    },
     "rows": 17,
     "data": [
       "bavew Eee Eee",
@@ -6247,7 +8827,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 27,
+    "table_index": 1,
+    "heading": "Three Months Ended",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p27_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 140.4,
+      "x1": 593.3,
+      "y1": 182.2
+    },
     "rows": 9,
     "data": [
       "Operating Expenses",
@@ -6262,7 +8854,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 27,
+    "table_index": 2,
+    "heading": "Three Months Ended",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p27_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 320.6,
+      "x1": 593.3,
+      "y1": 365.2
+    },
     "rows": 15,
     "data": [
       "Total operating expenses $ 5,030 $ 3,497 $ 1,533 44%",
@@ -6283,7 +8887,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 28,
+    "table_index": 1,
+    "heading": "Liquidity and Capital Resources",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p28_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 124.2,
+      "x1": 593.1,
+      "y1": 158.6
+    },
     "rows": 6,
     "data": [
       "Liquidity and Capital Resources",
@@ -6295,7 +8911,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 28,
+    "table_index": 2,
+    "heading": "Three Months Ended",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p28_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 209.2,
+      "x1": 593.1,
+      "y1": 241.6
+    },
     "rows": 18,
     "data": [
       "Liquidity and Capital Resources",
@@ -6319,7 +8947,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 29,
+    "table_index": 1,
+    "heading": "Outstanding Indebtedness and Commercial Paper Program",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p29_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 163.4,
+      "x1": 587.0,
+      "y1": 218.7
+    },
     "rows": 11,
     "data": [
       "The U.S. Inflation Reduction Act of 2022 requires a 1% excise tax on certain share repurchases in excess of shares issued for employee compensation made",
@@ -6336,7 +8976,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 36,
+    "table_index": 1,
+    "heading": "Purchased Average Price Paid Program Program",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p36_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 545.2,
+      "x1": 593.3,
+      "y1": 590.6
+    },
     "rows": 17,
     "data": [
       "ee ee eee eee ee ee ee ee ne eee ee eT ee ee ee ee ee TE NN OE re JV Ve aM evew)",
@@ -6359,7 +9011,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 37,
+    "table_index": 1,
+    "heading": "Common Stock to be",
     "image": "NVDA_b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26_p37_t01.png",
+    "coordinates": {
+      "x0": 18.7,
+      "y0": 357.5,
+      "x1": 593.5,
+      "y1": 406.4
+    },
     "rows": 16,
     "data": [
       "based on our closing stock price on the acquisition date. The shares will be issued in installments commencing in fiscal year 2026 and through fiscal year 2030.",
@@ -6381,7 +9045,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 3,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p03_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 198.8,
+      "x1": 592.5,
+      "y1": 463.7
+    },
     "rows": 48,
     "data": [
       "Part I. Financial Information",
@@ -6435,7 +9111,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 4,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p04_t01.png",
+    "coordinates": {
+      "x0": 20.1,
+      "y0": 149.2,
+      "x1": 591.2,
+      "y1": 268.0
+    },
     "rows": 17,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -6458,7 +9146,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 5,
+    "table_index": 1,
+    "heading": "Condensed Consolidated Balance Sheets",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p05_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 125.9,
+      "x1": 592.5,
+      "y1": 531.9
+    },
     "rows": 39,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -6503,7 +9203,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 6,
+    "table_index": 1,
+    "heading": "Shares Amount Paid-in Capital Income (Loss) Earnings Equity",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p06_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 151.2,
+      "x1": 592.4,
+      "y1": 324.7
+    },
     "rows": 26,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -6535,7 +9247,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 7,
+    "table_index": 1,
+    "heading": "Shares Amount Capital Income (Loss) Earnings Equity",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p07_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 150.5,
+      "x1": 592.4,
+      "y1": 324.7
+    },
     "rows": 26,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -6567,7 +9291,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 8,
+    "table_index": 1,
+    "heading": "Nine Months Ended",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p08_t01.png",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 122.2,
+      "x1": 592.5,
+      "y1": 559.6
+    },
     "rows": 80,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -6653,7 +9389,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 10,
+    "table_index": 1,
+    "heading": "Operating Lease",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p10_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 273.4,
+      "x1": 593.2,
+      "y1": 405.7
+    },
     "rows": 21,
     "data": [
       "employee compensation, depreciation and intangible asset amortization included within each income statement expense caption, as applicable. We expect to",
@@ -6680,7 +9428,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 10,
+    "table_index": 2,
+    "heading": "Nine Months Ended",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p10_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 529.9,
+      "x1": 593.2,
+      "y1": 562.3
+    },
     "rows": 20,
     "data": [
       "Less short-term operating lease liabilities 273",
@@ -6706,7 +9466,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 11,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p11_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 125.5,
+      "x1": 593.1,
+      "y1": 170.1
+    },
     "rows": 14,
     "data": [
       "Cost of revenue",
@@ -6726,7 +9498,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 11,
+    "table_index": 2,
+    "heading": "Number of Shares Value Per Share",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p11_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 256.5,
+      "x1": 593.1,
+      "y1": 312.5
+    },
     "rows": 45,
     "data": [
       "wwe &f; aves ww ws",
@@ -6777,7 +9561,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 11,
+    "table_index": 3,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p11_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 420.5,
+      "x1": 593.1,
+      "y1": 532.6
+    },
     "rows": 22,
     "data": [
       "Granted oD 04./U",
@@ -6805,7 +9601,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 12,
+    "table_index": 1,
+    "heading": "Cost Gain Loss Fair Value Cash Equivalents Securities",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p12_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 360.5,
+      "x1": 593.1,
+      "y1": 472.5
+    },
     "rows": 31,
     "data": [
       "Vnhile we believe that we have adequately provided tor all uncertain tax positions, or tax positions where we believe it iS not more-likely-tnan-not tnat the position",
@@ -6842,7 +9650,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 13,
+    "table_index": 1,
+    "heading": "Cost Gain Loss Fair Value Equivalents Securities",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p13_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 147.1,
+      "x1": 593.1,
+      "y1": 247.0
+    },
     "rows": 17,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -6865,7 +9685,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 13,
+    "table_index": 2,
+    "heading": "Value Unrealized Loss Value Unrealized Loss Value Unrealized Loss",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p13_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 339.5,
+      "x1": 593.1,
+      "y1": 400.3
+    },
     "rows": 19,
     "data": [
       "Debt securities issued by U.S.",
@@ -6890,7 +9722,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 13,
+    "table_index": 3,
+    "heading": "Value Unrealized Loss Value Unrealized Loss Value Unrealized Loss",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p13_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 468.4,
+      "x1": 593.1,
+      "y1": 529.2
+    },
     "rows": 19,
     "data": [
       "Value Unrealized Loss Value Unrealizea LOSS Value Unrealizea Loss",
@@ -6915,7 +9759,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 14,
+    "table_index": 1,
+    "heading": "Amortized Cost Value Amortized Cost Value",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p14_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 164.7,
+      "x1": 593.2,
+      "y1": 197.8
+    },
     "rows": 11,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -6932,7 +9788,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 14,
+    "table_index": 2,
+    "heading": "markets. We review fair value classification on a quarterly basis.",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p14_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 289.6,
+      "x1": 593.2,
+      "y1": 518.4
+    },
     "rows": 31,
     "data": [
       "Amortized Cost Value Amortized Cost Value",
@@ -6969,7 +9837,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 15,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p15_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 152.6,
+      "x1": 593.2,
+      "y1": 221.4
+    },
     "rows": 14,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -6989,7 +9869,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 15,
+    "table_index": 2,
+    "heading": "Amount Amortization Amount Amount Amortization Amount",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p15_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 349.0,
+      "x1": 593.2,
+      "y1": 383.4
+    },
     "rows": 14,
     "data": [
       "Impairments and unrealized losses (14) (1) (29) (15)",
@@ -7009,7 +9901,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 15,
+    "table_index": 3,
+    "heading": "Future Amortization Expense",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p15_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 465.8,
+      "x1": 593.2,
+      "y1": 553.5
+    },
     "rows": 19,
     "data": [
       "Carrying Accumulated Net Carrying Carrying Accumulated Net Carrying",
@@ -7034,7 +9938,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 16,
+    "table_index": 1,
+    "heading": "Inventories: (In millions)",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p16_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 202.5,
+      "x1": 592.4,
+      "y1": 247.1
+    },
     "rows": 13,
     "data": [
       "Note 9 - Balance Sheet Components",
@@ -7053,7 +9969,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 16,
+    "table_index": 2,
+    "heading": "Other Assets (Long Term): (In millions)",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p16_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 301.7,
+      "x1": 592.4,
+      "y1": 367.9
+    },
     "rows": 18,
     "data": [
       "Certain balance sheet components are as follows:",
@@ -7077,7 +10005,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 16,
+    "table_index": 3,
+    "heading": "Accrued and Other Current Liabilities: (In millions)",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p16_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 406.4,
+      "x1": 592.4,
+      "y1": 526.5
+    },
     "rows": 25,
     "data": [
       "ee ee",
@@ -7108,7 +10048,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 17,
+    "table_index": 1,
+    "heading": "Other Long-Term Liabilities: (In millions)",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p17_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 113.4,
+      "x1": 592.9,
+      "y1": 169.4
+    },
     "rows": 26,
     "data": [
       "Other Long-Term Liabilities:",
@@ -7140,7 +10092,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 17,
+    "table_index": 2,
+    "heading": "Nine Months Ended",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p17_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 278.8,
+      "x1": 592.9,
+      "y1": 324.0
+    },
     "rows": 15,
     "data": [
       "VIEISIIeU TeVvenue (2) Ovv Viv",
@@ -7161,7 +10125,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 18,
+    "table_index": 1,
+    "heading": "Remaining Term Effective",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p18_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 221.4,
+      "x1": 593.1,
+      "y1": 353.7
+    },
     "rows": 21,
     "data": [
       "As of October 27, 2024, all designated foreign currency contracts mature within 18 months and any unrealized gains and losses were not significant.",
@@ -7188,7 +10164,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 19,
+    "table_index": 1,
+    "heading": "Notes to Condensed Consolidated Financial Statements (Continued)",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p19_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 128.9,
+      "x1": 593.2,
+      "y1": 217.4
+    },
     "rows": 21,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -7215,7 +10203,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 19,
+    "table_index": 3,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p19_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 313.2,
+      "x1": 593.2,
+      "y1": 361.1
+    },
     "rows": 15,
     "data": [
       "2027 3,381",
@@ -7236,7 +10236,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 21,
+    "table_index": 1,
+    "heading": "Networking Graphics All Other Consolidated",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p21_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 307.8,
+      "x1": 593.2,
+      "y1": 477.9
+    },
     "rows": 24,
     "data": [
       "Operating results by segment include costs or expenses directly attributable to each segment, and costs or expenses that are leveraged across our unified",
@@ -7266,7 +10278,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 21,
+    "table_index": 2,
+    "heading": "Reconciling items included in \"All Other\" category:",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p21_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 539.3,
+      "x1": 593.2,
+      "y1": 594.7
+    },
     "rows": 15,
     "data": [
       "Nine Months Ended Oct 27, 2024",
@@ -7287,7 +10311,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 22,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p22_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 173.5,
+      "x1": 593.3,
+      "y1": 239.6
+    },
     "rows": 16,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -7309,7 +10345,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 22,
+    "table_index": 2,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p22_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 352.7,
+      "x1": 593.3,
+      "y1": 397.6
+    },
     "rows": 17,
     "data": [
       "*",
@@ -7332,7 +10380,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 23,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p23_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 153.9,
+      "x1": 593.1,
+      "y1": 239.6
+    },
     "rows": 16,
     "data": [
       "NVIDIA Corporation and Subsidiaries",
@@ -7354,7 +10414,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 26,
+    "table_index": 1,
+    "heading": "Quarter-over-Quarter Year-over-Year",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p26_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 305.8,
+      "x1": 593.4,
+      "y1": 370.6
+    },
     "rows": 19,
     "data": [
       "THanayge PIVUUULL AVAHAUMHIY GU UVoto WHIT UUE VOHUUlso.",
@@ -7379,7 +10451,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 27,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p27_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 256.7,
+      "x1": 594.0,
+      "y1": 425.2
+    },
     "rows": 25,
     "data": [
       "Financial Information by Business Segment and Geographic Data",
@@ -7410,7 +10494,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 27,
+    "table_index": 2,
+    "heading": "Change Change Change Change",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p27_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 511.6,
+      "x1": 594.0,
+      "y1": 545.4
+    },
     "rows": 25,
     "data": [
       "HIE To ot CAVETION",
@@ -7441,7 +10537,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 28,
+    "table_index": 1,
+    "heading": "Change Change Change Change",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p28_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 140.4,
+      "x1": 594.0,
+      "y1": 184.9
+    },
     "rows": 19,
     "data": [
       "Operating Income by Reportable Segments",
@@ -7466,7 +10574,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 28,
+    "table_index": 2,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p28_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 498.0,
+      "x1": 594.0,
+      "y1": 543.4
+    },
     "rows": 17,
     "data": [
       "Concentration of Revenue",
@@ -7489,7 +10609,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 29,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p29_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 349.7,
+      "x1": 594.0,
+      "y1": 433.4
+    },
     "rows": 21,
     "data": [
       "PPUVISIUIS TOP HIVOTRULY GH CAULGCSS HIVEIRULY PUIUILIASG UMITQAUUIIS WULAIGU YOU THN GNI QL.2 VNU TOL TIS CT QUEL! AIM TOL THIS PUES UE Houdl yoal",
@@ -7516,7 +10648,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 30,
+    "table_index": 1,
+    "heading": "Three Months Ended Nine Months Ended",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p30_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 140.4,
+      "x1": 593.1,
+      "y1": 185.0
+    },
     "rows": 9,
     "data": [
       "Other Income (Expense), Net",
@@ -7531,7 +10675,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 30,
+    "table_index": 2,
+    "heading": "Liquidity and Capital Resources",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p30_t02.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 480.6,
+      "x1": 593.1,
+      "y1": 514.4
+    },
     "rows": 15,
     "data": [
       "ee eee nee ne eee eee ee ene ee eee ie eee ee NN IIIA SAIN NEN ESD NA NA INE IIIA IM Me INDENT",
@@ -7552,7 +10708,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 30,
+    "table_index": 3,
+    "heading": "Nine Months Ended",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p30_t03.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 565.7,
+      "x1": 593.1,
+      "y1": 598.1
+    },
     "rows": 19,
     "data": [
       "Refer to Note 5 of the Notes to Condensed Consolidated Financial Statements in Part I, Item 1 of this Quarterly Report on Form 10-Q for additional information.",
@@ -7577,7 +10745,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 32,
+    "table_index": 1,
+    "heading": "Outstanding Indebtedness and Commercial Paper Program",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p32_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 138.4,
+      "x1": 587.0,
+      "y1": 205.2
+    },
     "rows": 10,
     "data": [
       "Outstanding Indebtedness and Commercial Paper Program",
@@ -7593,7 +10773,19 @@
     ]
   },
   {
+    "company": "NVDA",
+    "report": "ed2a395c-5e9b-4411-8b4a-a718d192155a",
+    "period": "2024",
+    "page": 40,
+    "table_index": 1,
+    "heading": "Purchased Average Price Paid Program Program",
     "image": "NVDA_ed2a395c-5e9b-4411-8b4a-a718d192155a_p40_t01.png",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 142.2,
+      "x1": 593.3,
+      "y1": 187.7
+    },
     "rows": 11,
     "data": [
       "The following table presents details of our share repurchase transactions during the third quarter of fiscal year 2025:",

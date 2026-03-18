@@ -1,0 +1,3938 @@
+[
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 3,
+    "table_index": 1,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 198.8,
+      "x1": 592.5,
+      "y1": 463.7
+    },
+    "rows": 23,
+    "columns": 5,
+    "data": [
+      [
+        "Revenue",
+        "$",
+        "44,062",
+        "$",
+        "26,044"
+      ],
+      [
+        "Cost of revenue",
+        "17,394",
+        "",
+        "5,638",
+        ""
+      ],
+      [
+        "Gross profit",
+        "26,668",
+        "",
+        "20,406",
+        ""
+      ],
+      [
+        "Operating expenses",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Research and development",
+        "3,989",
+        "",
+        "2,720",
+        ""
+      ],
+      [
+        "Sales, general and administrative",
+        "1,041",
+        "",
+        "777",
+        ""
+      ],
+      [
+        "Total operating expenses",
+        "5,030",
+        "",
+        "3,497",
+        ""
+      ],
+      [
+        "Operating income",
+        "21,638",
+        "",
+        "16,909",
+        ""
+      ],
+      [
+        "Interest income",
+        "515",
+        "",
+        "359",
+        ""
+      ],
+      [
+        "Interest expense",
+        "(63)",
+        "",
+        "(64)",
+        ""
+      ],
+      [
+        "Other income (expense), net",
+        "(180)",
+        "",
+        "75",
+        ""
+      ],
+      [
+        "Total other income (expense), net",
+        "272",
+        "",
+        "370",
+        ""
+      ],
+      [
+        "Income before income tax",
+        "21,910",
+        "",
+        "17,279",
+        ""
+      ],
+      [
+        "Income tax expense",
+        "3,135",
+        "",
+        "2,398",
+        ""
+      ],
+      [
+        "Net income",
+        "$",
+        "18,775",
+        "$",
+        "14,881"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net income per share:",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Basic",
+        "$",
+        "0.77",
+        "$",
+        "0.60"
+      ],
+      [
+        "Diluted",
+        "$",
+        "0.76",
+        "$",
+        "0.60"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Weighted average shares used in per share computation:",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Basic",
+        "24,441",
+        "",
+        "24,620",
+        ""
+      ],
+      [
+        "Diluted",
+        "24,611",
+        "",
+        "24,890",
+        ""
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 4,
+    "table_index": 1,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 18.8,
+      "y0": 149.2,
+      "x1": 592.6,
+      "y1": 260.5
+    },
+    "rows": 10,
+    "columns": 5,
+    "data": [
+      [
+        "Net income",
+        "$",
+        "18,775",
+        "$",
+        "14,881"
+      ],
+      [
+        "Other comprehensive income (loss), net of tax",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Available-for-sale securities:",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net change in unrealized gain (loss)",
+        "139",
+        "",
+        "(128)",
+        ""
+      ],
+      [
+        "Cash flow hedges:",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net change in unrealized gain (loss)",
+        "23",
+        "",
+        "(4)",
+        ""
+      ],
+      [
+        "Reclassification adjustments for net realized loss included in net income",
+        "(4)",
+        "",
+        "(4)",
+        ""
+      ],
+      [
+        "Net change in unrealized gain (loss)",
+        "19",
+        "",
+        "(8)",
+        ""
+      ],
+      [
+        "Other comprehensive income (loss), net of tax",
+        "158",
+        "",
+        "(136)",
+        ""
+      ],
+      [
+        "Total comprehensive income",
+        "$",
+        "18,933",
+        "$",
+        "14,745"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 5,
+    "table_index": 1,
+    "heading": "Condensed Consolidated Balance Sheets",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 126.5,
+      "x1": 592.5,
+      "y1": 521.1
+    },
+    "rows": 34,
+    "columns": 5,
+    "data": [
+      [
+        "Assets",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Current assets:",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Cash and cash equivalents",
+        "$",
+        "15,234",
+        "$",
+        "8,589"
+      ],
+      [
+        "Marketable securities",
+        "38,457",
+        "",
+        "34,621",
+        ""
+      ],
+      [
+        "Accounts receivable, net",
+        "22,132",
+        "",
+        "23,065",
+        ""
+      ],
+      [
+        "Inventories",
+        "11,333",
+        "",
+        "10,080",
+        ""
+      ],
+      [
+        "Prepaid expenses and other current assets",
+        "2,779",
+        "",
+        "3,771",
+        ""
+      ],
+      [
+        "Total current assets",
+        "89,935",
+        "",
+        "80,126",
+        ""
+      ],
+      [
+        "Property and equipment, net",
+        "7,136",
+        "",
+        "6,283",
+        ""
+      ],
+      [
+        "Operating lease assets",
+        "1,810",
+        "",
+        "1,793",
+        ""
+      ],
+      [
+        "Goodwill",
+        "5,498",
+        "",
+        "5,188",
+        ""
+      ],
+      [
+        "Intangible assets, net",
+        "769",
+        "",
+        "807",
+        ""
+      ],
+      [
+        "Deferred income tax assets",
+        "13,318",
+        "",
+        "10,979",
+        ""
+      ],
+      [
+        "Other assets",
+        "6,788",
+        "",
+        "6,425",
+        ""
+      ],
+      [
+        "Total assets",
+        "$",
+        "125,254",
+        "$",
+        "111,601"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Liabilities and Shareholders' Equity",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Current liabilities:",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Accounts payable",
+        "$",
+        "7,331",
+        "$",
+        "6,310"
+      ],
+      [
+        "Accrued and other current liabilities",
+        "19,211",
+        "",
+        "11,737",
+        ""
+      ],
+      [
+        "Total current liabilities",
+        "26,542",
+        "",
+        "18,047",
+        ""
+      ],
+      [
+        "Long-term debt",
+        "8,464",
+        "",
+        "8,463",
+        ""
+      ],
+      [
+        "Long-term operating lease liabilities",
+        "1,521",
+        "",
+        "1,519",
+        ""
+      ],
+      [
+        "Other long-term liabilities",
+        "4,884",
+        "",
+        "4,245",
+        ""
+      ],
+      [
+        "Total liabilities",
+        "41,411",
+        "",
+        "32,274",
+        ""
+      ],
+      [
+        "Commitments and contingencies - see Note 11",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Shareholders\u2019 equity:",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Preferred stock",
+        "\u2014",
+        "",
+        "\u2014",
+        ""
+      ],
+      [
+        "Common stock",
+        "24",
+        "",
+        "24",
+        ""
+      ],
+      [
+        "Additional paid-in capital",
+        "11,475",
+        "",
+        "11,237",
+        ""
+      ],
+      [
+        "Accumulated other comprehensive income",
+        "186",
+        "",
+        "28",
+        ""
+      ],
+      [
+        "Retained earnings",
+        "72,158",
+        "",
+        "68,038",
+        ""
+      ],
+      [
+        "Total shareholders' equity",
+        "83,843",
+        "",
+        "79,327",
+        ""
+      ],
+      [
+        "Total liabilities and shareholders' equity",
+        "$",
+        "125,254",
+        "$",
+        "111,601"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 6,
+    "table_index": 1,
+    "heading": "Shares Amount Paid-in Capital Income (Loss) Earnings Equity",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 141.1,
+      "x1": 592.4,
+      "y1": 331.4
+    },
+    "rows": 19,
+    "columns": 13,
+    "data": [
+      [
+        "Balances as of Jan 26, 2025",
+        "24,477",
+        "",
+        "$",
+        "24",
+        "$",
+        "11,237",
+        "$",
+        "28",
+        "$",
+        "68,038",
+        "$",
+        "79,327"
+      ],
+      [
+        "Net income",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "18,775",
+        "",
+        "18,775",
+        ""
+      ],
+      [
+        "Other comprehensive income",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "158",
+        "",
+        "\u2014",
+        "",
+        "158",
+        ""
+      ],
+      [
+        "Issuance of common stock from stock plans",
+        "50",
+        "",
+        "\u2014",
+        "",
+        "370",
+        "",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "370",
+        ""
+      ],
+      [
+        "Tax withholding related to common stock from stock plans",
+        "(13)",
+        "",
+        "\u2014",
+        "",
+        "(1,532)",
+        "",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "(1,532)",
+        ""
+      ],
+      [
+        "Shares repurchased",
+        "(126)",
+        "",
+        "\u2014",
+        "",
+        "(92)",
+        "",
+        "\u2014",
+        "",
+        "(14,411)",
+        "",
+        "(14,503)",
+        ""
+      ],
+      [
+        "Cash dividends declared and paid ($0.01 per common share)",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "(244)",
+        "",
+        "(244)",
+        ""
+      ],
+      [
+        "Fair value of partially vested equity awards assumed in connection with\nacquisitions",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "22",
+        "",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "22",
+        ""
+      ],
+      [
+        "Stock-based compensation",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "1,470",
+        "",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "1,470",
+        ""
+      ],
+      [
+        "Balances as of Apr 27, 2025",
+        "24,388",
+        "",
+        "$",
+        "24",
+        "$",
+        "11,475",
+        "$",
+        "186",
+        "$",
+        "72,158",
+        "$",
+        "83,843"
+      ],
+      [
+        "Balances as of Jan 28, 2024",
+        "24,643",
+        "",
+        "$",
+        "25",
+        "$",
+        "13,109",
+        "$",
+        "27",
+        "$",
+        "29,817",
+        "$",
+        "42,978"
+      ],
+      [
+        "Net income",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "14,881",
+        "",
+        "14,881",
+        ""
+      ],
+      [
+        "Other comprehensive loss",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "(136)",
+        "",
+        "\u2014",
+        "",
+        "(136)",
+        ""
+      ],
+      [
+        "Issuance of common stock from stock plans",
+        "73",
+        "",
+        "\u2014",
+        "",
+        "285",
+        "",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "285",
+        ""
+      ],
+      [
+        "Tax withholding related to common stock from stock plans",
+        "(19)",
+        "",
+        "\u2014",
+        "",
+        "(1,752)",
+        "",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "(1,752)",
+        ""
+      ],
+      [
+        "Shares repurchased",
+        "(99)",
+        "",
+        "\u2014",
+        "",
+        "(33)",
+        "",
+        "\u2014",
+        "",
+        "(8,002)",
+        "",
+        "(8,035)",
+        ""
+      ],
+      [
+        "Cash dividends declared and paid ($0.004 per common share)",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "(98)",
+        "",
+        "(98)",
+        ""
+      ],
+      [
+        "Stock-based compensation",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "1,019",
+        "",
+        "\u2014",
+        "",
+        "\u2014",
+        "",
+        "1,019",
+        ""
+      ],
+      [
+        "Balances as of Apr 28, 2024",
+        "24,598",
+        "",
+        "$",
+        "25",
+        "$",
+        "12,628",
+        "$",
+        "(109)",
+        "$",
+        "36,598",
+        "$",
+        "49,142"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 7,
+    "table_index": 1,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 18.9,
+      "y0": 121.5,
+      "x1": 592.5,
+      "y1": 505.6
+    },
+    "rows": 35,
+    "columns": 6,
+    "data": [
+      [
+        "Cash flows from operating activities:",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net income",
+        "$",
+        "18,775",
+        "",
+        "$",
+        "14,881"
+      ],
+      [
+        "Adjustments to reconcile net income to net cash provided by operating activities:",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Stock-based compensation expense",
+        "1,474",
+        "",
+        "",
+        "1,011",
+        ""
+      ],
+      [
+        "Depreciation and amortization",
+        "611",
+        "",
+        "",
+        "410",
+        ""
+      ],
+      [
+        "(Gains) losses on non-marketable equity securities and publicly-held equity securities, net",
+        "175",
+        "",
+        "",
+        "(69)",
+        ""
+      ],
+      [
+        "Deferred income taxes",
+        "(2,177)",
+        "",
+        "",
+        "(1,577)",
+        ""
+      ],
+      [
+        "Other",
+        "(98)",
+        "",
+        "",
+        "(145)",
+        ""
+      ],
+      [
+        "Changes in operating assets and liabilities, net of acquisitions:",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Accounts receivable",
+        "933",
+        "",
+        "",
+        "(2,366)",
+        ""
+      ],
+      [
+        "Inventories",
+        "(1,258)",
+        "",
+        "",
+        "(577)",
+        ""
+      ],
+      [
+        "Prepaid expenses and other assets",
+        "560",
+        "",
+        "",
+        "(726)",
+        ""
+      ],
+      [
+        "Accounts payable",
+        "941",
+        "",
+        "",
+        "(22)",
+        ""
+      ],
+      [
+        "Accrued and other current liabilities",
+        "7,128",
+        "",
+        "",
+        "4,202",
+        ""
+      ],
+      [
+        "Other long-term liabilities",
+        "350",
+        "",
+        "",
+        "323",
+        ""
+      ],
+      [
+        "Net cash provided by operating activities",
+        "27,414",
+        "",
+        "",
+        "15,345",
+        ""
+      ],
+      [
+        "Cash flows from investing activities:",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Proceeds from maturities of marketable securities",
+        "3,122",
+        "",
+        "",
+        "4,004",
+        ""
+      ],
+      [
+        "Proceeds from sales of marketable securities",
+        "467",
+        "",
+        "",
+        "149",
+        ""
+      ],
+      [
+        "Proceeds from sales of non-marketable equity securities",
+        "\u2014",
+        "",
+        "",
+        "55",
+        ""
+      ],
+      [
+        "Purchases of marketable securities",
+        "(6,546)",
+        "",
+        "",
+        "(9,303)",
+        ""
+      ],
+      [
+        "Purchases related to property and equipment and intangible assets",
+        "(1,227)",
+        "",
+        "",
+        "(369)",
+        ""
+      ],
+      [
+        "Purchases of non-marketable equity securities",
+        "(649)",
+        "",
+        "",
+        "(190)",
+        ""
+      ],
+      [
+        "Acquisitions, net of cash acquired",
+        "(383)",
+        "",
+        "",
+        "(39)",
+        ""
+      ],
+      [
+        "Net cash used in investing activities",
+        "(5,216)",
+        "",
+        "",
+        "(5,693)",
+        ""
+      ],
+      [
+        "Cash flows from financing activities:",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Proceeds related to employee stock plans",
+        "370",
+        "",
+        "",
+        "285",
+        ""
+      ],
+      [
+        "Payments related to repurchases of common stock",
+        "(14,095)",
+        "",
+        "",
+        "(7,740)",
+        ""
+      ],
+      [
+        "Payments related to employee stock plan taxes",
+        "(1,532)",
+        "",
+        "",
+        "(1,752)",
+        ""
+      ],
+      [
+        "Dividends paid",
+        "(244)",
+        "",
+        "",
+        "(98)",
+        ""
+      ],
+      [
+        "Principal payments on property and equipment and intangible assets",
+        "(52)",
+        "",
+        "",
+        "(40)",
+        ""
+      ],
+      [
+        "Net cash used in financing activities",
+        "(15,553)",
+        "",
+        "",
+        "(9,345)",
+        ""
+      ],
+      [
+        "Change in cash and cash equivalents",
+        "6,645",
+        "",
+        "",
+        "307",
+        ""
+      ],
+      [
+        "Cash and cash equivalents at beginning of period",
+        "8,589",
+        "",
+        "",
+        "7,280",
+        ""
+      ],
+      [
+        "Cash and cash equivalents at end of period",
+        "$",
+        "15,234",
+        "",
+        "$",
+        "7,587"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 9,
+    "table_index": 1,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 197.8,
+      "x1": 593.1,
+      "y1": 242.3
+    },
+    "rows": 4,
+    "columns": 6,
+    "data": [
+      [
+        "Cost of revenue",
+        "$",
+        "64",
+        "",
+        "$",
+        "36"
+      ],
+      [
+        "Research and development",
+        "1,063",
+        "",
+        "",
+        "727",
+        ""
+      ],
+      [
+        "Sales, general and administrative",
+        "347",
+        "",
+        "",
+        "248",
+        ""
+      ],
+      [
+        "Total",
+        "$",
+        "1,474",
+        "",
+        "$",
+        "1,011"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 9,
+    "table_index": 2,
+    "heading": "Number of Shares Value Per Share",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 328.7,
+      "x1": 593.1,
+      "y1": 384.8
+    },
+    "rows": 5,
+    "columns": 4,
+    "data": [
+      [
+        "Balance as of Jan 26, 2025",
+        "274",
+        "$",
+        "44.75"
+      ],
+      [
+        "Granted",
+        "44",
+        "$",
+        "106.43"
+      ],
+      [
+        "Vested",
+        "(39)",
+        "$",
+        "32.98"
+      ],
+      [
+        "Canceled and forfeited",
+        "(2)",
+        "$",
+        "48.26"
+      ],
+      [
+        "Balance as of Apr 27, 2025",
+        "277",
+        "$",
+        "56.32"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 9,
+    "table_index": 3,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 492.1,
+      "x1": 593.1,
+      "y1": 605.5
+    },
+    "rows": 10,
+    "columns": 6,
+    "data": [
+      [
+        "Numerator:",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net income",
+        "$",
+        "18,775",
+        "",
+        "$",
+        "14,881"
+      ],
+      [
+        "Denominator:",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Basic weighted average shares",
+        "24,441",
+        "",
+        "",
+        "24,620",
+        ""
+      ],
+      [
+        "Dilutive impact of outstanding equity awards",
+        "170",
+        "",
+        "",
+        "270",
+        ""
+      ],
+      [
+        "Diluted weighted average shares",
+        "24,611",
+        "",
+        "",
+        "24,890",
+        ""
+      ],
+      [
+        "Net income per share:",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Basic (1)",
+        "$",
+        "0.77",
+        "",
+        "$",
+        "0.60"
+      ],
+      [
+        "Diluted (2)",
+        "$",
+        "0.76",
+        "",
+        "$",
+        "0.60"
+      ],
+      [
+        "Anti-dilutive equity awards excluded from diluted net income per share",
+        "62",
+        "",
+        "",
+        "60",
+        ""
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 10,
+    "table_index": 1,
+    "heading": "Cost Gain Loss Fair Value Cash Equivalents Securities",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 387.4,
+      "x1": 593.1,
+      "y1": 511.0
+    },
+    "rows": 9,
+    "columns": 18,
+    "data": [
+      [
+        "Debt securities issued by the U.S. Treasury",
+        "$",
+        "23,135",
+        "",
+        "$",
+        "120",
+        "",
+        "$",
+        "(4)",
+        "",
+        "$",
+        "23,251",
+        "",
+        "$",
+        "5,414",
+        "",
+        "$",
+        "17,837"
+      ],
+      [
+        "Corporate debt securities",
+        "19,976",
+        "",
+        "",
+        "85",
+        "",
+        "",
+        "(10)",
+        "",
+        "",
+        "20,051",
+        "",
+        "",
+        "2,868",
+        "",
+        "",
+        "17,183",
+        ""
+      ],
+      [
+        "Money market funds",
+        "6,522",
+        "",
+        "",
+        "\u2014",
+        "",
+        "",
+        "\u2014",
+        "",
+        "",
+        "6,522",
+        "",
+        "",
+        "6,522",
+        "",
+        "",
+        "\u2014",
+        ""
+      ],
+      [
+        "Debt securities issued by U.S. government\nagencies",
+        "2,134",
+        "",
+        "",
+        "12",
+        "",
+        "",
+        "(1)",
+        "",
+        "",
+        "2,145",
+        "",
+        "",
+        "\u2014",
+        "",
+        "",
+        "2,145",
+        ""
+      ],
+      [
+        "Certificates of deposit",
+        "126",
+        "",
+        "",
+        "\u2014",
+        "",
+        "",
+        "\u2014",
+        "",
+        "",
+        "126",
+        "",
+        "",
+        "126",
+        "",
+        "",
+        "\u2014",
+        ""
+      ],
+      [
+        "Foreign government bonds",
+        "40",
+        "",
+        "",
+        "1",
+        "",
+        "",
+        "\u2014",
+        "",
+        "",
+        "41",
+        "",
+        "",
+        "\u2014",
+        "",
+        "",
+        "41",
+        ""
+      ],
+      [
+        "Total debt securities with fair value\nadjustments recorded in other comprehensive\nincome",
+        "51,933",
+        "",
+        "",
+        "218",
+        "",
+        "",
+        "(15)",
+        "",
+        "",
+        "52,136",
+        "",
+        "",
+        "14,930",
+        "",
+        "",
+        "37,206",
+        ""
+      ],
+      [
+        "Publicly-held equity securities (1)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "1,251",
+        "",
+        "",
+        "\u2014",
+        "",
+        "",
+        "1,251",
+        ""
+      ],
+      [
+        "Total",
+        "$",
+        "51,933",
+        "",
+        "$",
+        "218",
+        "",
+        "$",
+        "(15)",
+        "",
+        "$",
+        "53,387",
+        "",
+        "$",
+        "14,930",
+        "",
+        "$",
+        "38,457"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 11,
+    "table_index": 1,
+    "heading": "Cost Gain Loss Fair Value Cash Equivalents Securities",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 147.2,
+      "x1": 593.1,
+      "y1": 270.7
+    },
+    "rows": 9,
+    "columns": 17,
+    "data": [
+      [
+        "Corporate debt securities",
+        "$",
+        "18,504",
+        "",
+        "$",
+        "51",
+        "",
+        "$",
+        "(29)",
+        "",
+        "$",
+        "18,526",
+        "",
+        "$",
+        "2,071",
+        "$",
+        "16,455"
+      ],
+      [
+        "Debt securities issued by the U.S. Treasury",
+        "16,749",
+        "",
+        "",
+        "42",
+        "",
+        "",
+        "(22)",
+        "",
+        "",
+        "16,769",
+        "",
+        "",
+        "1,801",
+        "",
+        "14,968",
+        ""
+      ],
+      [
+        "Money market funds",
+        "3,760",
+        "",
+        "",
+        "\u2014",
+        "",
+        "",
+        "\u2014",
+        "",
+        "",
+        "3,760",
+        "",
+        "",
+        "3,760",
+        "",
+        "\u2014",
+        ""
+      ],
+      [
+        "Debt securities issued by U.S. government\nagencies",
+        "2,775",
+        "",
+        "",
+        "7",
+        "",
+        "",
+        "(5)",
+        "",
+        "",
+        "2,777",
+        "",
+        "",
+        "\u2014",
+        "",
+        "2,777",
+        ""
+      ],
+      [
+        "Foreign government bonds",
+        "177",
+        "",
+        "",
+        "\u2014",
+        "",
+        "",
+        "\u2014",
+        "",
+        "",
+        "177",
+        "",
+        "",
+        "137",
+        "",
+        "40",
+        ""
+      ],
+      [
+        "Certificates of deposit",
+        "97",
+        "",
+        "",
+        "\u2014",
+        "",
+        "",
+        "\u2014",
+        "",
+        "",
+        "97",
+        "",
+        "",
+        "97",
+        "",
+        "\u2014",
+        ""
+      ],
+      [
+        "Total debt securities with fair value\nadjustments recorded in other comprehensive\nincome",
+        "42,062",
+        "",
+        "",
+        "100",
+        "",
+        "",
+        "(56)",
+        "",
+        "",
+        "42,106",
+        "",
+        "",
+        "7,866",
+        "",
+        "34,240",
+        ""
+      ],
+      [
+        "Publicly-held equity securities",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "381",
+        "",
+        "",
+        "\u2014",
+        "",
+        "381",
+        ""
+      ],
+      [
+        "Total",
+        "$",
+        "42,062",
+        "",
+        "$",
+        "100",
+        "",
+        "$",
+        "(56)",
+        "",
+        "$",
+        "42,487",
+        "",
+        "$",
+        "7,866",
+        "$",
+        "34,621"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 11,
+    "table_index": 2,
+    "heading": "Estimated Fair Value Gross Unrealized Loss Estimated Fair Value Gross Unrealized Loss",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 360.5,
+      "x1": 593.1,
+      "y1": 405.7
+    },
+    "rows": 4,
+    "columns": 10,
+    "data": [
+      [
+        "Debt securities issued by the U.S. Treasury",
+        "$",
+        "6,854",
+        "$",
+        "(4)",
+        "",
+        "$",
+        "6,315",
+        "$",
+        "(22)"
+      ],
+      [
+        "Corporate debt securities",
+        "2,775",
+        "",
+        "(10)",
+        "",
+        "",
+        "5,291",
+        "",
+        "(29)",
+        ""
+      ],
+      [
+        "Debt securities issued by U.S. government agencies",
+        "321",
+        "",
+        "(1)",
+        "",
+        "",
+        "816",
+        "",
+        "(5)",
+        ""
+      ],
+      [
+        "Total",
+        "$",
+        "9,950",
+        "$",
+        "(15)",
+        "",
+        "$",
+        "12,422",
+        "$",
+        "(56)"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 11,
+    "table_index": 3,
+    "heading": "Amortized Cost Value Amortized Cost Value",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 532.6,
+      "x1": 593.1,
+      "y1": 566.3
+    },
+    "rows": 3,
+    "columns": 10,
+    "data": [
+      [
+        "Less than one year",
+        "$",
+        "25,756",
+        "",
+        "$",
+        "25,781",
+        "",
+        "$",
+        "18,426",
+        "$ 18,450"
+      ],
+      [
+        "Due in 1 - 5 years",
+        "26,177",
+        "",
+        "",
+        "26,355",
+        "",
+        "",
+        "23,636",
+        "",
+        "23,656"
+      ],
+      [
+        "Total",
+        "$",
+        "51,933",
+        "",
+        "$",
+        "52,136",
+        "",
+        "$",
+        "42,062",
+        "$ 42,106"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 12,
+    "table_index": 1,
+    "heading": "review fair value classification on a quarterly basis.",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 173.5,
+      "x1": 593.2,
+      "y1": 270.7
+    },
+    "rows": 9,
+    "columns": 8,
+    "data": [
+      [
+        "Assets",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Cash equivalents and marketable securities:",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Money market funds",
+        "Level 1",
+        "",
+        "$",
+        "6,522",
+        "",
+        "$",
+        "3,760"
+      ],
+      [
+        "Publicly-held equity securities",
+        "Level 1",
+        "",
+        "$",
+        "1,251",
+        "",
+        "$",
+        "381"
+      ],
+      [
+        "Debt securities issued by the U.S. Treasury",
+        "Level 2",
+        "",
+        "$",
+        "23,251",
+        "",
+        "$",
+        "16,769"
+      ],
+      [
+        "Corporate debt securities",
+        "Level 2",
+        "",
+        "$",
+        "20,051",
+        "",
+        "$",
+        "18,526"
+      ],
+      [
+        "Debt securities issued by U.S. government agencies",
+        "Level 2",
+        "",
+        "$",
+        "2,145",
+        "",
+        "$",
+        "2,777"
+      ],
+      [
+        "Certificates of deposit",
+        "Level 2",
+        "",
+        "$",
+        "126",
+        "",
+        "$",
+        "97"
+      ],
+      [
+        "Foreign government bonds",
+        "Level 2",
+        "",
+        "$",
+        "41",
+        "",
+        "$",
+        "177"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 12,
+    "table_index": 2,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 391.5,
+      "x1": 593.2,
+      "y1": 471.8
+    },
+    "rows": 7,
+    "columns": 5,
+    "data": [
+      [
+        "Balance at beginning of period",
+        "$",
+        "3,387",
+        "",
+        "$ 1,321"
+      ],
+      [
+        "Adjustments related to non-marketable equity securities:",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Net additions",
+        "649",
+        "",
+        "",
+        "127"
+      ],
+      [
+        "Unrealized gains",
+        "63",
+        "",
+        "",
+        "15"
+      ],
+      [
+        "Reclassification (1)",
+        "(843)",
+        "",
+        "",
+        "\u2014"
+      ],
+      [
+        "Impairments and unrealized losses",
+        "(16)",
+        "",
+        "",
+        "\u2014"
+      ],
+      [
+        "Balance at end of period",
+        "$",
+        "3,240",
+        "",
+        "$ 1,463"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 13,
+    "table_index": 1,
+    "heading": "Amount Amortization Amount Amount Amortization Amount",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 186.3,
+      "x1": 593.1,
+      "y1": 220.0
+    },
+    "rows": 3,
+    "columns": 18,
+    "data": [
+      [
+        "Acquisition-related intangible assets",
+        "$",
+        "3,008",
+        "",
+        "$",
+        "(2,416)",
+        "",
+        "$",
+        "592",
+        "",
+        "$",
+        "2,900",
+        "",
+        "$",
+        "(2,264)",
+        "",
+        "$",
+        "636"
+      ],
+      [
+        "Patents and licensed technology",
+        "459",
+        "",
+        "",
+        "(282)",
+        "",
+        "",
+        "177",
+        "",
+        "",
+        "449",
+        "",
+        "",
+        "(278)",
+        "",
+        "",
+        "171",
+        ""
+      ],
+      [
+        "Total intangible assets",
+        "$",
+        "3,467",
+        "",
+        "$",
+        "(2,698)",
+        "",
+        "$",
+        "769",
+        "",
+        "$",
+        "3,349",
+        "",
+        "$",
+        "(2,542)",
+        "",
+        "$",
+        "807"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 13,
+    "table_index": 2,
+    "heading": "Future Amortization Expense",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 284.8,
+      "x1": 593.1,
+      "y1": 372.6
+    },
+    "rows": 8,
+    "columns": 3,
+    "data": [
+      [
+        "Fiscal Year:",
+        "",
+        ""
+      ],
+      [
+        "2026 (excluding the first quarter of fiscal year 2026)",
+        "$",
+        "229"
+      ],
+      [
+        "2027",
+        "276",
+        ""
+      ],
+      [
+        "2028",
+        "123",
+        ""
+      ],
+      [
+        "2029",
+        "38",
+        ""
+      ],
+      [
+        "2030",
+        "11",
+        ""
+      ],
+      [
+        "2031 and thereafter",
+        "92",
+        ""
+      ],
+      [
+        "Total",
+        "$",
+        "769"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 13,
+    "table_index": 3,
+    "heading": "Inventories: (In millions)",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 523.1,
+      "x1": 593.1,
+      "y1": 567.7
+    },
+    "rows": 4,
+    "columns": 6,
+    "data": [
+      [
+        "Raw materials",
+        "$",
+        "2,525",
+        "",
+        "$",
+        "3,408"
+      ],
+      [
+        "Work in process",
+        "5,339",
+        "",
+        "",
+        "3,399",
+        ""
+      ],
+      [
+        "Finished goods",
+        "3,469",
+        "",
+        "",
+        "3,273",
+        ""
+      ],
+      [
+        "Total inventories (1)",
+        "$",
+        "11,333",
+        "",
+        "$",
+        "10,080"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 14,
+    "table_index": 1,
+    "heading": "Other Assets (Long Term): (In millions)",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 159.3,
+      "x1": 593.1,
+      "y1": 225.4
+    },
+    "rows": 6,
+    "columns": 6,
+    "data": [
+      [
+        "Non-marketable equity securities",
+        "$",
+        "3,240",
+        "",
+        "$",
+        "3,387"
+      ],
+      [
+        "Prepaid supply and capacity agreements (1)",
+        "2,079",
+        "",
+        "",
+        "1,747",
+        ""
+      ],
+      [
+        "Income tax receivable",
+        "895",
+        "",
+        "",
+        "750",
+        ""
+      ],
+      [
+        "Prepaid royalties",
+        "334",
+        "",
+        "",
+        "340",
+        ""
+      ],
+      [
+        "Other",
+        "240",
+        "",
+        "",
+        "201",
+        ""
+      ],
+      [
+        "Total other assets",
+        "$",
+        "6,788",
+        "",
+        "$",
+        "6,425"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 14,
+    "table_index": 2,
+    "heading": "Accrued and Other Current Liabilities: (In millions)",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 277.4,
+      "x1": 593.1,
+      "y1": 398.2
+    },
+    "rows": 11,
+    "columns": 6,
+    "data": [
+      [
+        "Taxes payable",
+        "$",
+        "5,672",
+        "",
+        "$",
+        "881"
+      ],
+      [
+        "Excess inventory purchase obligations (1)",
+        "4,310",
+        "",
+        "",
+        "2,095",
+        ""
+      ],
+      [
+        "Customer program accruals",
+        "4,261",
+        "",
+        "",
+        "4,880",
+        ""
+      ],
+      [
+        "Product warranty and return provisions",
+        "2,168",
+        "",
+        "",
+        "1,373",
+        ""
+      ],
+      [
+        "Deferred revenue (2)",
+        "1,074",
+        "",
+        "",
+        "837",
+        ""
+      ],
+      [
+        "Accrued payroll and related expenses",
+        "748",
+        "",
+        "",
+        "848",
+        ""
+      ],
+      [
+        "Unsettled share repurchases",
+        "306",
+        "",
+        "",
+        "132",
+        ""
+      ],
+      [
+        "Operating leases",
+        "300",
+        "",
+        "",
+        "288",
+        ""
+      ],
+      [
+        "Licenses and royalties",
+        "144",
+        "",
+        "",
+        "175",
+        ""
+      ],
+      [
+        "Other",
+        "228",
+        "",
+        "",
+        "228",
+        ""
+      ],
+      [
+        "Total accrued and other current liabilities",
+        "$",
+        "19,211",
+        "",
+        "$",
+        "11,737"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 14,
+    "table_index": 3,
+    "heading": "Other Long-Term Liabilities: (In millions)",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 490.0,
+      "x1": 593.1,
+      "y1": 556.2
+    },
+    "rows": 6,
+    "columns": 6,
+    "data": [
+      [
+        "Income tax payable (1)",
+        "$",
+        "2,509",
+        "",
+        "$",
+        "2,188"
+      ],
+      [
+        "Deferred income tax",
+        "1,082",
+        "",
+        "",
+        "886",
+        ""
+      ],
+      [
+        "Deferred revenue (2)",
+        "1,004",
+        "",
+        "",
+        "976",
+        ""
+      ],
+      [
+        "Licenses payable",
+        "112",
+        "",
+        "",
+        "116",
+        ""
+      ],
+      [
+        "Other",
+        "177",
+        "",
+        "",
+        "79",
+        ""
+      ],
+      [
+        "Total other long-term liabilities",
+        "$",
+        "4,884",
+        "",
+        "$",
+        "4,245"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 15,
+    "table_index": 1,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 159.3,
+      "x1": 593.2,
+      "y1": 203.9
+    },
+    "rows": 4,
+    "columns": 6,
+    "data": [
+      [
+        "Balance at beginning of period",
+        "$",
+        "1,813",
+        "",
+        "$",
+        "1,337"
+      ],
+      [
+        "Deferred revenue additions (1)",
+        "6,493",
+        "",
+        "",
+        "553",
+        ""
+      ],
+      [
+        "Revenue recognized (2)",
+        "(6,228)",
+        "",
+        "",
+        "(341)",
+        ""
+      ],
+      [
+        "Balance at end of period",
+        "$",
+        "2,078",
+        "",
+        "$",
+        "1,549"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 16,
+    "table_index": 1,
+    "heading": "Remaining Term Effective",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 175.5,
+      "x1": 593.1,
+      "y1": 274.7
+    },
+    "rows": 9,
+    "columns": 11,
+    "data": [
+      [
+        "3.20% Notes Due 2026",
+        "",
+        "1.4",
+        "",
+        "3.31%",
+        "",
+        "$",
+        "1,000",
+        "",
+        "$",
+        "1,000"
+      ],
+      [
+        "1.55% Notes Due 2028",
+        "",
+        "3.1",
+        "",
+        "1.64%",
+        "",
+        "1,250",
+        "",
+        "",
+        "1,250",
+        ""
+      ],
+      [
+        "2.85% Notes Due 2030",
+        "",
+        "4.9",
+        "",
+        "2.93%",
+        "",
+        "1,500",
+        "",
+        "",
+        "1,500",
+        ""
+      ],
+      [
+        "2.00% Notes Due 2031",
+        "",
+        "6.1",
+        "",
+        "2.09%",
+        "",
+        "1,250",
+        "",
+        "",
+        "1,250",
+        ""
+      ],
+      [
+        "3.50% Notes Due 2040",
+        "",
+        "14.9",
+        "",
+        "3.54%",
+        "",
+        "1,000",
+        "",
+        "",
+        "1,000",
+        ""
+      ],
+      [
+        "3.50% Notes Due 2050",
+        "",
+        "24.9",
+        "",
+        "3.54%",
+        "",
+        "2,000",
+        "",
+        "",
+        "2,000",
+        ""
+      ],
+      [
+        "3.70% Notes Due 2060",
+        "",
+        "35.0",
+        "",
+        "3.73%",
+        "",
+        "500",
+        "",
+        "",
+        "500",
+        ""
+      ],
+      [
+        "Unamortized debt discount and issuance costs",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "(36)",
+        "",
+        "",
+        "(37)",
+        ""
+      ],
+      [
+        "Net long-term carrying amount",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "$",
+        "8,464",
+        "",
+        "$",
+        "8,463"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 17,
+    "table_index": 1,
+    "heading": "Purchase Commitments",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 129.6,
+      "x1": 593.2,
+      "y1": 217.4
+    },
+    "rows": 8,
+    "columns": 3,
+    "data": [
+      [
+        "Fiscal Year:",
+        "",
+        ""
+      ],
+      [
+        "2026 (excluding the first quarter of fiscal year 2026)",
+        "$",
+        "31,445"
+      ],
+      [
+        "2027",
+        "5,923",
+        ""
+      ],
+      [
+        "2028",
+        "3,110",
+        ""
+      ],
+      [
+        "2029",
+        "2,072",
+        ""
+      ],
+      [
+        "2030",
+        "752",
+        ""
+      ],
+      [
+        "2031 and thereafter",
+        "218",
+        ""
+      ],
+      [
+        "Total",
+        "$",
+        "43,520"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 17,
+    "table_index": 2,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 310.5,
+      "x1": 593.2,
+      "y1": 358.4
+    },
+    "rows": 4,
+    "columns": 5,
+    "data": [
+      [
+        "Balance at beginning of period",
+        "$",
+        "1,290",
+        "$",
+        "306"
+      ],
+      [
+        "Additions",
+        "870",
+        "",
+        "234",
+        ""
+      ],
+      [
+        "Utilization",
+        "(80)",
+        "",
+        "(8)",
+        ""
+      ],
+      [
+        "Balance at end of period",
+        "$",
+        "2,080",
+        "$",
+        "532"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 19,
+    "table_index": 1,
+    "heading": "Networking Graphics All Other Consolidated",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 301.1,
+      "x1": 593.2,
+      "y1": 401.0
+    },
+    "rows": 9,
+    "columns": 12,
+    "data": [
+      [
+        "Three Months Ended Apr 27, 2025",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Revenue",
+        "$",
+        "39,589",
+        "",
+        "$",
+        "4,473",
+        "",
+        "$",
+        "\u2014",
+        "",
+        "$",
+        "44,062"
+      ],
+      [
+        "Other segment items (1)",
+        "17,535",
+        "",
+        "",
+        "2,833",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Operating income (loss)",
+        "$",
+        "22,054",
+        "",
+        "$",
+        "1,640",
+        "",
+        "$",
+        "(2,056)",
+        "",
+        "$",
+        "21,638"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Three Months Ended Apr 28, 2024",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Revenue",
+        "$",
+        "22,675",
+        "",
+        "$",
+        "3,369",
+        "",
+        "$",
+        "\u2014",
+        "",
+        "$",
+        "26,044"
+      ],
+      [
+        "Other segment items (1)",
+        "5,628",
+        "",
+        "",
+        "2,128",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Operating income (loss)",
+        "$",
+        "17,047",
+        "",
+        "$",
+        "1,241",
+        "",
+        "$",
+        "(1,379)",
+        "",
+        "$",
+        "16,909"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 19,
+    "table_index": 2,
+    "heading": "Reconciling items included in \"All Other\" category:",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 529.2,
+      "x1": 593.2,
+      "y1": 585.2
+    },
+    "rows": 5,
+    "columns": 6,
+    "data": [
+      [
+        "Stock-based compensation expense",
+        "$",
+        "(1,474)",
+        "",
+        "$",
+        "(1,011)"
+      ],
+      [
+        "Unallocated cost of revenue and operating expenses",
+        "(419)",
+        "",
+        "",
+        "(229)",
+        ""
+      ],
+      [
+        "Acquisition-related and other costs",
+        "(160)",
+        "",
+        "",
+        "(140)",
+        ""
+      ],
+      [
+        "Other",
+        "(3)",
+        "",
+        "",
+        "1",
+        ""
+      ],
+      [
+        "Total",
+        "$",
+        "(2,056)",
+        "",
+        "$",
+        "(1,379)"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 20,
+    "table_index": 1,
+    "heading": "Geographic Revenue based upon Customer Billing Location:",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 164.0,
+      "x1": 593.1,
+      "y1": 230.2
+    },
+    "rows": 6,
+    "columns": 5,
+    "data": [
+      [
+        "United States",
+        "$",
+        "20,739",
+        "$",
+        "13,496"
+      ],
+      [
+        "Singapore (1)",
+        "9,017",
+        "",
+        "4,037",
+        ""
+      ],
+      [
+        "Taiwan",
+        "7,158",
+        "",
+        "4,373",
+        ""
+      ],
+      [
+        "China (including Hong Kong)",
+        "5,522",
+        "",
+        "2,491",
+        ""
+      ],
+      [
+        "Other",
+        "1,626",
+        "",
+        "1,647",
+        ""
+      ],
+      [
+        "Total revenue",
+        "$",
+        "44,062",
+        "$",
+        "26,044"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 20,
+    "table_index": 2,
+    "heading": "Revenue by End Market:",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 475.2,
+      "x1": 593.1,
+      "y1": 561.6
+    },
+    "rows": 8,
+    "columns": 5,
+    "data": [
+      [
+        "Data Center",
+        "$",
+        "39,112",
+        "$",
+        "22,563"
+      ],
+      [
+        "Compute",
+        "34,155",
+        "",
+        "19,392",
+        ""
+      ],
+      [
+        "Networking",
+        "4,957",
+        "",
+        "3,171",
+        ""
+      ],
+      [
+        "Gaming",
+        "3,763",
+        "",
+        "2,647",
+        ""
+      ],
+      [
+        "Professional Visualization",
+        "509",
+        "",
+        "427",
+        ""
+      ],
+      [
+        "Automotive",
+        "567",
+        "",
+        "329",
+        ""
+      ],
+      [
+        "OEM and Other",
+        "111",
+        "",
+        "78",
+        ""
+      ],
+      [
+        "Total revenue",
+        "$",
+        "44,062",
+        "$",
+        "26,044"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 21,
+    "table_index": 1,
+    "heading": "Operating Lease Obligations",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 119.5,
+      "x1": 593.2,
+      "y1": 252.4
+    },
+    "rows": 12,
+    "columns": 3,
+    "data": [
+      [
+        "Fiscal Year:",
+        "",
+        ""
+      ],
+      [
+        "2026 (excluding the first quarter of fiscal year 2026)",
+        "$",
+        "274"
+      ],
+      [
+        "2027",
+        "346",
+        ""
+      ],
+      [
+        "2028",
+        "349",
+        ""
+      ],
+      [
+        "2029",
+        "308",
+        ""
+      ],
+      [
+        "2030",
+        "233",
+        ""
+      ],
+      [
+        "2031 and thereafter",
+        "611",
+        ""
+      ],
+      [
+        "Total",
+        "2,121",
+        ""
+      ],
+      [
+        "Less imputed interest",
+        "300",
+        ""
+      ],
+      [
+        "Present value of net future minimum lease payments",
+        "1,821",
+        ""
+      ],
+      [
+        "Less short-term operating lease liabilities",
+        "300",
+        ""
+      ],
+      [
+        "Long-term operating lease liabilities",
+        "$",
+        "1,521"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 21,
+    "table_index": 2,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 376.6,
+      "x1": 593.2,
+      "y1": 409.0
+    },
+    "rows": 3,
+    "columns": 6,
+    "data": [
+      [
+        "Supplemental cash flows information",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Operating cash flow used for operating leases",
+        "$",
+        "96",
+        "",
+        "$",
+        "69"
+      ],
+      [
+        "Operating lease assets obtained in exchange for lease obligations",
+        "$",
+        "98",
+        "",
+        "$",
+        "250"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 23,
+    "table_index": 1,
+    "heading": "Quarter-over-Quarter Year-over-Year",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 518.4,
+      "x1": 593.4,
+      "y1": 583.2
+    },
+    "rows": 6,
+    "columns": 17,
+    "data": [
+      [
+        "Revenue",
+        "$",
+        "44,062",
+        "",
+        "$",
+        "39,331",
+        "",
+        "",
+        "$",
+        "26,044",
+        "",
+        "",
+        "12",
+        "%",
+        "",
+        "69",
+        "%"
+      ],
+      [
+        "Gross margin",
+        "60.5",
+        "",
+        "%",
+        "73.0",
+        "",
+        "%",
+        "",
+        "78.4",
+        "",
+        "%",
+        "",
+        "(12.5)",
+        "pts",
+        "",
+        "(17.9)",
+        "pts"
+      ],
+      [
+        "Operating expenses",
+        "$",
+        "5,030",
+        "",
+        "$",
+        "4,689",
+        "",
+        "",
+        "$",
+        "3,497",
+        "",
+        "",
+        "7",
+        "%",
+        "",
+        "44",
+        "%"
+      ],
+      [
+        "Operating income",
+        "$",
+        "21,638",
+        "",
+        "$",
+        "24,034",
+        "",
+        "",
+        "$",
+        "16,909",
+        "",
+        "",
+        "(10)",
+        "%",
+        "",
+        "28",
+        "%"
+      ],
+      [
+        "Net income",
+        "$",
+        "18,775",
+        "",
+        "$",
+        "22,091",
+        "",
+        "",
+        "$",
+        "14,881",
+        "",
+        "",
+        "(15)",
+        "%",
+        "",
+        "26",
+        "%"
+      ],
+      [
+        "Net income per diluted share",
+        "$",
+        "0.76",
+        "",
+        "$",
+        "0.89",
+        "",
+        "",
+        "$",
+        "0.60",
+        "",
+        "",
+        "(15)",
+        "%",
+        "",
+        "27",
+        "%"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 25,
+    "table_index": 1,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 150.5,
+      "x1": 594.0,
+      "y1": 318.6
+    },
+    "rows": 15,
+    "columns": 6,
+    "data": [
+      [
+        "Revenue",
+        "100.0",
+        "%",
+        "",
+        "100.0",
+        "%"
+      ],
+      [
+        "Cost of revenue",
+        "39.5",
+        "",
+        "",
+        "21.6",
+        ""
+      ],
+      [
+        "Gross profit",
+        "60.5",
+        "",
+        "",
+        "78.4",
+        ""
+      ],
+      [
+        "Operating expenses",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Research and development",
+        "9.1",
+        "",
+        "",
+        "10.4",
+        ""
+      ],
+      [
+        "Sales, general and administrative",
+        "2.4",
+        "",
+        "",
+        "3.0",
+        ""
+      ],
+      [
+        "Total operating expenses",
+        "11.5",
+        "",
+        "",
+        "13.4",
+        ""
+      ],
+      [
+        "Operating income",
+        "49.0",
+        "",
+        "",
+        "65.0",
+        ""
+      ],
+      [
+        "Interest income",
+        "1.2",
+        "",
+        "",
+        "1.4",
+        ""
+      ],
+      [
+        "Interest expense",
+        "(0.1)",
+        "",
+        "",
+        "(0.2)",
+        ""
+      ],
+      [
+        "Other income (expense), net",
+        "(0.4)",
+        "",
+        "",
+        "0.3",
+        ""
+      ],
+      [
+        "Total other income (expense), net",
+        "0.7",
+        "",
+        "",
+        "1.5",
+        ""
+      ],
+      [
+        "Income before income tax",
+        "49.7",
+        "",
+        "",
+        "66.5",
+        ""
+      ],
+      [
+        "Income tax expense",
+        "7.1",
+        "",
+        "",
+        "9.2",
+        ""
+      ],
+      [
+        "Net income",
+        "42.6",
+        "%",
+        "",
+        "57.3",
+        "%"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 25,
+    "table_index": 2,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 392.8,
+      "x1": 594.0,
+      "y1": 427.3
+    },
+    "rows": 3,
+    "columns": 11,
+    "data": [
+      [
+        "Compute & Networking",
+        "$",
+        "39,589",
+        "$",
+        "22,675",
+        "",
+        "$",
+        "16,914",
+        "",
+        "75",
+        "%"
+      ],
+      [
+        "Graphics",
+        "4,473",
+        "",
+        "3,369",
+        "",
+        "",
+        "1,104",
+        "",
+        "",
+        "33",
+        "%"
+      ],
+      [
+        "Total",
+        "$",
+        "44,062",
+        "$",
+        "26,044",
+        "",
+        "$",
+        "18,018",
+        "",
+        "69",
+        "%"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 25,
+    "table_index": 3,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 504.2,
+      "x1": 594.0,
+      "y1": 548.8
+    },
+    "rows": 4,
+    "columns": 11,
+    "data": [
+      [
+        "Compute & Networking",
+        "$",
+        "22,054",
+        "$",
+        "17,047",
+        "",
+        "$",
+        "5,007",
+        "",
+        "29",
+        "%"
+      ],
+      [
+        "Graphics",
+        "1,640",
+        "",
+        "1,241",
+        "",
+        "",
+        "399",
+        "",
+        "",
+        "32",
+        "%"
+      ],
+      [
+        "All Other",
+        "(2,056)",
+        "",
+        "(1,379)",
+        "",
+        "",
+        "(677)",
+        "",
+        "",
+        "49",
+        "%"
+      ],
+      [
+        "Total",
+        "$",
+        "21,638",
+        "$",
+        "16,909",
+        "",
+        "$",
+        "4,729",
+        "",
+        "28",
+        "%"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 27,
+    "table_index": 1,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 140.4,
+      "x1": 593.3,
+      "y1": 182.2
+    },
+    "rows": 3,
+    "columns": 9,
+    "data": [
+      [
+        "Research and development expenses",
+        "$",
+        "3,989",
+        "$",
+        "2,720",
+        "$",
+        "1,269",
+        "47",
+        "%"
+      ],
+      [
+        "Sales, general and administrative\nexpenses",
+        "1,041",
+        "",
+        "777",
+        "",
+        "264",
+        "",
+        "34",
+        "%"
+      ],
+      [
+        "Total operating expenses",
+        "$",
+        "5,030",
+        "$",
+        "3,497",
+        "$",
+        "1,533",
+        "44",
+        "%"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 27,
+    "table_index": 2,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 320.6,
+      "x1": 593.3,
+      "y1": 365.2
+    },
+    "rows": 4,
+    "columns": 8,
+    "data": [
+      [
+        "Interest income",
+        "$",
+        "515",
+        "",
+        "$",
+        "359",
+        "$",
+        "156"
+      ],
+      [
+        "Interest expense",
+        "(63)",
+        "",
+        "",
+        "(64)",
+        "",
+        "1",
+        ""
+      ],
+      [
+        "Other income (expense), net",
+        "(180)",
+        "",
+        "",
+        "75",
+        "",
+        "(255)",
+        ""
+      ],
+      [
+        "Total other income (expense), net",
+        "$",
+        "272",
+        "",
+        "$",
+        "370",
+        "$",
+        "(98)"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 28,
+    "table_index": 1,
+    "heading": "Liquidity and Capital Resources",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 124.2,
+      "x1": 593.1,
+      "y1": 158.6
+    },
+    "rows": 3,
+    "columns": 6,
+    "data": [
+      [
+        "Cash and cash equivalents",
+        "$",
+        "15,234",
+        "",
+        "$",
+        "8,589"
+      ],
+      [
+        "Marketable securities",
+        "38,457",
+        "",
+        "",
+        "34,621",
+        ""
+      ],
+      [
+        "Cash, cash equivalents and marketable securities",
+        "$",
+        "53,691",
+        "",
+        "$",
+        "43,210"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 28,
+    "table_index": 2,
+    "heading": "Three Months Ended",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 209.2,
+      "x1": 593.1,
+      "y1": 241.6
+    },
+    "rows": 3,
+    "columns": 6,
+    "data": [
+      [
+        "Net cash provided by operating activities",
+        "$",
+        "27,414",
+        "",
+        "$",
+        "15,345"
+      ],
+      [
+        "Net cash used in investing activities",
+        "$",
+        "(5,216)",
+        "",
+        "$",
+        "(5,693)"
+      ],
+      [
+        "Net cash used in financing activities",
+        "$",
+        "(15,553)",
+        "",
+        "$",
+        "(9,345)"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 29,
+    "table_index": 1,
+    "heading": "Outstanding Indebtedness and Commercial Paper Program",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 163.4,
+      "x1": 587.0,
+      "y1": 218.7
+    },
+    "rows": 5,
+    "columns": 4,
+    "data": [
+      [
+        "Due in one to five years",
+        "",
+        "$",
+        "3,750"
+      ],
+      [
+        "Due in five to ten years",
+        "",
+        "1,250",
+        ""
+      ],
+      [
+        "Due in greater than ten years",
+        "",
+        "3,500",
+        ""
+      ],
+      [
+        "Unamortized debt discount and issuance costs",
+        "",
+        "(36)",
+        ""
+      ],
+      [
+        "Net long-term carrying amount",
+        "",
+        "$",
+        "8,464"
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 36,
+    "table_index": 1,
+    "heading": "Purchased Average Price Paid Program Program",
+    "coordinates": {
+      "x0": 18.2,
+      "y0": 545.2,
+      "x1": 593.3,
+      "y1": 590.6
+    },
+    "rows": 4,
+    "columns": 11,
+    "data": [
+      [
+        "January 27, 2025 - February 23, 2025",
+        "",
+        "28.6",
+        "",
+        "$",
+        "128.65",
+        "",
+        "28.6",
+        "",
+        "$",
+        "35.0"
+      ],
+      [
+        "February 24, 2025 - March 23, 2025",
+        "",
+        "28.5",
+        "",
+        "$",
+        "118.63",
+        "",
+        "28.5",
+        "",
+        "$",
+        "31.6"
+      ],
+      [
+        "March 24, 2025 - April 27, 2025",
+        "",
+        "69.1",
+        "",
+        "$",
+        "106.27",
+        "",
+        "69.1",
+        "",
+        "$",
+        "24.3"
+      ],
+      [
+        "Total",
+        "",
+        "126.2",
+        "",
+        "",
+        "",
+        "",
+        "126.2",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "company": "NVDA",
+    "report": "b6df1c5c-5cb6-4a41-9d28-dd1bcd34cc26",
+    "period": "2025",
+    "page": 37,
+    "table_index": 1,
+    "heading": "Common Stock to be",
+    "coordinates": {
+      "x0": 18.7,
+      "y0": 357.5,
+      "x1": 593.5,
+      "y1": 406.4
+    },
+    "rows": 3,
+    "columns": 11,
+    "data": [
+      [
+        "Colette M. Kress",
+        "",
+        "Executive Vice President and\nChief Financial Officer",
+        "",
+        "Adoption",
+        "",
+        "March 4, 2025",
+        "",
+        "500,000",
+        "",
+        "March 24, 2026"
+      ],
+      [
+        "A. Brooke Seawell",
+        "",
+        "Director",
+        "",
+        "Adoption",
+        "",
+        "March 19, 2025",
+        "",
+        "1,153,049*",
+        "",
+        "July 31, 2025"
+      ],
+      [
+        "Jen-Hsun Huang",
+        "",
+        "President, Chief Executive Officer\nand Director",
+        "",
+        "Adoption",
+        "",
+        "March 20, 2025",
+        "",
+        "6,000,000",
+        "",
+        "December 31, 2025"
+      ]
+    ]
+  }
+]
